@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://shinjigolfguts-cmd.github.io/guts-base/sitemap.xml

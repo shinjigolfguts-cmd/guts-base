@@ -21,11 +21,12 @@ const catalogData = [
     "imageSource": "https://d-sports-online.dunlop.co.jp/client_info/DUNLOP_B2C/itemimage/10369799/GGG-C002.jpg",
     "imageLabel": "公式商品写真",
     "specs": {
-      "掲載仕様": "グローブ GGG-C002"
+      "掲載仕様": "グローブ GGG-C002",
+      "選択時の確認": "合成皮革、21〜26cmの6サイズ。全天候型。"
     },
     "recommendationRank": 1,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "8759d829d7b39d44dce47b4afcc16b1d95ce14e6e3eb65ceeab062964674045d",
     "audience": "men",
     "audienceNote": "メンズの掲載仕様。サイズや適性には個人差があります。",
@@ -33,6 +34,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 1,
       "women": null
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -48,7 +54,7 @@ const catalogData = [
     "unit": "1足",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月22日確認の公式表示。仕様・色・サイズで異なる場合があります。",
+    "priceNote": "2026年10月26日確認の公式税込表示価格・送料別。サイズ別の在庫は未確認。",
     "related": false,
     "note": "適性や使用感には個人差があります。試打・試着と公式情報で最終確認してください。",
     "for": "普段着にも合わせやすい見た目で、ゴルフ用の靴を選びたい人へ。",
@@ -57,11 +63,12 @@ const catalogData = [
     "imageSource": "https://images.asics.com/is/image/asics/1111A260_103_SB_FR_GLB?%24sfcc-product%24=",
     "imageLabel": "公式商品写真",
     "specs": {
-      "掲載仕様": "JAPAN S GOLF（White/Blueberry）"
+      "掲載仕様": "JAPAN S GOLF（White/Blueberry）",
+      "選択時の確認": "STANDARD幅。人工皮革アッパー・ゴム底。別売中敷1173A029に適合。"
     },
     "recommendationRank": 2,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "dedccc521b018a3ddb07ada08da3658ba1f56498f342befe971b9a6679f04ad2",
     "audience": "men",
     "audienceNote": "メンズの掲載仕様。サイズや適性には個人差があります。",
@@ -69,6 +76,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 2,
       "women": null
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -89,7 +101,8 @@ const catalogData = [
     "note": "出典は2024年11月8日発表の2025年モデル情報です。現行の在庫・販売価格は未確認です。",
     "for": "メーカーはソフトな打感とアプローチスピンを特徴として紹介。",
     "specs": {
-      "モデル年": "2025"
+      "モデル年": "2025",
+      "価格区分": "メーカー発表はオープン価格。現在の販売価格・在庫は販売店で確認"
     },
     "image": "assets/products/1005-verified.jpg",
     "imageSource": "https://d-sports-online.dunlop.co.jp/client_info/DUNLOP_B2C/itemimage/10360217/ZSTAR9_white.jpg",
@@ -97,7 +110,7 @@ const catalogData = [
     "recommendationReason": "柔らかめの打感とアプローチの感触を重視する人へ。",
     "recommendationRank": 3,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "438d925a33383bc2613af4b6cfc8b7fa3b89c27de2e4e6412edf8fdff441f847",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -105,6 +118,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 4,
       "women": 6
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -116,11 +134,11 @@ const catalogData = [
     "checked": "2026-10-22",
     "fact": "MP1400カーボンシャフトを装着するゼクシオ14。弾道調整機能QTSを搭載。",
     "check": "14+とは別モデル。軽さが自分に合うか、打点と球の高さを確認",
-    "price": null,
-    "unit": "",
+    "price": 101200,
+    "unit": "1本",
     "area": "",
     "purpose": "はじめやすさ",
-    "priceNote": "価格・販売状況は公式サイトで確認",
+    "priceNote": "公式税込価格（掲載シャフト仕様）。特注・選択条件は公式で確認",
     "related": false,
     "note": "適性や使用感には個人差があります。試打・試着と公式情報で最終確認してください。",
     "for": "振りやすさを優先して、シャフトの硬さや重さを試したい人へ。",
@@ -129,11 +147,14 @@ const catalogData = [
     "imageSource": "https://d-sports-online.dunlop.co.jp/client_info/DUNLOP_B2C/itemimage/10373246/XXIO14_w_01_main_2.jpg",
     "imageLabel": "公式商品写真",
     "specs": {
-      "掲載仕様": "ゼクシオ 14 ドライバー（MP1400）"
+      "掲載仕様": "ゼクシオ 14 ドライバー（MP1400）",
+      "公式税込価格": "101,200円（MP1400仕様）。特注条件・納期は選択仕様ごとに確認",
+      "付属": "ヘッドカバー付き。トルクレンチ別売り",
+      "標準仕様例": "R：クラブ重量281g、長さ46インチ（60度法）"
     },
     "recommendationRank": 4,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "cd8a11b2c7b41ad1dd966e51863cbc0cad53d9f4ee8c140b87105266d0985f22",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -141,6 +162,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 5,
       "women": 11
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -149,17 +175,17 @@ const catalogData = [
     "name": "【小祝さくらプロ監修】接触冷感ハーフジップ半袖シャツ",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013130/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【小祝さくらプロ監修】接触冷感ハーフジップ半袖シャツ。掲載カラー：サックス（SA00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 5500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "汗ばむ日の半袖を探す人へ。接触冷感素材を使った、小祝さくらプロ監修のハーフジップ。",
     "image": "assets/products/2000.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM013130_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -167,11 +193,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG5FHSD2M",
       "カラー": "サックス（SA00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "汗ばむ日の半袖を探す人へ。接触冷感素材を使った、小祝さくらプロ監修のハーフジップ。",
     "recommendationRank": 5,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013130/",
@@ -182,9 +209,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FHSD2M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "badf7ab8a8d2d5d933c2a4660d310d65846f1a379d9eba5b0d9cadf615fc08dc",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013130/"
+    },
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。"
   },
   {
     "id": 1027,
@@ -206,7 +239,12 @@ const catalogData = [
     "specs": {
       "距離": "250ヤード",
       "打席数": "300打席",
-      "駐車場": "400台"
+      "駐車場": "400台",
+      "アクセス": "葛西臨海公園駅から徒歩15分",
+      "設備": "全打席トップトレーサー・レンジ。バンカー2打席、パター練習場あり",
+      "一般球貸し": "1F平日21円／土日祝26円（1球・税込）。2F/3Fは別単価",
+      "追加費用": "打席550円。19:00〜翌4:30はナイター330円追加（税込）",
+      "打ち放題": "3階限定90分。ビジター平日日中3,800円（税込）。時間帯・曜日で異なる"
     },
     "image": "assets/products/1027.jpg",
     "imageSource": "https://www.lottekasaigolf.com/lkg_cms/wp-content/themes/lkg/img/second/facilities/img_seats_2.jpg?v=240208",
@@ -214,7 +252,7 @@ const catalogData = [
     "recommendationReason": "江戸川区周辺で屋外の練習環境を探している人へ。",
     "recommendationRank": 6,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "e6a92d141862df548f1b2cff986231ffbdcf2efb5225c24bb1376b6578343c61",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -222,7 +260,15 @@ const catalogData = [
     "recommendationRanks": {
       "men": 7,
       "women": 7
-    }
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致／公式料金表の一般/会員・球貸し/時間貸し条件を確認",
+      "complete": false
+    },
+    "additionalSources": [
+      "https://www.lottekasaigolf.com/info/"
+    ]
   },
   {
     "id": 1014,
@@ -244,11 +290,14 @@ const catalogData = [
     "image": "assets/products/1014.jpg",
     "imageSource": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/main_visual/159/r64e6aca9.jpg",
     "imageLabel": "公式施設写真",
-    "specs": {},
-    "recommendationReason": "千葉でコースを探し、交通手段や料金を比較したい人へ。",
+    "specs": {
+      "コースの特徴": "東京湾を見渡す丘陵コース",
+      "所在地": "千葉県富津市竹岡4277-2"
+    },
+    "recommendationReason": "東京湾を望む景観を重視する人へ。丘陵コースの特徴と移動時間、予約日の料金を合わせて比較できます。",
     "recommendationRank": 7,
-    "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "recommendationReviewed": "2026-10-27",
+    "imageVerified": "2026-10-27",
     "imageSha256": "b0168fa2929a41dabe4bcf32a18be24359c6a425811313d8c9187f343bace39f",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -256,6 +305,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 8,
       "women": 8
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致",
+      "complete": false
     }
   },
   {
@@ -284,10 +338,10 @@ const catalogData = [
       "公式表示料金": "8,000円（税の扱い・適用条件は予約時に確認）",
       "貸出": "シューズ・グローブ・クラブ無料"
     },
-    "recommendationReason": "スイング分析と体験レッスンから始めたい人へ。自社掲載・スクール先頭に固定。",
+    "recommendationReason": "スイング分析と体験レッスンから始めたい人へ。",
     "recommendationRank": 8,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "819fff7e3007df81d4b6dbbde6abd8501d97cc2d190abbcf65a7cdda8aabc4cd",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -296,7 +350,12 @@ const catalogData = [
       "men": 9,
       "women": 9
     },
-    "pinnedSchool": true
+    "pinnedSchool": true,
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式の初回内容・60分・表示8,000円・無料貸出と施設写真を再確認。税込総額と予約条件は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1020,
@@ -318,11 +377,14 @@ const catalogData = [
     "image": "assets/products/1020.png",
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-master/default/dw58499bc5/TB26SX4-124_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
-    "specs": {},
+    "specs": {
+      "掲載色": "ホワイト／グレー／ネイビー（TB26SX4A-124）",
+      "購入時の確認": "色ごとの在庫と収納量を確認。掲載画像は公式の同色モデル"
+    },
     "recommendationReason": "バッグを持って移動する場面と収納量を比べたい人へ。",
     "recommendationRank": 9,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "3a8f23f28933200838bce1c4f9cb4f6b28d775dd795520b6c0860d1b66a4d533",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -330,6 +392,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 10,
       "women": 10
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -389,12 +456,13 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dwd9f36fdd/FJ_57223_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
     "specs": {
-      "ソール": "スパイク"
+      "ソール": "スパイク",
+      "選択時の確認": "ホワイト/ネイビーはW 24.5〜29cm、XW 24.5〜28cm。鋲はパルサーLP（FTS3.0）。"
     },
     "recommendationReason": "ダイヤル式の締め具合を試して選びたい人へ。",
     "recommendationRank": 11,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "b930f7a689a5394309fb3d1c5bb76d02e5c2368d2933c1da8c32aaa15675b1da",
     "audience": "men",
     "audienceNote": "メンズの掲載仕様。サイズや適性には個人差があります。",
@@ -402,6 +470,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 12,
       "women": null
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -462,11 +535,13 @@ const catalogData = [
     "imageSource": "https://cdn2.webdamdb.com/1280_2LAl0dHxPtI77kgr.png?1766430384",
     "imageLabel": "公式商品写真",
     "specs": {
-      "掲載仕様": "QUANTUM MAX ドライバー"
+      "掲載仕様": "QUANTUM MAX ドライバー",
+      "価格の条件": "掲載URLのSKU 4N279089J300は110,000円。シャフト違いには別価格あり",
+      "販売確認": "公式構造化データで対象SKUの在庫あり表示を確認。購入時に再確認"
     },
     "recommendationRank": 13,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "230d2c2b441e47c24ab5f99cee1a6ee7cc2e45e27b6d0a1f55126c38e9165d88",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -474,6 +549,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 14,
       "women": 13
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -482,17 +562,17 @@ const catalogData = [
     "name": "DEO SCREEN Vネックインナーシャツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007852/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "DEO SCREEN Vネックインナーシャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 11000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のアンダーウェアを探す方へ。サイズと肌触りを確認して選べます。",
+    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。 通気性はメッシュ部分、UVカットはメッシュ以外の部分に適用されます。",
+    "for": "重ね着の蒸れが気になる人へ。身頃のメッシュとVネックが特徴の薄手インナー。",
     "image": "assets/products/2003.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM007852_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -500,11 +580,12 @@ const catalogData = [
       "種類": "アンダーウェア",
       "品番": "DG6SUD00M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / O / XO"
+      "掲載サイズ": "M / L / O / XO",
+      "在庫のある掲載色サイズ": "L"
     },
-    "recommendationReason": "重ね着用のアンダーウェアを探す方へ。サイズと肌触りを確認して選べます。",
+    "recommendationReason": "重ね着の蒸れが気になる人へ。身頃のメッシュとVネックが特徴の薄手インナー。",
     "recommendationRank": 14,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007852/",
@@ -515,9 +596,15 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "DG6SUD00M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "8cee23727e9d4a3ec4e1fb6f499196ca7e4d3a23c3eb4f0cb7ed41fa18d2f967",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007852/"
+    }
   },
   {
     "id": 1016,
@@ -538,15 +625,19 @@ const catalogData = [
     "for": "東京都大田区。公式施設案内は130ヤード・60打席。",
     "specs": {
       "距離": "130ヤード",
-      "打席数": "60打席"
+      "打席数": "60打席",
+      "左打ち対応": "一般打席に左右兼用3打席・左専用2打席",
+      "個室": "2打席。A個室6名まで／B個室4名まで。左右兼用・冷暖房完備",
+      "一般球貸し例": "平日9〜20時：1F25円／2F23円（1球・税込）＋入場料400円",
+      "料金の条件": "早朝・深夜、階、曜日、会員区分で異なります。時間制は別料金"
     },
     "image": "assets/products/1016-verified.jpg",
     "imageSource": "https://www.ag-tokyobay.com/facility/img/facility_01.jpg",
     "imageLabel": "公式施設写真",
-    "recommendationReason": "大田区周辺で、屋外打席の練習場所を探している人へ。",
+    "recommendationReason": "左打ち対応や個室での練習を重視する人へ。一般打席と個室の設備・人数条件を比較できます。",
     "recommendationRank": 15,
-    "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "recommendationReviewed": "2026-10-27",
+    "imageVerified": "2026-10-27",
     "imageSha256": "34caf63836ba17acf417c1d6bbb8816517e647926b061b5c4deb3b96ff039b3c",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -554,6 +645,14 @@ const catalogData = [
     "recommendationRanks": {
       "men": 16,
       "women": 14
+    },
+    "additionalSources": [
+      "https://www.ag-tokyobay.com/guide/"
+    ],
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致／公式料金表の一般/会員・球貸し/時間貸し条件を確認",
+      "complete": false
     }
   },
   {
@@ -575,14 +674,17 @@ const catalogData = [
     "for": "千葉県大多喜町の27ホールのゴルフ場。",
     "image": "assets/products/1015.jpg",
     "imageSource": "https://chibaisumi.jp/images/club/main_photo.jpg",
-    "imageLabel": "公式施設写真",
+    "imageLabel": "公式イメージ写真",
     "specs": {
-      "ホール数": "27ホール"
+      "ホール数": "27ホール",
+      "練習設備": "220ヤード・21打席。アプローチ・バンカー練習場あり",
+      "貸クラブ例": "フルセット5,500円／ハーフ2,750円（税込）",
+      "貸シューズ": "1,100円（税込）"
     },
     "recommendationReason": "千葉のコースを、設備・アクセスとあわせて比較したい人へ。",
     "recommendationRank": 16,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "465dc6cde5131f818c661c049ab1d6c85b575d88d382c2a46e65ae1c72b35ff8",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -590,6 +692,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 17,
       "women": 15
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致／ボール接写のイメージ写真であり、コース全景写真ではないことを明確化",
+      "complete": false
     }
   },
   {
@@ -618,7 +725,9 @@ const catalogData = [
       "初回診断": "60分・11,000円（税込・割引条件は公式へ）",
       "プラン例": "10回110,000円（税込）・有効期限3か月",
       "営業": "平日10〜22時／土日祝8〜20時",
-      "駐車場": "専用なし"
+      "駐車場": "専用なし",
+      "追加費用": "入会金・会費・打席利用料・事務手数料なし。自主練習や屋外レッスン等の別サービスは別条件",
+      "自主練習例": "都度3,300円（税込）。レッスンパックとは別サービス"
     },
     "image": "assets/products/1026-verified.jpg",
     "imageSource": "https://golftec.golfdigest.co.jp/studio/images/ebisu/ebisu_01.jpg",
@@ -626,7 +735,7 @@ const catalogData = [
     "recommendationReason": "駅からの近さと個室マンツーマンを重視する人へ。30分単位で通う候補として優先しています。",
     "recommendationRank": 17,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "6f2747daf7653b4a57472b34543f1478ce69a628b4ce251ce956030d42e68a31",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -637,7 +746,12 @@ const catalogData = [
     },
     "additionalSources": [
       "https://golftec.golfdigest.co.jp/price/"
-    ]
+    ],
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "恵比寿店の設備・アクセス・通常営業時間・30分指導と、共通料金表の初回診断/10回プラン/追加費用を再確認。",
+      "complete": false
+    }
   },
   {
     "id": 1021,
@@ -659,11 +773,16 @@ const catalogData = [
     "image": "assets/products/1021-verified.jpg",
     "imageSource": "https://www.garmin.co.jp/m/jp/g/news/135223-14-0a782b0bd39ec8f6f8f29af722597bd0-2200x1450.jpg?width=1950&height=1350&quality=85%2C65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
     "imageLabel": "公式商品写真",
-    "specs": {},
+    "specs": {
+      "重量": "210g（メーカー仕様）",
+      "電源": "CR2電池。稼働目安約1年間、使用頻度による",
+      "防水等級": "IPX7",
+      "連携条件": "一部のグリーン距離表示には互換性のある機器とのペアリングが必要"
+    },
     "recommendationReason": "レーザー距離計と対応Garmin機器の連携を確認したい人へ。",
     "recommendationRank": 18,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "a94d59080d80e558eeebd918d762c7e69aaf07c6f27b5866f8429af032803fb5",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -671,6 +790,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 19,
       "women": 17
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -693,11 +817,13 @@ const catalogData = [
     "image": "assets/products/1011.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dwd1c9c85a/FJ_FGSS23WT_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
-    "specs": {},
+    "specs": {
+      "選択時の確認": "天然羊革。21〜26cm。左手用と右手用の選択を確認。"
+    },
     "recommendationReason": "グローブのフィット感を、異なるモデルで比較したい人へ。",
     "recommendationRank": 19,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "379ce4b00a54f081e281e80b1f6c2074f8cdfc0dd670c6214cd6c73ee4887b60",
     "audience": "men",
     "audienceNote": "メンズの掲載仕様。サイズや適性には個人差があります。",
@@ -705,6 +831,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 20,
       "women": null
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -728,12 +859,13 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw1e0a13f3/FJ_57064_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
     "specs": {
-      "ソール": "スパイクレス"
+      "ソール": "スパイクレス",
+      "選択時の確認": "掲載色はM 25〜28cm、W 24.5〜29・30cm、XW 24.5〜28cm。防水合成繊維。"
     },
     "recommendationReason": "ひもで締め具合を調整したい人の比較候補。",
     "recommendationRank": 20,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "00ddc6858b2eb42a539514e829b99df32ec6886f6571eeff7df5c40ac0d81e6d",
     "audience": "men",
     "audienceNote": "メンズの掲載仕様。サイズや適性には個人差があります。",
@@ -741,6 +873,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 21,
       "women": null
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -764,12 +901,13 @@ const catalogData = [
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-master/default/dw5f9812c2/005PV1T/T2029S_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
     "specs": {
-      "モデル年": "2025"
+      "モデル年": "2025",
+      "価格単位": "掲載価格7,370円は1ダース。カラー・プレーナンバー等で在庫が異なる"
     },
     "recommendationReason": "定番のウレタンカバーボールを、打感の比較基準にしたい人へ。",
     "recommendationRank": 21,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "dec716c0c717aadb33bd8072c9da78f659d5b49fca80767e8db1d1f657054234",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -777,6 +915,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 22,
       "women": 18
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -798,7 +941,10 @@ const catalogData = [
     "for": "カーボンクラウンを採用したG440シリーズのドライバー。",
     "specs": {
       "種類": "ドライバー",
-      "シリーズ": "G440"
+      "シリーズ": "G440",
+      "公式本体価格": "107,800円（税込）。販売店価格・選択シャフトの条件は別途確認",
+      "ロフト": "9°・10.5°・12°、左用あり",
+      "互換性の注意": "G400シリーズ以前のスリーブとは互換性なし"
     },
     "image": "assets/products/1022.jpg",
     "imageSource": "https://www.clubping.jp/product/assets/img/g440/dr/gallery/max_l_01.jpg",
@@ -806,7 +952,7 @@ const catalogData = [
     "recommendationReason": "打点のばらつきと球筋を、フィッティングで比較したい人へ。",
     "recommendationRank": 22,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "262526e7975eb495b858733f333bacbc8aff54043b4839b6c437c4ce0b17722e",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -814,6 +960,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 23,
       "women": 19
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -822,17 +973,17 @@ const catalogData = [
     "name": "総柄クルーネックセーター",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015478/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "総柄クルーネックセーター。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 22000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "for": "柄を主役にしたい人へ。星条旗をモチーフにしたウール混のクルーネックニット。手洗いできます。",
     "image": "assets/products/2034.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015478_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -840,11 +991,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "MG6FST39M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "柄を主役にしたい人へ。星条旗をモチーフにしたウール混のクルーネックニット。手洗いできます。",
     "recommendationRank": 23,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015478/",
@@ -855,9 +1007,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST39M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "c8c30f8b152c817aa7512a3d026f8e19fc59f7b76406372596cf4678343c79b1",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015478/"
+    }
   },
   {
     "id": 1017,
@@ -912,15 +1070,17 @@ const catalogData = [
     "for": "千葉県富津市田原にあるPGMのゴルフ場。",
     "specs": {
       "所在地": "千葉県富津市田原1021",
-      "運営": "PGM"
+      "運営": "PGM",
+      "コースの特徴": "OUTは方向性、INは距離を意識して比較できる設計",
+      "プレースタイル": "スループレーの案内あり。対象プラン・時間は予約時に確認"
     },
     "image": "assets/products/1028.jpg",
     "imageSource": "https://pgm-images.s3-ap-northeast-1.amazonaws.com/img/main_visual/150/r64e47e81.jpg",
     "imageLabel": "公式施設写真",
-    "recommendationReason": "千葉のゴルフ場を、料金と移動時間で比べたい人へ。",
+    "recommendationReason": "OUTとINで求められるショットの違いを楽しみたい人へ。スループレーの対象プランも比較できます。",
     "recommendationRank": 25,
-    "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "recommendationReviewed": "2026-10-27",
+    "imageVerified": "2026-10-27",
     "imageSha256": "cb50312a2734b361cc1c502eb244033abd17a8329e1bee9e482600a4a2c849d3",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -928,6 +1088,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 26,
       "women": 21
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致",
+      "complete": false
     }
   },
   {
@@ -956,12 +1121,15 @@ const catalogData = [
       "レディースクラス": "平日80分・定員9名／土日60分・定員6名",
       "月会費の例": "登録会員・在籍14,300円（税込）",
       "受講料の例": "スタンダード2,200円／レディース1,540円（税込・月会費別）",
-      "追加費用": "入会金・教材費・会員登録費等。夜間・土日は加算条件あり"
+      "追加費用": "スクール入会金5,500円・教材費3,300円（税込）。別途、登録会員または年度会員への入会が必要",
+      "受講料加算": "グループは平日18時以降・土日とも1回550円（税込）加算",
+      "受講料に含むもの": "レッスン時のボール・施設利用料",
+      "初回支払い": "入会月（週割）と翌月の月会費。受講料は受講時に支払い"
     },
     "recommendationReason": "屋外での練習やグループ指導を重視する人へ。レディースクラスの選択肢も確認できます。",
     "recommendationRank": 26,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "9b32bcb3583a6f4b02c72716beb650d2c4feb868f8a17aa8f84aa5417f0b5e52",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -972,7 +1140,12 @@ const catalogData = [
     },
     "additionalSources": [
       "https://www.ag-tokyobay.com/school/price/"
-    ]
+    ],
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "グループの時間/定員、税込月会費・受講料・初期費用・時間帯加算と写真を照合。",
+      "complete": false
+    }
   },
   {
     "id": 1010,
@@ -994,11 +1167,13 @@ const catalogData = [
     "image": "assets/products/1010.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw8034d1c1/FJ_FGPUWT_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
-    "specs": {},
+    "specs": {
+      "選択時の確認": "天然羊革。掲載ページは左手用21〜26cm。"
+    },
     "recommendationReason": "価格より、天然皮革のフィット感を重視する人へ。",
     "recommendationRank": 27,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "427de664b643acbc9e9db9c063bdd727560ced2770135e88f26ae68de75ae6bf",
     "audience": "men",
     "audienceNote": "メンズの掲載仕様。サイズや適性には個人差があります。",
@@ -1006,6 +1181,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 28,
       "women": null
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -1027,7 +1207,9 @@ const catalogData = [
     "for": "メーカーは風に強い飛びを特徴として紹介。",
     "specs": {
       "シリーズ": "TOUR B",
-      "モデル": "X"
+      "モデル": "X",
+      "構造": "ウレタンカバー・3ピース",
+      "価格区分": "オープン価格。販売店の税込一般価格を確認"
     },
     "image": "assets/products/1024.webp",
     "imageSource": "https://jp.golf.bridgestone/cms/product/ball/tourb_x_2026/x_img_wh_1000_1000.webp",
@@ -1035,7 +1217,7 @@ const catalogData = [
     "recommendationReason": "しっかりした打感を基準に、ボールを打ち比べたい人へ。",
     "recommendationRank": 28,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "62195f01cc2615e51d866f598f149ccb08191c9919bb55a3eb9e57daa0c7b825",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1043,6 +1225,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 29,
       "women": 23
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1102,12 +1289,13 @@ const catalogData = [
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-master/default/dwd3d6b855/005PVXT/T2049S_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
     "specs": {
-      "モデル年": "2025"
+      "モデル年": "2025",
+      "価格単位": "掲載価格7,370円は1ダース。カラー・プレーナンバー等で在庫が異なる"
     },
     "recommendationReason": "Pro V1と球の高さや打感を比較したい人へ。",
     "recommendationRank": 30,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "7ededd331374c147b5349fbaa093c377a5209d0b3cf699e54d78bc3611e4241f",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1115,6 +1303,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 31,
       "women": 25
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1172,7 +1365,9 @@ const catalogData = [
     "for": "ブリヂストンのTOUR Bシリーズに含まれるXSモデル。",
     "specs": {
       "シリーズ": "TOUR B",
-      "モデル": "XS"
+      "モデル": "XS",
+      "構造": "ウレタンカバー・3ピース",
+      "価格区分": "オープン価格。販売店の税込一般価格を確認"
     },
     "image": "assets/products/1025.webp",
     "imageSource": "https://jp.golf.bridgestone/cms/product/ball/tourb_xs_2026/xs_img_wh_1000_1000.webp",
@@ -1180,7 +1375,7 @@ const catalogData = [
     "recommendationReason": "TOUR B Xとアプローチの感触を比較したい人へ。",
     "recommendationRank": 32,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "9bd164e488911b88273ccdf3f89f0e1aa0bdd01c2f6eb489377641b1baccb2d2",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1188,6 +1383,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 33,
       "women": 27
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1211,12 +1411,13 @@ const catalogData = [
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-clubs-master-JP/default/dw71b0260c/678C/678C_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
     "specs": {
-      "種類": "ドライバー"
+      "種類": "ドライバー",
+      "注文条件": "公式カスタム注文は納期目安約2週間。注文後キャンセル不可。仕様選択時に最新納期を確認"
     },
     "recommendationReason": "タイトリストのドライバーを、フィッティングで比較したい人へ。",
     "recommendationRank": 33,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "17abafdab2f267276794d51088ded4db314a0cda7ac449a27ab3e4bbd122e5d8",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1224,6 +1425,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 34,
       "women": 28
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1244,7 +1450,8 @@ const catalogData = [
     "note": "出典は2024年11月8日発表の2025年モデル情報です。現行の在庫・販売価格は未確認です。",
     "for": "メーカーはドライバーの飛距離性能を重視したモデルとして紹介。",
     "specs": {
-      "モデル年": "2025"
+      "モデル年": "2025",
+      "価格区分": "メーカー発表はオープン価格。現在の販売価格・在庫は販売店で確認"
     },
     "image": "assets/products/1006-verified.jpg",
     "imageSource": "https://d-sports-online.dunlop.co.jp/client_info/DUNLOP_B2C/itemimage/10360226/ZSTAR_XV9_white.jpg",
@@ -1252,7 +1459,7 @@ const catalogData = [
     "recommendationReason": "弾き感を重視し、Z-STARと打ち比べたい人へ。",
     "recommendationRank": 34,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "ff9b5ce96eaf240a74eb3b7e5987bf56d89eaab6a53efcd97b219c9ea8c0a823",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1260,6 +1467,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 35,
       "women": 29
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1283,12 +1495,14 @@ const catalogData = [
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-clubs-master-JP/default/dwc06d7e4c/560C/560C_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
     "specs": {
-      "種類": "アイアン"
+      "種類": "アイアン",
+      "形状": "T100よりやや大きめのヘッドを採用したフォージドアイアン",
+      "注文条件": "公式カスタム注文は納期目安約4週間、注文後キャンセル不可"
     },
     "recommendationReason": "アイアンの形状や打感を、試打して選びたい人へ。",
     "recommendationRank": 35,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "5b5307ede99703a8f551cacd15b728221da70aaf95d3a1333d20c25564e2841d",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1296,6 +1510,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 36,
       "women": 30
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1316,7 +1535,8 @@ const catalogData = [
     "note": "出典は2024年11月8日発表の2025年モデル情報です。現行の在庫・販売価格は未確認です。",
     "for": "メーカーはロング～ミドルアイアンのスピン性能を特徴として紹介。",
     "specs": {
-      "モデル年": "2025"
+      "モデル年": "2025",
+      "価格区分": "メーカー発表はオープン価格。現在の販売価格・在庫は販売店で確認"
     },
     "image": "assets/products/1007-verified.jpg",
     "imageSource": "https://d-sports-online.dunlop.co.jp/client_info/DUNLOP_B2C/itemimage/10360235/ZSTAR_DIA9_white.jpg",
@@ -1324,7 +1544,7 @@ const catalogData = [
     "recommendationReason": "アイアンのスピンとグリーン周りの感触を比べたい人へ。",
     "recommendationRank": 36,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "d055c6dc6125d30b3a6816b87de118da1391de7dcaca8e31696d3522bb1161d9",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1332,6 +1552,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 37,
       "women": 31
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1353,7 +1578,10 @@ const catalogData = [
     "for": "PING G440シリーズのフェアウェイウッド。",
     "specs": {
       "種類": "フェアウェイウッド",
-      "シリーズ": "G440"
+      "シリーズ": "G440",
+      "公式本体価格": "67,100円（税込）。選択シャフト・販売店の条件を確認",
+      "番手": "#3・#4・#5・#7・#9、左用あり",
+      "ロフト": "15°・17°・19°・21°・24°"
     },
     "image": "assets/products/1023.jpg",
     "imageSource": "https://www.clubping.jp/product/assets/img/g440/fw/gallery/max_l_01.jpg",
@@ -1361,7 +1589,7 @@ const catalogData = [
     "recommendationReason": "ドライバー以外の長いクラブを試したい人へ。",
     "recommendationRank": 37,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "056abcd7116958599694fdfe7278274b8863788a6cfbebda9a64b010ffa03771",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1369,6 +1597,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 38,
       "women": 32
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1392,12 +1625,14 @@ const catalogData = [
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-clubs-master-JP/default/dw6f34c1cf/862C/862C_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
     "specs": {
-      "種類": "ウェッジ"
+      "種類": "ウェッジ",
+      "選択項目": "ロフト・バウンス・グラインドを組み合わせて選択",
+      "注文条件": "公式カスタム注文は納期目安約4週間、注文後キャンセル不可"
     },
     "recommendationReason": "距離だけでなく、バウンスやソールの違いも比べたい人へ。",
     "recommendationRank": 38,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "4e8ab84ec2a0c536c9262227d45e50ddb9bf2e331582a2080dc05bf0ecb6b991",
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1405,6 +1640,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 39,
       "women": 33
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1416,11 +1656,11 @@ const catalogData = [
     "checked": "2026-10-22",
     "fact": "SPEEDER NX DST for XXIOを装着するレディスモデル。ホワイト仕様。",
     "check": "MP1400L装着モデルとは別仕様。重さ・長さ・ロフトを揃えて試打し、球の高さと散らばりを確認。",
-    "price": null,
+    "price": 101200,
     "unit": "1本",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "価格・販売状況は公式サイトで確認",
+    "priceNote": "公式税込価格（掲載シャフト仕様）。特注・選択条件は公式で確認",
     "related": false,
     "note": "適性や着用感には個人差があります。性別だけで適合を判断せず、試打・試着で確認してください。",
     "for": "レディスモデルの中でも、SPEEDERシャフトの振り心地を試したい人へ。",
@@ -1430,10 +1670,12 @@ const catalogData = [
     "image": "assets/products/1038-verified.jpg",
     "imageSource": "https://d-sports-online.dunlop.co.jp/client_info/DUNLOP_B2C/itemimage/10373410/XXIO14L_w_white_main_3_speeder.jpg",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "06f9dea9b6d20ccc6fe2c3d9421fb639644abac31314e4d172909293cdc3e9ef",
     "specs": {
-      "掲載仕様": "ゼクシオ 14 レディス ドライバー ホワイト（SPEEDER NX DST）"
+      "掲載仕様": "ゼクシオ 14 レディス ドライバー ホワイト（SPEEDER NX DST）",
+      "公式税込価格": "101,200円（ホワイト・SPEEDER NX DST for XXIO仕様）",
+      "注文条件": "特注仕様は受注生産。注文確定後のキャンセル・変更不可"
     },
     "audience": "women",
     "audienceNote": "公式の商品名・分類がレディース／ウィメンズのモデル。",
@@ -1441,6 +1683,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": null,
       "women": 3
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
     }
   },
   {
@@ -1456,7 +1703,7 @@ const catalogData = [
     "unit": "1足",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "2026年10月22日確認の公式表示。仕様・サイズで異なる場合があります。",
+    "priceNote": "2026年10月26日確認の公式税込表示価格・送料別。サイズ別の在庫は未確認。",
     "related": false,
     "note": "適性や着用感には個人差があります。性別だけで適合を判断せず、試打・試着で確認してください。",
     "for": "履き心地と足の収まりを重視して、ゴルフ用シューズを試着したい人へ。",
@@ -1466,10 +1713,11 @@ const catalogData = [
     "image": "assets/products/1039-verified.jpg",
     "imageSource": "https://images.asics.com/is/image/asics/1112A057_100_SL_LT_GLB?$sfcc-product$&wid=764&hei=573",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "8e8ddcd7648a4569c98dcee6e08d8eba4fca60abb2586ebae45b80f8507501e0",
     "specs": {
-      "掲載仕様": "GEL-KAYANO ACE 3 レディース（White/Orange Glow）"
+      "掲載仕様": "GEL-KAYANO ACE 3 レディース（White/Orange Glow）",
+      "選択時の確認": "STANDARD幅。防水基準は深さ4cm・2時間。履き口からの浸水は防げず、傷や経年で性能が低下する場合があります。"
     },
     "audience": "women",
     "audienceNote": "公式の商品名・分類がレディース／ウィメンズのモデル。",
@@ -1477,6 +1725,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": null,
       "women": 5
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -1502,10 +1755,11 @@ const catalogData = [
     "image": "assets/products/1040-verified.jpg",
     "imageSource": "https://images.asics.com/is/image/asics/1112A055_102_SL_LT_GLB?$sfcc-product$&wid=764&hei=573",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "4c490ee0b9fa663796b98039e5dd9cac9b8eccec9e395b46119ee9ed68f0b416",
     "specs": {
-      "掲載仕様": "JAPAN S GOLF レディース（White/Guava）"
+      "掲載仕様": "JAPAN S GOLF レディース（White/Guava）",
+      "選択時の確認": "STANDARD幅。人工皮革アッパー・ゴム底。取替式中敷。"
     },
     "audience": "women",
     "audienceNote": "公式の商品名・分類がレディース／ウィメンズのモデル。",
@@ -1513,6 +1767,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": null,
       "women": 2
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -1521,17 +1780,17 @@ const catalogData = [
     "name": "クルーネックメッシュアンダーシャツ（ホワイト（WH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013528/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "クルーネックメッシュアンダーシャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 5500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "重ね着用のインナーを探す人へ。フィット感と素材を確認して選べます。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 10月27日、公式ページにサイズ交換・返品不可の表示を確認。購入前にサイズと返品条件をご確認ください。",
+    "for": "薄手のインナーを重ねたい人へ。身頃上部のメッシュとクルーネックが特徴。返品・交換条件を要確認。",
     "image": "assets/products/2120.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW013528_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -1540,11 +1799,12 @@ const catalogData = [
       "メーカー品番": "LG6SUD01L",
       "掲載商品コード": "LE1872EW013528",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL"
     },
-    "recommendationReason": "重ね着用のインナーを探す人へ。フィット感と素材を確認して選べます。",
+    "recommendationReason": "薄手のインナーを重ねたい人へ。身頃上部のメッシュとクルーネックが特徴。返品・交換条件を要確認。",
     "recommendationRank": 42,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "bdd359114a6f5ee973681e2083912c07bb0684c2cf8d01860f6ea3f09025c3d9",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -1556,8 +1816,14 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "LG6SUD01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013528/"
+    },
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。"
   },
   {
     "id": 1042,
@@ -1568,11 +1834,11 @@ const catalogData = [
     "checked": "2026-10-22",
     "fact": "公式にレディス・ジュニア用サイズも展開する、薄手の全天候グローブ。",
     "check": "15〜26cmのサイズ展開。装着する手と購入可能なサイズを公式で確認。",
-    "price": null,
+    "price": 2200,
     "unit": "1枚",
     "area": "",
     "purpose": "はじめやすさ",
-    "priceNote": "価格・販売状況は公式サイトで確認",
+    "priceNote": "2026年10月27日の公式税込一般表示価格。クーポン・会員割引は未適用。掲載仕様の価格で、サイズ別在庫・送料は購入時に確認。",
     "related": false,
     "note": "適性や着用感には個人差があります。性別だけで適合を判断せず、試打・試着で確認してください。",
     "for": "小さいサイズも含めて、指の長さとフィット感から選びたい人へ。",
@@ -1582,10 +1848,11 @@ const catalogData = [
     "image": "assets/products/1042-verified.jpg",
     "imageSource": "https://d-sports-online.dunlop.co.jp/client_info/DUNLOP_B2C/itemimage/10317504/GGG-S028_back.jpg",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "29c4cb10518b8be17eb89732873595867f306e3635f58fd6177f79b9df41db8e",
     "specs": {
-      "掲載仕様": "グローブ GGG-S028（15〜26cm）"
+      "掲載仕様": "グローブ GGG-S028（15〜26cm）",
+      "選択時の確認": "15〜26cmの12サイズ。掌はポリエステル・複合繊維、甲は合成皮革。レディス・ジュニア用サイズも掲載。"
     },
     "audience": "shared",
     "audienceNote": "共通候補。サイズ・重さ・用途を確認して選べます。",
@@ -1593,6 +1860,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 3,
       "women": 1
+    },
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
     }
   },
   {
@@ -1619,13 +1891,16 @@ const catalogData = [
       "アクセス": "JR恵比寿駅から徒歩10分",
       "月会費例": "レッスン全日20,900円／デイ17,600円（税込）",
       "別途費用": "入会費22,000円・打席料55分550円（税込）",
-      "料金改定": "2026年11月1日から一部変更。申込前に公式の新料金表を確認",
-      "貸出": "クラブ・シューズ無料"
+      "貸出": "クラブ・シューズ無料",
+      "施設利用": "24時間営業。レッスン可能時間と、プラン別利用時間は異なります",
+      "24時間オプション": "月4,400円（税込）。対象プラン・利用時間は公式で確認",
+      "時間割変更": "2026年11月1日から新時間割。受講可能な曜日・時間を公式で確認",
+      "駐車場": "60分無料の案内あり。ただし無人営業時間は対象外"
     },
     "recommendationReason": "定額レッスンと自主練習を組み合わせたい人へ。恵比寿エリアで通う回数を増やしたい場合の候補です。",
     "recommendationRank": 44,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "a50463f4c67da630d1f21453dcd1c43fa872f1ec32173f70830619fb8d47bd8a",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できるスクールです。",
@@ -1634,7 +1909,16 @@ const catalogData = [
       "men": 40,
       "women": 34
     },
-    "for": "レッスン会員・レンジ会員を選択"
+    "for": "レッスン会員・レンジ会員を選択",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "月会費・入会費・打席料・24時間オプション・写真を照合。11月1日の案内は料金改定ではなく時間割変更と訂正。",
+      "complete": false
+    },
+    "additionalSources": [
+      "https://zengolf.jp/ebisu/price/",
+      "https://zengolf.jp/ebisu/newlesson/"
+    ]
   },
   {
     "id": 1044,
@@ -1661,12 +1945,14 @@ const catalogData = [
       "プラン例": "通常16回382,800円（税込）",
       "別途費用": "入会金55,000円（税込）",
       "営業": "7:00〜23:00（短縮の場合あり）",
-      "貸出": "道具・ウェア・シューズ無料。グローブは持参"
+      "貸出": "道具・ウェア・シューズ無料。グローブは持参",
+      "基本費用の合計例": "通常16回382,800円＋入会金55,000円＝437,800円（税込）。追加サービス等は別途確認",
+      "体験例": "60分3,300円（税込）。初回・非会員限定、支払い方法に条件あり"
     },
     "recommendationReason": "完全個室でマンツーマン指導を受けたい人へ。回数制プランの総額と通える頻度を確認して比較できます。",
     "recommendationRank": 45,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "ccfdfd941379c5ef86a33b29aac5814bb6adbc74071126d8de6cd537bb079c58",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できるスクールです。",
@@ -1675,7 +1961,12 @@ const catalogData = [
       "men": 41,
       "women": 35
     },
-    "for": "完全個室・マンツーマン"
+    "for": "完全個室・マンツーマン",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "店舗アクセス・個室指導・営業時間、通常16回と入会金の合計、初回体験条件を確認。写真は店舗共通の設備イメージとして再照合。",
+      "complete": false
+    }
   },
   {
     "id": 1045,
@@ -1702,12 +1993,14 @@ const catalogData = [
       "営業": "7:00〜23:00",
       "定休日": "年末年始（12月30日〜1月3日）",
       "料金": "契約期間・利用時間・支払総額を公式窓口で確認",
-      "設備": "複数打席・シミュレーター"
+      "設備": "複数打席・シミュレーター",
+      "通い放題の条件": "2か月から。オールタイムと平日デイタイム等を比較し、期間・利用可能時間・総額を確認",
+      "料金の注意": "月々の表示だけで判断せず、入会金・プラン総額・支払回数を確認"
     },
     "recommendationReason": "基礎から学びたい初心者へ。50分のセミパーソナル指導と、新宿で通いやすい営業時間を比較できます。",
     "recommendationRank": 46,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "72955819f597656c40ce1b0ea2f2823049e33295646bebc6aa2f68ff9b35b565",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できるスクールです。",
@@ -1716,7 +2009,15 @@ const catalogData = [
       "men": 42,
       "women": 36
     },
-    "for": "50分のセミパーソナルレッスン"
+    "for": "50分のセミパーソナルレッスン",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "店舗の50分セミパーソナル・7〜23時・年末年始休業・アクセス・写真と共通プラン説明を確認。総額の明確な店舗別表は未確認。",
+      "complete": false
+    },
+    "additionalSources": [
+      "https://chicken-golf.com/price/"
+    ]
   },
   {
     "id": 1046,
@@ -1737,13 +2038,14 @@ const catalogData = [
     "image": "assets/products/1046.png",
     "imageSource": "https://d2gdyivv6mfknv.flashedgecdn.net/1d8dd253-d475-4974-8259-b2e50105ceca/132604-60611-o_eCom.png?v=2&format=auto&width=768&quality=50",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "720b8b408222451c8a9abd28556ff3cd7bf88bb3cbbeae3279d7f919ea36de70",
     "specs": {
       "品番": "13260460611",
       "素材": "レザー・伸縮性ニット",
       "防水仕様": "GORE-TEX SURROUND",
-      "選び方": "甲・かかとのフィットを試着で確認"
+      "選び方": "甲・かかとのフィットを試着で確認",
+      "選択時の確認": "GORE-TEX SURROUND搭載。取り外して洗えるインソール。"
     },
     "recommendationReason": "防水仕様のレザーシューズを探す人へ。GORE-TEX SURROUND搭載モデルを、足幅や甲の収まりで比較できます。",
     "recommendationRank": 47,
@@ -1755,7 +2057,12 @@ const catalogData = [
       "men": 43,
       "women": null
     },
-    "for": "防水仕様のレザーシューズを探す人へ。GORE-TEX SURROUND搭載モデルを、足幅や甲の収まりで比較できます。"
+    "for": "防水仕様のレザーシューズを探す人へ。GORE-TEX SURROUND搭載モデルを、足幅や甲の収まりで比較できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1047,
@@ -1765,7 +2072,7 @@ const catalogData = [
     "source": "https://jp.ecco.com/product/ecco-golf-lt1-boa-women/132763/01007",
     "checked": "2026-10-22",
     "fact": "ダイヤルで締め具合を調整したい人へ。防水レザーとスパイクレス仕様を比較する候補です。",
-    "check": "掲載品番・サイズ・足幅・かかとの浮きを試着で確認",
+    "check": "メーカーは練習場のラバーマット・人工芝での使用が破損原因になると案内。練習場では別モデルを推奨しています。",
     "price": 44000,
     "unit": "1足",
     "area": "",
@@ -1776,13 +2083,15 @@ const catalogData = [
     "image": "assets/products/1047.png",
     "imageSource": "https://d2gdyivv6mfknv.flashedgecdn.net/934b2066-861d-4ed4-b9b8-b01a00fff65e/132763-01007-o_eCom.png?v=2&format=auto&width=768&quality=50",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "69d17ce2fa6bc463052859232548c4b10b6733c406b38903d645c3090e51fd3a",
     "specs": {
       "品番": "13276301007",
       "ソール": "スパイクレス",
       "調整": "BOAフィットシステム",
-      "仕様": "レザー・ウォータープルーフ"
+      "仕様": "レザー・ウォータープルーフ",
+      "選択時の確認": "BOA調整式。防水メンブレン、取り外し式インソール。",
+      "使用場所の注意": "メーカーは練習場のラバーマット・人工芝での使用が破損原因になると案内。練習場では別モデルを推奨しています。"
     },
     "recommendationReason": "ダイヤルで締め具合を調整したい人へ。防水レザーとスパイクレス仕様を比較する候補です。",
     "recommendationRank": 48,
@@ -1794,7 +2103,12 @@ const catalogData = [
       "men": null,
       "women": 37
     },
-    "for": "ダイヤルで締め具合を調整したい人へ。防水レザーとスパイクレス仕様を比較する候補です。"
+    "for": "ダイヤルで締め具合を調整したい人へ。防水レザーとスパイクレス仕様を比較する候補です。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1048,
@@ -1815,13 +2129,14 @@ const catalogData = [
     "image": "assets/products/1048.png",
     "imageSource": "https://d2gdyivv6mfknv.flashedgecdn.net/90121cb4-d780-4ed1-adf6-b29f0102de8f/115023-61593-o_eCom.png?v=2&format=auto&width=768&quality=50",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "04008aa25ce1ce8af6a80436c19711d165c7ac55c9c912e7ce7f4199556db880",
     "specs": {
       "品番": "11502361593",
       "素材": "テキスタイル・オープンメッシュ",
       "中敷": "取り外して洗えるOrtholiteインソール",
-      "注意": "この掲載モデルを防水モデルとして案内していません"
+      "注意": "この掲載モデルを防水モデルとして案内していません",
+      "選択時の確認": "掲載モデルはテキスタイル・オープンメッシュ仕様。取り外して洗えるインソール。"
     },
     "recommendationReason": "通気性を重視する人へ。オープンメッシュを採用したモデルで、暑い時期の候補として比較できます。",
     "recommendationRank": 49,
@@ -1833,7 +2148,12 @@ const catalogData = [
       "men": null,
       "women": 38
     },
-    "for": "通気性を重視する人へ。オープンメッシュを採用したモデルで、暑い時期の候補として比較できます。"
+    "for": "通気性を重視する人へ。オープンメッシュを採用したモデルで、暑い時期の候補として比較できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1049,
@@ -1854,13 +2174,14 @@ const catalogData = [
     "image": "assets/products/1049.jpg",
     "imageSource": "https://assets.adidas.com/images/w_500,f_auto,q_auto/bc649ebe66c844488512f65aa0034ca2_9366/25_-_Codechaos_Boa_25_IG8705_HM1.jpg",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "af4373e4a7852404accab4315cbd029fde306e69949ea1a105ef7a97776c6a6d",
     "specs": {
       "品番": "IG8705",
       "カラー": "Cloud White / Core Black / Collegiate Green",
       "調整": "BOA",
-      "掲載分類": "メンズ"
+      "掲載分類": "メンズ",
+      "選択時の確認": "掲載色はCloud White / Core Black / Collegiate Green。公式にサイズ交換・返品可能との表示あり。適用条件を購入前に確認。"
     },
     "recommendationReason": "BOAタイプを予算と合わせて比べたい人へ。掲載カラーのセール価格と、試着時のフィット感を確認してください。",
     "recommendationRank": 50,
@@ -1872,7 +2193,12 @@ const catalogData = [
       "men": 44,
       "women": null
     },
-    "for": "BOAタイプを予算と合わせて比べたい人へ。掲載カラーのセール価格と、試着時のフィット感を確認してください。"
+    "for": "BOAタイプを予算と合わせて比べたい人へ。掲載カラーのセール価格と、試着時のフィット感を確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1050,
@@ -1882,7 +2208,7 @@ const catalogData = [
     "source": "https://jp.ecco.com/product/ecco-womens-golf-biom-tour-shoe/132913/01007",
     "checked": "2026-10-22",
     "fact": "天然芝のコース用にスパイクモデルを選びたい人へ。人工芝・ラバーマットでの使用はメーカー注意事項を確認してください。",
-    "check": "掲載品番・サイズ・足幅・かかとの浮きを試着で確認",
+    "check": "メーカーは練習場のラバーマット・人工芝での使用が破損原因になると案内。練習場では別モデルを推奨しています。",
     "price": 33000,
     "unit": "1足",
     "area": "",
@@ -1893,13 +2219,14 @@ const catalogData = [
     "image": "assets/products/1050.png",
     "imageSource": "https://d2gdyivv6mfknv.flashedgecdn.net/e34988f8-f226-4be1-a0b9-b0a7011a6ecc/132913-01007-o_eCom.png?v=2&format=auto&width=768&quality=50",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "8e45d43fc2ca1388e2fb46ffe44d6be1ab68b216fd80f7f92da709855ebdf0c1",
     "specs": {
       "品番": "13291301007",
       "ソール": "スパイク",
       "仕様": "レザー・ウォータープルーフ",
-      "使用場所の注意": "公式では練習場のラバーマット・人工芝上での使用は破損の原因になると案内"
+      "使用場所の注意": "メーカーは練習場のラバーマット・人工芝での使用が破損原因になると案内。練習場では別モデルを推奨しています。",
+      "選択時の確認": "防水メンブレンを備えたレザーのスパイクモデル。"
     },
     "recommendationReason": "天然芝のコース用にスパイクモデルを選びたい人へ。人工芝・ラバーマットでの使用はメーカー注意事項を確認してください。",
     "recommendationRank": 51,
@@ -1911,7 +2238,12 @@ const catalogData = [
       "men": null,
       "women": 39
     },
-    "for": "天然芝のコース用にスパイクモデルを選びたい人へ。人工芝・ラバーマットでの使用はメーカー注意事項を確認してください。"
+    "for": "天然芝のコース用にスパイクモデルを選びたい人へ。人工芝・ラバーマットでの使用はメーカー注意事項を確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 2214,
@@ -1919,17 +2251,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "撥水 リラックス ショートパンツ (MENS)",
     "source": "https://mix.tokyo/products/0126238001?variant=44016719102017",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "軽快な動きと快適さを叶えるショートパンツ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 8470,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "for": "ゆったりした短パンを探す人へ。撥水素材と大きめのポケットを備えた一本。",
     "image": "assets/products/2214.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126238001-181_MAIN.jpg?v=1792076531&width=720",
     "imageLabel": "公式商品写真",
@@ -1939,10 +2271,10 @@ const catalogData = [
       "種類": "パンツ",
       "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
     },
-    "recommendationReason": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "recommendationReason": "ゆったりした短パンを探す人へ。撥水素材と大きめのポケットを備えた一本。",
     "recommendationRank": 52,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "25c1df48fd135d14e40082f5322241f110660bbbea7056a2979299995739c91f",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -1954,8 +2286,13 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "0126238001",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126238001?variant=44016719102017"
+    }
   },
   {
     "id": 2043,
@@ -1963,17 +2300,17 @@ const catalogData = [
     "name": "リバーシブルプルオーバーベスト",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001285/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "リバーシブルプルオーバーベスト。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 26400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "着回しを楽しみたい人へ。チェック柄のボアフリースとタフタを、両面で使えるリバーシブルベスト。",
     "image": "assets/products/2043.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001285_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -1981,11 +2318,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MU6FVE02M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "着回しを楽しみたい人へ。チェック柄のボアフリースとタフタを、両面で使えるリバーシブルベスト。",
     "recommendationRank": 53,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001285/",
@@ -1996,9 +2334,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MU6FVE02M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "8b57ad7f073298539402b082eb429e9ef473ec58218ef46ddb4ef584c846512c",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001285/"
+    }
   },
   {
     "id": 2205,
@@ -2006,17 +2350,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "ヘリテージ モックネック長袖シャツ",
     "source": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s01/FJ-F26-S01.html?dwvar_FJ-F26-S01_color=41797",
-    "checked": "2026-10-23",
-    "fact": "パフォーマンスゴルフシャツ",
+    "checked": "2026-10-26",
+    "fact": "メーカーは伸縮素材を使用したモックネック長袖シャツとして紹介。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 13200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "長袖でも首元をすっきり見せたい人へ。ストレッチ素材のモックネック。",
     "image": "assets/products/2205.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw672517d5/FJ_41797_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -2024,12 +2368,12 @@ const catalogData = [
       "品番": "FJ-F26-S01",
       "掲載色": "ホワイト/ウィンドワードブルー/ラベンダーオーラ",
       "種類": "トップス",
-      "在庫のある掲載色サイズ": "3XL / L / M / S / XL / 2XL"
+      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "長袖でも首元をすっきり見せたい人へ。ストレッチ素材のモックネック。",
     "recommendationRank": 54,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "2ac3f538783cc6ae3c79a9794d8d5eb1ca12dd6b4cc21a384409534c66491de9",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -2041,8 +2385,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "FJ-F26-S01",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s01/FJ-F26-S01.html?dwvar_FJ-F26-S01_color=41797"
+    }
   },
   {
     "id": 2008,
@@ -2050,17 +2399,17 @@ const catalogData = [
     "name": "【ストレッチフォーサー】ウエストアジャスター9分丈パンツ（武井壮着用）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012755/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【ストレッチフォーサー】ウエストアジャスター9分丈パンツ（武井壮着用）。掲載カラー：グレー（GY00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 6600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "腰回りを調整したい人へ。ウエストアジャスター付きの9分丈パンツ。購入可能サイズを確認してください。",
     "image": "assets/products/2008.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM012755_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2068,11 +2417,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "LG5FLP52M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96",
+      "在庫のある掲載色サイズ": "85"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "腰回りを調整したい人へ。ウエストアジャスター付きの9分丈パンツ。購入可能サイズを確認してください。",
     "recommendationRank": 55,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012755/",
@@ -2083,9 +2433,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "LG5FLP52M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "0010ec7210babcc344653fe72ee1b1632c96620f62eac4da4d557551554f8c9a",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012755/"
+    }
   },
   {
     "id": 2206,
@@ -2093,17 +2449,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "撥水 フルジップ スタンドブルゾン (MENS)",
     "source": "https://mix.tokyo/products/0126220001?variant=44187563262017",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "配色デザインがスポーティーなアクセントを添えるスタンドブルゾン。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 15400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "for": "軽い羽織りを探す人へ。撥水タフタとメッシュ裏地、上下から開くファスナーが特徴。",
     "image": "assets/products/2206.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126220001-010_MAIN.jpg?v=1785841358&width=720",
     "imageLabel": "公式商品写真",
@@ -2113,10 +2469,10 @@ const catalogData = [
       "種類": "アウター",
       "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "recommendationReason": "軽い羽織りを探す人へ。撥水タフタとメッシュ裏地、上下から開くファスナーが特徴。",
     "recommendationRank": 56,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "ac19d97afd5e62a6834bce4a43503de63b5f8095109547e3001e43236ccb641b",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -2128,8 +2484,13 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "0126220001",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126220001?variant=44187563262017"
+    }
   },
   {
     "id": 2044,
@@ -2137,17 +2498,17 @@ const catalogData = [
     "name": "星条旗飛び刺繍クルーネックセーター",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015687/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "星条旗飛び刺繍クルーネックセーター。掲載カラー：ブラウン（BW00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 25300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "for": "小さな柄のニットを探す人へ。星条旗の刺繍を散らしたウール混セーター。自宅で手洗いできます。",
     "image": "assets/products/2044.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015687_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2155,11 +2516,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "MG6FST32M",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "小さな柄のニットを探す人へ。星条旗の刺繍を散らしたウール混セーター。自宅で手洗いできます。",
     "recommendationRank": 57,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015687/",
@@ -2170,9 +2532,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST32M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "c60036acf4469e96e384dc75fbf296e75e7d793a36b50a9d4d4f6d3065fc81c8",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015687/"
+    }
   },
   {
     "id": 2001,
@@ -2180,17 +2548,17 @@ const catalogData = [
     "name": "Sunscreen NIR ハイネックアンダーウェア",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014212/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "Sunscreen NIR ハイネックアンダーウェア。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 9350,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のアンダーウェアを探す方へ。サイズと肌触りを確認して選べます。",
+    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。 10月27日、公式ページにサイズ交換・返品不可の表示を確認。購入前にサイズと返品条件をご確認ください。",
+    "for": "首元まで覆うインナーを探す人へ。ハイネックと伸縮性のある素材が特徴。",
     "image": "assets/products/2001.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM014212_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2198,11 +2566,12 @@ const catalogData = [
       "種類": "アンダーウェア",
       "品番": "MG6SUD31M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL"
     },
-    "recommendationReason": "重ね着用のアンダーウェアを探す方へ。サイズと肌触りを確認して選べます。",
+    "recommendationReason": "首元まで覆うインナーを探す人へ。ハイネックと伸縮性のある素材が特徴。",
     "recommendationRank": 58,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014212/",
@@ -2213,9 +2582,15 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "MG6SUD31M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "09e7b52c350efd86838dcc28175ecf64e144299b871375f24bb9ada0a6fd74ce",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014212/"
+    }
   },
   {
     "id": 2251,
@@ -2223,17 +2598,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "Essential Womens Solid ストレッチ鹿の子半袖シャツ",
     "source": "https://www.footjoy.jp/womengolf-apparelshirts/fjw-s26-bes01/FJW-S26-BES01.html?dwvar_FJW-S26-BES01_color=40625",
-    "checked": "2026-10-23",
-    "fact": "世界中のプロに実証された定番シャツ",
+    "checked": "2026-10-26",
+    "fact": "メーカーはストレッチ鹿の子素材とUVカット・吸汗速乾機能を紹介。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 12100,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "無地の半袖ポロを揃えたい人へ。伸縮性のある鹿の子素材で、手持ちのボトムスに合わせやすい一枚。",
     "image": "assets/products/2251.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw7d9eb5b8/FJ_40625_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -2243,10 +2618,10 @@ const catalogData = [
       "種類": "トップス",
       "在庫のある掲載色サイズ": "S / XL"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "無地の半袖ポロを揃えたい人へ。伸縮性のある鹿の子素材で、手持ちのボトムスに合わせやすい一枚。",
     "recommendationRank": 59,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "2bb46d305816a7630dcf56a7e82facbb86e7e6e417e727e8e1c60e048a5e9bb6",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -2258,8 +2633,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "FJW-S26-BES01",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/womengolf-apparelshirts/fjw-s26-bes01/FJW-S26-BES01.html?dwvar_FJW-S26-BES01_color=40625"
+    }
   },
   {
     "id": 2108,
@@ -2267,17 +2647,17 @@ const catalogData = [
     "name": "ストレッチドビーカルゼスカート（ネイビー（NV00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015373/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ストレッチドビーカルゼスカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 22000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "for": "台形スカートを探す人へ。ストレッチ素材と後ろウエストのゴムで、腰回りにゆとりを持たせた仕様。",
     "image": "assets/products/2108.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015373_5_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2286,11 +2666,12 @@ const catalogData = [
       "メーカー品番": "MG6FSK31L",
       "掲載商品コード": "M01871EW015373",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
+      "在庫のある掲載色サイズ": "7 / 9 / 11 / 13 / 15"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "台形スカートを探す人へ。ストレッチ素材と後ろウエストのゴムで、腰回りにゆとりを持たせた仕様。",
     "recommendationRank": 60,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "9ce0c426c11b1b97aae08fccad89082f9782429902bbb233e599857ff00e249c",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -2302,8 +2683,14 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "MG6FSK31L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015373/"
+    }
   },
   {
     "id": 2258,
@@ -2311,17 +2698,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "撥水 ストレートベーカーパンツ (WOMENS)",
     "source": "https://mix.tokyo/products/0126231502?variant=44270367834177",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "リラックスシルエットで快適なラウンドを叶えるベーカーパンツ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 14300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "for": "細すぎないロングパンツを探す人へ。撥水素材のストレート型で、股下は72cm。",
     "image": "assets/products/2258.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126231502-010_MAIN.jpg?v=1787396508&width=720",
     "imageLabel": "公式商品写真",
@@ -2331,10 +2718,10 @@ const catalogData = [
       "種類": "パンツ",
       "在庫のある掲載色サイズ": "00 / 0 / 1 / 2 / 3"
     },
-    "recommendationReason": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "recommendationReason": "細すぎないロングパンツを探す人へ。撥水素材のストレート型で、股下は72cm。",
     "recommendationRank": 61,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "63040e1d1a9855e4ac43c5c5a763e2a9a263601cf3b853acbf91c203ba68e962",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -2346,8 +2733,13 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "0126231502",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126231502?variant=44270367834177"
+    }
   },
   {
     "id": 2103,
@@ -2355,17 +2747,17 @@ const catalogData = [
     "name": "ニットハイブリッドハーフジップ半袖シャツ（ホワイト（WH00））",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008100/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ニットハイブリッドハーフジップ半袖シャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 25300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "for": "一枚で重ね着風に見せたい人へ。鹿の子とニットを組み合わせた半袖ハーフジップ。",
     "image": "assets/products/2103.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EW008100_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2374,11 +2766,12 @@ const catalogData = [
       "メーカー品番": "DG6SHS56L",
       "掲載商品コード": "DE2188EW008100",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / O"
+      "掲載サイズ": "S / M / L / O",
+      "在庫のある掲載色サイズ": "S / L / O"
     },
-    "recommendationReason": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "recommendationReason": "一枚で重ね着風に見せたい人へ。鹿の子とニットを組み合わせた半袖ハーフジップ。",
     "recommendationRank": 62,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "8456220a2d9289e5be55d58e04c4dd990f16e516fe0d6ab515a7931ab4c4d60c",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -2390,8 +2783,14 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "DG6SHS56L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008100/"
+    }
   },
   {
     "id": 2137,
@@ -2399,17 +2798,17 @@ const catalogData = [
     "name": "リバーシブルベスト（ホワイト（WH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013063/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "リバーシブルベスト",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 10010,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "for": "着回せるベストを探す人へ。布帛とニットの両面を使えるリバーシブル。掲載色の裏面はネイビー。",
     "image": "assets/products/2137.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW013063_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2418,11 +2817,12 @@ const catalogData = [
       "メーカー品番": "LG5FVE80L",
       "掲載商品コード": "LE1872EW013063",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / 3L"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "recommendationReason": "着回せるベストを探す人へ。布帛とニットの両面を使えるリバーシブル。掲載色の裏面はネイビー。",
     "recommendationRank": 63,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "c85bc447157285e6499556e921e378763eab1cda51cf2d544647f2f2a297fa3e",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -2434,8 +2834,14 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG5FVE80L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013063/"
+    }
   },
   {
     "id": 2105,
@@ -2443,17 +2849,17 @@ const catalogData = [
     "name": "はっ水ダンボールニットワンピース（ブラウン（BW00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015246/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "はっ水ダンボールニットワンピース",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 27500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "ワンピース型の着こなしを探す人へ。丈や重ね着の余裕を確認して選べます。",
+    "for": "ゆったりしたワンピースを探す人へ。伸縮性のある生地と4つのポケットを備えた長袖。",
     "image": "assets/products/2105.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015246_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2462,11 +2868,12 @@ const catalogData = [
       "メーカー品番": "MG6FOP32L",
       "掲載商品コード": "M01871EW015246",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M"
     },
-    "recommendationReason": "ワンピース型の着こなしを探す人へ。丈や重ね着の余裕を確認して選べます。",
+    "recommendationReason": "ゆったりしたワンピースを探す人へ。伸縮性のある生地と4つのポケットを備えた長袖。",
     "recommendationRank": 64,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "c6a92ff74333e44d7d9ea26ad39a07980fbbc0ef06b5bccd159bf5f78648bee8",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -2478,8 +2885,14 @@ const catalogData = [
     "apparelType": "dress",
     "modelCode": "MG6FOP32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015246/"
+    }
   },
   {
     "id": 2262,
@@ -2487,17 +2900,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "UV ハーフスリーブ モックネック プルオーバー (WOMENS)",
     "source": "https://mix.tokyo/products/0126266501?variant=44002731130945",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "印象的なフラワーデザインが目を惹くモックネックプルオーバー。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 6930,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "花柄をさりげなく取り入れたい人へ。半袖モックネックで、裾のひもでシルエットを調整できます。",
     "image": "assets/products/2262.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126266501-010_MAIN.jpg?v=1792076531&width=720",
     "imageLabel": "公式商品写真",
@@ -2507,10 +2920,10 @@ const catalogData = [
       "種類": "トップス",
       "在庫のある掲載色サイズ": "0 / 1 / 2 / 3"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "花柄をさりげなく取り入れたい人へ。半袖モックネックで、裾のひもでシルエットを調整できます。",
     "recommendationRank": 65,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "c6cdd549ab8220e0b785ef9ec8b06762e6c32651aa480393d4d1b581b8247366",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -2522,8 +2935,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "0126266501",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126266501?variant=44002731130945"
+    }
   },
   {
     "id": 2113,
@@ -2531,17 +2949,17 @@ const catalogData = [
     "name": "裏起毛レギンス【防風/保温】（ブラック（BK03））",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956DW007211/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "裏起毛レギンス【防風/保温】",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 15400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "重ね着用のインナーを探す人へ。フィット感と素材を確認して選べます。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 10月27日、公式ページにサイズ交換・返品不可の表示を確認。購入前にサイズと返品条件をご確認ください。",
+    "for": "冷える日の重ね着用レギンスを探す人へ。裏起毛と防風素材を採用。返品・交換条件の確認が必要です。",
     "image": "assets/products/2113.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LA/LA7956DW007211_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2550,11 +2968,12 @@ const catalogData = [
       "メーカー品番": "VG5FAZ11L",
       "掲載商品コード": "LA7956DW007211",
       "カラー": "ブラック（BK03）",
-      "掲載サイズ": "S / M / L"
+      "掲載サイズ": "S / M / L",
+      "在庫のある掲載色サイズ": "S / M"
     },
-    "recommendationReason": "重ね着用のインナーを探す人へ。フィット感と素材を確認して選べます。",
+    "recommendationReason": "冷える日の重ね着用レギンスを探す人へ。裏起毛と防風素材を採用。返品・交換条件の確認が必要です。",
     "recommendationRank": 66,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "e6db6408429ab37d0fc9fd976f2db8e0b2faf79e9612442174fc995118d591ae",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -2566,8 +2985,14 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "VG5FAZ11L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956DW007211/"
+    }
   },
   {
     "id": 2129,
@@ -2575,17 +3000,17 @@ const catalogData = [
     "name": "シアサッカープリーツスカート（ベージュ（BG00））",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EW001173/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "シアサッカープリーツスカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "for": "夏用のプリーツスカートを探す人へ。表面に凹凸があるメッシュサッカー素材を使用。",
     "image": "assets/products/2129.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EW001173_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -2594,11 +3019,12 @@ const catalogData = [
       "メーカー品番": "MU6SSK01L",
       "掲載商品コード": "AN2931EW001173",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "9 / 11 / 13"
+      "掲載サイズ": "9 / 11 / 13",
+      "在庫のある掲載色サイズ": "9 / 11 / 13"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "夏用のプリーツスカートを探す人へ。表面に凹凸があるメッシュサッカー素材を使用。",
     "recommendationRank": 67,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "3c9ba9f8f52be6d774f30e6850e69e825d83a71a94aa7ada3a42f2c33d5edf46",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -2610,8 +3036,14 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "MU6SSK01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EW001173/"
+    }
   },
   {
     "id": 1140,
@@ -2625,7 +3057,8 @@ const catalogData = [
     "imageSha256": "4b745e8e028adf126f9e006e62ff638377df1527c35d25bc74a88f0e991f9e2c",
     "price": 48400.0,
     "specs": {
-      "掲載カラー": "ホワイト"
+      "掲載カラー": "ホワイト",
+      "選択時の確認": "防水フルグレインレザー。鋲はパルサーLP（FTS3.0）。"
     },
     "checked": "2026-10-22",
     "fact": "防水フルグレインレザーを使ったスパイクモデル。",
@@ -2640,14 +3073,19 @@ const catalogData = [
     "recommendationReason": "クラシックな革靴の見た目と、スパイク仕様を比較したい人へ。",
     "recommendationRank": 68,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/mengolf-shoesspiked/021dps/021DPS.html?dwvar_021DPS_color=54558&dwvar_021DPS_size=10&dwvar_021DPS_width=Wide",
     "recommendationRanks": {
       "men": 52,
       "women": null
     },
-    "for": "クラシックな革靴の見た目と、スパイク仕様を比較したい人へ。"
+    "for": "クラシックな革靴の見た目と、スパイク仕様を比較したい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1141,
@@ -2661,7 +3099,8 @@ const catalogData = [
     "imageSha256": "00f709c90ca80994b6455077e7d236fdee855b891bd2d2b01434d08cbd1876c0",
     "price": 26400.0,
     "specs": {
-      "掲載カラー": "ホワイト/ブルー"
+      "掲載カラー": "ホワイト/ブルー",
+      "選択時の確認": "掲載色はM 25〜28cm、W 24.5〜29・30cm、XW 24.5〜28cm。防水人工皮革。"
     },
     "checked": "2026-10-22",
     "fact": "靴ひもで調整するスパイクレスシューズ。",
@@ -2676,14 +3115,19 @@ const catalogData = [
     "recommendationReason": "ひもで甲の締め具合を細かく調整したい人へ。スパイクレス型の比較候補です。",
     "recommendationRank": 69,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/mengolf-shoesspikeless/017psl/017PSL.html?dwvar_017PSL_color=56949&dwvar_017PSL_size=7&dwvar_017PSL_width=Medium",
     "recommendationRanks": {
       "men": 53,
       "women": null
     },
-    "for": "ひもで甲の締め具合を細かく調整したい人へ。スパイクレス型の比較候補です。"
+    "for": "ひもで甲の締め具合を細かく調整したい人へ。スパイクレス型の比較候補です。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1142,
@@ -2697,7 +3141,8 @@ const catalogData = [
     "imageSha256": "2cca42387383fe6b611fa767554db2bce421d60b000512f8ebc5d2e0bcec774f",
     "price": 29700.0,
     "specs": {
-      "掲載カラー": "ホワイト/ブラック"
+      "掲載カラー": "ホワイト/ブラック",
+      "選択時の確認": "掲載色はM/XW 25〜28cm、W 25〜29cm。防水合成繊維、パルサーLP（FTS3.0）。"
     },
     "checked": "2026-10-22",
     "fact": "BOAで調整するメンズのスパイクシューズ。",
@@ -2712,14 +3157,19 @@ const catalogData = [
     "recommendationReason": "ダイヤル調整とスパイク仕様を組み合わせたい人へ。足幅やかかとの収まりを試着で確認できます。",
     "recommendationRank": 70,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/mengolf-shoesspiked/js25hfb/JS25HFB.html?dwvar_JS25HFB_color=55476&dwvar_JS25HFB_size=7.5&dwvar_JS25HFB_width=Medium",
     "recommendationRanks": {
       "men": 54,
       "women": null
     },
-    "for": "ダイヤル調整とスパイク仕様を組み合わせたい人へ。足幅やかかとの収まりを試着で確認できます。"
+    "for": "ダイヤル調整とスパイク仕様を組み合わせたい人へ。足幅やかかとの収まりを試着で確認できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1143,
@@ -2736,11 +3186,12 @@ const catalogData = [
       "品番": "13226451293",
       "防水": "ウォータープルーフ",
       "ソール": "スパイクレス",
-      "使用場所の注意": "公式ではラバーマット・人工芝での使用は破損の原因と案内。練習場では別モデルを推奨。"
+      "使用場所の注意": "メーカーは練習場のラバーマット・人工芝での使用が破損原因になると案内。練習場では別モデルを推奨しています。",
+      "選択時の確認": "防水メンブレン・取り外し式インソールを備えたレースモデル。"
     },
     "checked": "2026-10-22",
     "fact": "防水レザーを使用したスパイクレスモデル。",
-    "check": "サイズ・足幅・かかとの浮きを試着で確認",
+    "check": "メーカーは練習場のラバーマット・人工芝での使用が破損原因になると案内。練習場では別モデルを推奨しています。",
     "unit": "1足",
     "area": "",
     "purpose": "性能を比較",
@@ -2751,14 +3202,19 @@ const catalogData = [
     "recommendationReason": "防水レザーとひも式の調整を重視する人へ。コース用として比較し、練習場での使用条件も確認してください。",
     "recommendationRank": 71,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://jp.ecco.com/product/ecco-lt1-golf-lace-men/132264/51293",
     "recommendationRanks": {
       "men": 55,
       "women": null
     },
-    "for": "防水レザーとひも式の調整を重視する人へ。コース用として比較し、練習場での使用条件も確認してください。"
+    "for": "防水レザーとひも式の調整を重視する人へ。コース用として比較し、練習場での使用条件も確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1144,
@@ -2774,7 +3230,8 @@ const catalogData = [
     "specs": {
       "品番": "13801461109",
       "素材": "レザー・ニット",
-      "防水": "ECCO-TEX"
+      "防水": "ECCO-TEX",
+      "選択時の確認": "掲載モデルはECCO-TEX防水メンブレン仕様。取り外して洗えるインソール。"
     },
     "checked": "2026-10-22",
     "fact": "ECCO-TEX防水メンブレンを搭載したレザーモデル。",
@@ -2789,14 +3246,19 @@ const catalogData = [
     "recommendationReason": "防水仕様のレザーシューズを比較したい人へ。ニットの履き口と足の収まりを試着で確認できます。",
     "recommendationRank": 72,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://jp.ecco.com/product/ecco-golf-biom-h5-hybrid-men/138014/61109",
     "recommendationRanks": {
       "men": 56,
       "women": null
     },
-    "for": "防水仕様のレザーシューズを比較したい人へ。ニットの履き口と足の収まりを試着で確認できます。"
+    "for": "防水仕様のレザーシューズを比較したい人へ。ニットの履き口と足の収まりを試着で確認できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1145,
@@ -2810,7 +3272,8 @@ const catalogData = [
     "imageSha256": "7e740cfa3ce6c5906a7b01f73ca374b2a77407b05e701456f80ef000225a539f",
     "price": 25300.0,
     "specs": {
-      "掲載カラー": "グレー/ホワイト"
+      "掲載カラー": "グレー/ホワイト",
+      "選択時の確認": "掲載色グレー/ホワイトはWide幅。選択欄22.0〜25.0cm。"
     },
     "checked": "2026-10-22",
     "fact": "レディースのひも式スパイクレスモデル。",
@@ -2825,14 +3288,19 @@ const catalogData = [
     "recommendationReason": "ひもで締め具合を調整したい人へ。ダイヤル式との履き心地の違いを比べる候補です。",
     "recommendationRank": 73,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-shoesspikeless/005qtm/005QTM.html?dwvar_005QTM_color=97841&dwvar_005QTM_width=Wide",
     "recommendationRanks": {
       "men": null,
       "women": 49
     },
-    "for": "ひもで締め具合を調整したい人へ。ダイヤル式との履き心地の違いを比べる候補です。"
+    "for": "ひもで締め具合を調整したい人へ。ダイヤル式との履き心地の違いを比べる候補です。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1146,
@@ -2846,7 +3314,8 @@ const catalogData = [
     "imageSha256": "7948812dca8faa47efd571efcc5f04449775730c79912f42e8a6dc3a39d9fda8",
     "price": 39600.0,
     "specs": {
-      "掲載カラー": "ホワイト/ネイビー"
+      "掲載カラー": "ホワイト/ネイビー",
+      "選択時の確認": "防水フルグレインレザー。Wide幅、鋲はパルサーLP（FTS3.0）。"
     },
     "checked": "2026-10-22",
     "fact": "防水フルグレインレザーを使ったレディースのスパイクモデル。",
@@ -2861,14 +3330,19 @@ const catalogData = [
     "recommendationReason": "落ち着いたレザーデザインで、スパイク仕様を選びたい人へ。",
     "recommendationRank": 74,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-shoesspiked/023dps/023DPS.html?dwvar_023DPS_color=99090&dwvar_023DPS_width=Wide",
     "recommendationRanks": {
       "men": null,
       "women": 50
     },
-    "for": "落ち着いたレザーデザインで、スパイク仕様を選びたい人へ。"
+    "for": "落ち着いたレザーデザインで、スパイク仕様を選びたい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1147,
@@ -2882,7 +3356,8 @@ const catalogData = [
     "imageSha256": "b7d8f8f7796ad7826bd713bec852883bc9588c05f90f14b018762998b8085ccb",
     "price": 29700.0,
     "specs": {
-      "掲載カラー": "98240"
+      "掲載カラー": "98240",
+      "選択時の確認": "掲載色はM 23〜25cm、W 22.5〜25cm。防水人工皮革・BOA。選択欄と特徴欄のサイズ差は購入時確認。"
     },
     "checked": "2026-10-22",
     "fact": "BOAで調整するレディースのスパイクレスシューズ。",
@@ -2897,14 +3372,19 @@ const catalogData = [
     "recommendationReason": "着脱時のダイヤル操作を重視する人へ。甲の圧迫感と足幅を試着で確認してください。",
     "recommendationRank": 75,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-shoesspikeless/019psl/019PSL.html?dwvar_019PSL_color=98240&dwvar_019PSL_size=6&dwvar_019PSL_width=Medium",
     "recommendationRanks": {
       "men": null,
       "women": 51
     },
-    "for": "着脱時のダイヤル操作を重視する人へ。甲の圧迫感と足幅を試着で確認してください。"
+    "for": "着脱時のダイヤル操作を重視する人へ。甲の圧迫感と足幅を試着で確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1148,
@@ -2918,7 +3398,8 @@ const catalogData = [
     "imageSha256": "9be92faebbb5002dbf17054458a5fcf4d0f670d371876d00340c7c7864570a83",
     "price": 18700.0,
     "specs": {
-      "掲載カラー": "ホワイト/ホワイト"
+      "掲載カラー": "ホワイト/ホワイト",
+      "選択時の確認": "防水人工皮革のスパイクレス。掲載色はWide幅。"
     },
     "checked": "2026-10-22",
     "fact": "レディースのひも式スパイクレスゴルフシューズ。",
@@ -2933,14 +3414,19 @@ const catalogData = [
     "recommendationReason": "スポーティーな見た目のひも式モデルを選びたい人へ。サイズと足幅を比較できます。",
     "recommendationRank": 76,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-shoesspikeless/009fjf/009FJF.html?dwvar_009FJF_color=90798&dwvar_009FJF_width=Wide",
     "recommendationRanks": {
       "men": null,
       "women": 52
     },
-    "for": "スポーティーな見た目のひも式モデルを選びたい人へ。サイズと足幅を比較できます。"
+    "for": "スポーティーな見た目のひも式モデルを選びたい人へ。サイズと足幅を比較できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1149,
@@ -2956,11 +3442,13 @@ const catalogData = [
     "specs": {
       "品番": "11070361037",
       "防水": "GORE-TEX SURROUND",
-      "ソール": "スパイクレス"
+      "ソール": "スパイクレス",
+      "選択時の確認": "GORE-TEX SURROUNDと通気孔を搭載したレザーのスパイクレス。",
+      "使用場所の注意": "メーカーは練習場のラバーマット・人工芝での使用が破損原因になると案内。練習場では別モデルを推奨しています。"
     },
     "checked": "2026-10-22",
     "fact": "GORE-TEX SURROUND搭載のレディース・スパイクレスモデル。",
-    "check": "サイズ・足幅・かかとの浮きを試着で確認",
+    "check": "メーカーは練習場のラバーマット・人工芝での使用が破損原因になると案内。練習場では別モデルを推奨しています。",
     "unit": "1足",
     "area": "",
     "purpose": "デザイン",
@@ -2971,14 +3459,19 @@ const catalogData = [
     "recommendationReason": "スニーカー風のデザインと防水仕様を重視する人へ。ゴルフ用ソールのモデルとして比較できます。",
     "recommendationRank": 77,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://jp.ecco.com/product/ecco-golf-street-720-women/110703/61037",
     "recommendationRanks": {
       "men": null,
       "women": 53
     },
-    "for": "スニーカー風のデザインと防水仕様を重視する人へ。ゴルフ用ソールのモデルとして比較できます。"
+    "for": "スニーカー風のデザインと防水仕様を重視する人へ。ゴルフ用ソールのモデルとして比較できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1150,
@@ -2993,7 +3486,8 @@ const catalogData = [
     "price": 2200.0,
     "specs": {
       "掲載カラー": "ホワイト",
-      "着用する手": "左手用"
+      "着用する手": "左手用",
+      "選択時の確認": "掌はポリエステル（Ecoナノフロント）、甲は合成皮革。21〜26cm。右手用はホワイトのみ。"
     },
     "checked": "2026-10-22",
     "fact": "ナノフロントを使用したメンズグローブ。",
@@ -3008,14 +3502,19 @@ const catalogData = [
     "recommendationReason": "汗や雨への対応を比較したい人へ。薄さと握ったときの感触を試着で確かめてください。",
     "recommendationRank": 78,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/mengolf-gloves/fgnt24/FGNT24.html?dwvar_FGNT24_color=FGNT24WT&dwvar_FGNT24_hand=Reg%20Lef&dwvar_FGNT24_size=21",
     "recommendationRanks": {
       "men": 57,
       "women": null
     },
-    "for": "汗や雨への対応を比較したい人へ。薄さと握ったときの感触を試着で確かめてください。"
+    "for": "汗や雨への対応を比較したい人へ。薄さと握ったときの感触を試着で確かめてください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1151,
@@ -3030,7 +3529,8 @@ const catalogData = [
     "price": 4620.0,
     "specs": {
       "掲載カラー": "ブラック/グレー",
-      "着用する手": "両手用"
+      "着用する手": "両手用",
+      "選択時の確認": "両手用。S 21〜22cm、M 23〜24cm、L 25〜26cm。掌は人工皮革、甲はフリース。"
     },
     "checked": "2026-10-22",
     "fact": "寒い時期向けのメンズ両手用グローブ。",
@@ -3045,14 +3545,19 @@ const catalogData = [
     "recommendationReason": "冬のラウンドで両手を覆いたい人へ。通常の片手用との厚みの違いを確認してください。",
     "recommendationRank": 79,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/mengolf-gloves/fgwi26/FGWI26.html?dwvar_FGWI26_color=FGWI26BG&dwvar_FGWI26_hand=Reg%20Par&dwvar_FGWI26_size=L",
     "recommendationRanks": {
       "men": 58,
       "women": null
     },
-    "for": "冬のラウンドで両手を覆いたい人へ。通常の片手用との厚みの違いを確認してください。"
+    "for": "冬のラウンドで両手を覆いたい人へ。通常の片手用との厚みの違いを確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1152,
@@ -3067,7 +3572,8 @@ const catalogData = [
     "price": 2200.0,
     "specs": {
       "掲載カラー": "ブラック",
-      "着用する手": "左手用"
+      "着用する手": "左手用",
+      "選択時の確認": "掲載価格は左手用1枚。両手用FGRG26PRBKとは区別して確認。"
     },
     "checked": "2026-10-22",
     "fact": "雨天時の使用を想定したメンズグローブ。",
@@ -3082,14 +3588,19 @@ const catalogData = [
     "recommendationReason": "雨の日の予備グローブを用意したい人へ。普段用とは用途を分けて比較できます。",
     "recommendationRank": 80,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/mengolf-gloves/fgrg26/FGRG26.html?dwvar_FGRG26_color=FGRG26BK&dwvar_FGRG26_hand=Reg%20Lef&dwvar_FGRG26_size=21",
     "recommendationRanks": {
       "men": 59,
       "women": null
     },
-    "for": "雨の日の予備グローブを用意したい人へ。普段用とは用途を分けて比較できます。"
+    "for": "雨の日の予備グローブを用意したい人へ。普段用とは用途を分けて比較できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1153,
@@ -3101,9 +3612,10 @@ const catalogData = [
     "imageSource": "https://cdn2.webdamdb.com/1280_QuOVZJi52x831QiP.png?1768474856",
     "image": "assets/products/1153.png",
     "imageSha256": "eb137504461bc3d4c5d6ef89cc6513bb89795d80f215ecf2fbf74afe867798c2",
-    "price": null,
+    "price": 2090,
     "specs": {
-      "掲載カラー": "掲載色"
+      "掲載カラー": "掲載色",
+      "選択時の確認": "左手用21〜26cm。掌は合成皮革。クーポン適用前の一般表示価格。"
     },
     "checked": "2026-10-22",
     "fact": "全天候向けのメンズグローブ。",
@@ -3111,21 +3623,26 @@ const catalogData = [
     "unit": "1枚",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "価格は公式サイトで確認してください。",
+    "priceNote": "2026年10月27日の公式税込一般表示価格。クーポン・会員割引は未適用。掲載仕様の価格で、サイズ別在庫・送料は購入時に確認。",
     "related": false,
     "note": "適性・履き心地・装着感には個人差があります。色・サイズ別の在庫と利用条件は公式サイトで確認してください。",
     "imageLabel": "公式商品写真",
     "recommendationReason": "雨や汗で濡れる場面を想定して選びたい人へ。薄さとフィット感を比較する候補です。",
     "recommendationRank": 81,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.callawaygolf.jp/accessories/mengloves/BP_011827.html",
     "recommendationRanks": {
       "men": 60,
       "women": null
     },
-    "for": "雨や汗で濡れる場面を想定して選びたい人へ。薄さとフィット感を比較する候補です。"
+    "for": "雨や汗で濡れる場面を想定して選びたい人へ。薄さとフィット感を比較する候補です。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1154,
@@ -3137,9 +3654,10 @@ const catalogData = [
     "imageSource": "https://cdn2.webdamdb.com/1280_EWkB8dKZVXQ12Urr.png?1737369579",
     "image": "assets/products/1154.png",
     "imageSha256": "46fea0040226b045cc83cf47a6d34981fb010491f9c1fc1bdee9adf1269a9dd7",
-    "price": null,
+    "price": 2970,
     "specs": {
-      "掲載カラー": "掲載色"
+      "掲載カラー": "掲載色",
+      "選択時の確認": "左手用21〜26cm。掌・甲は天然皮革。クーポン適用前の一般表示価格。"
     },
     "checked": "2026-10-22",
     "fact": "天然皮革を使用したメンズグローブ。",
@@ -3147,21 +3665,26 @@ const catalogData = [
     "unit": "1枚",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "価格は公式サイトで確認してください。",
+    "priceNote": "2026年10月27日の公式税込一般表示価格。クーポン・会員割引は未適用。掲載仕様の価格で、サイズ別在庫・送料は購入時に確認。",
     "related": false,
     "note": "適性・履き心地・装着感には個人差があります。色・サイズ別の在庫と利用条件は公式サイトで確認してください。",
     "imageLabel": "公式商品写真",
     "recommendationReason": "天然皮革の握り心地を重視する人へ。指先の余りと手のひらの密着感を確認してください。",
     "recommendationRank": 82,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のメンズ商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.callawaygolf.jp/accessories/mengloves/BP_010466.html",
     "recommendationRanks": {
       "men": 61,
       "women": null
     },
-    "for": "天然皮革の握り心地を重視する人へ。指先の余りと手のひらの密着感を確認してください。"
+    "for": "天然皮革の握り心地を重視する人へ。指先の余りと手のひらの密着感を確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1155,
@@ -3173,10 +3696,11 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dw9b313580/FJ_FGWSS25WT_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1155.png",
     "imageSha256": "3c56a4f5742fc665b84402b2b6b7454c069e28c91220407588956d4a2ba8b4be",
-    "price": 3630.0,
+    "price": 3630,
     "specs": {
       "掲載カラー": "ホワイト",
-      "着用する手": "左手用"
+      "着用する手": "左手用",
+      "選択時の確認": "左手用18〜21cm、天然羊革。"
     },
     "checked": "2026-10-22",
     "fact": "天然羊革を使用したレディースグローブ。",
@@ -3184,21 +3708,26 @@ const catalogData = [
     "unit": "1枚",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "2026年10月22日確認の公式掲載価格。色・サイズ・セールで変動する場合があります。",
+    "priceNote": "2026年10月26日確認の公式税込表示価格・送料別。サイズ別の在庫は未確認。",
     "related": false,
     "note": "適性・履き心地・装着感には個人差があります。色・サイズ別の在庫と利用条件は公式サイトで確認してください。",
     "imageLabel": "公式商品写真",
     "recommendationReason": "天然皮革の柔らかさや密着感を重視する人へ。合成皮革モデルと感触を比べられます。",
     "recommendationRank": 83,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-gloves/fgwss2/FGWSS2.html?dwvar_FGWSS2_color=FGWSS25WT&dwvar_FGWSS2_hand=Reg%20Lef&dwvar_FGWSS2_size=18",
     "recommendationRanks": {
       "men": null,
       "women": 54
     },
-    "for": "天然皮革の柔らかさや密着感を重視する人へ。合成皮革モデルと感触を比べられます。"
+    "for": "天然皮革の柔らかさや密着感を重視する人へ。合成皮革モデルと感触を比べられます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1156,
@@ -3213,7 +3742,8 @@ const catalogData = [
     "price": 1870.0,
     "specs": {
       "掲載カラー": "ホワイト/ブルー",
-      "着用する手": "左手用"
+      "着用する手": "左手用",
+      "選択時の確認": "掲載価格は左手用1枚。両手用の選択とは区別して確認。人工皮革。"
     },
     "checked": "2026-10-22",
     "fact": "人工皮革を使用したレディースグローブ。",
@@ -3228,14 +3758,19 @@ const catalogData = [
     "recommendationReason": "日常の練習とラウンド用に、人工皮革のフィット感を比較したい人へ。",
     "recommendationRank": 84,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-gloves/fgwfw26/FGWFW26.html?dwvar_FGWFW26_color=FGWFW26WB&dwvar_FGWFW26_hand=Reg%20Lef&dwvar_FGWFW26_size=18",
     "recommendationRanks": {
       "men": null,
       "women": 55
     },
-    "for": "日常の練習とラウンド用に、人工皮革のフィット感を比較したい人へ。"
+    "for": "日常の練習とラウンド用に、人工皮革のフィット感を比較したい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1157,
@@ -3250,7 +3785,8 @@ const catalogData = [
     "price": 4620.0,
     "specs": {
       "掲載カラー": "ブラック/グレー",
-      "着用する手": "両手用"
+      "着用する手": "両手用",
+      "選択時の確認": "両手用。S 18〜19cm、M 20〜21cm。掌は人工皮革、甲はフリース。"
     },
     "checked": "2026-10-22",
     "fact": "寒い時期向けのレディース両手用グローブ。",
@@ -3265,14 +3801,19 @@ const catalogData = [
     "recommendationReason": "冬に両手を覆ってプレーしたい人へ。保温用モデルの厚みと握りやすさを確認できます。",
     "recommendationRank": 85,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-gloves/fgwwi26/FGWWI26.html?dwvar_FGWWI26_color=FGWWI26BG&dwvar_FGWWI26_hand=Reg%20Par&dwvar_FGWWI26_size=M",
     "recommendationRanks": {
       "men": null,
       "women": 56
     },
-    "for": "冬に両手を覆ってプレーしたい人へ。保温用モデルの厚みと握りやすさを確認できます。"
+    "for": "冬に両手を覆ってプレーしたい人へ。保温用モデルの厚みと握りやすさを確認できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1158,
@@ -3287,7 +3828,8 @@ const catalogData = [
     "price": 2200.0,
     "specs": {
       "掲載カラー": "ホワイト",
-      "着用する手": "左手用"
+      "着用する手": "左手用",
+      "選択時の確認": "左手用18〜21cm。掌はポリエステル（ナノフロント）、甲は合成皮革。"
     },
     "checked": "2026-10-22",
     "fact": "ナノフロントを使用したレディースグローブ。",
@@ -3302,14 +3844,19 @@ const catalogData = [
     "recommendationReason": "汗や雨への対応を重視する人へ。手のひらの感触とサイズの合い方を比較してください。",
     "recommendationRank": 86,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-gloves/fgnl24/FGNL24.html?dwvar_FGNL24_color=FGNL24WT&dwvar_FGNL24_hand=Reg%20Lef&dwvar_FGNL24_size=18",
     "recommendationRanks": {
       "men": null,
       "women": 57
     },
-    "for": "汗や雨への対応を重視する人へ。手のひらの感触とサイズの合い方を比較してください。"
+    "for": "汗や雨への対応を重視する人へ。手のひらの感触とサイズの合い方を比較してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1159,
@@ -3324,7 +3871,8 @@ const catalogData = [
     "price": 1980.0,
     "specs": {
       "掲載カラー": "ホワイト/ベージュ",
-      "着用する手": "左手用"
+      "着用する手": "左手用",
+      "選択時の確認": "左手用18〜21cm。掌・甲は合成皮革、裾はテキスタイル。"
     },
     "checked": "2026-10-22",
     "fact": "チェック柄を取り入れたレディースグローブ。",
@@ -3339,14 +3887,19 @@ const catalogData = [
     "recommendationReason": "ウェアとの組み合わせも楽しみたい人へ。デザインと指の長さの合い方を確認できます。",
     "recommendationRank": 87,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.footjoy.jp/womengolf-gloves/fgle25/FGLE25.html?dwvar_FGLE25_color=FGLE25WB&dwvar_FGLE25_hand=Reg%20Lef&dwvar_FGLE25_size=18",
     "recommendationRanks": {
       "men": null,
       "women": 58
     },
-    "for": "ウェアとの組み合わせも楽しみたい人へ。デザインと指の長さの合い方を確認できます。"
+    "for": "ウェアとの組み合わせも楽しみたい人へ。デザインと指の長さの合い方を確認できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1160,
@@ -3358,9 +3911,10 @@ const catalogData = [
     "imageSource": "https://cdn2.webdamdb.com/1280_Qlk6y14Y7if92g4r.png?1737385473",
     "image": "assets/products/1160.png",
     "imageSha256": "13060271aee7be14692e7e99faf18c869b13a9af02f6401d103e139dc5808418",
-    "price": null,
+    "price": 3740,
     "specs": {
-      "掲載カラー": "掲載色"
+      "掲載カラー": "掲載色",
+      "選択時の確認": "両手用18〜21cm。掌にエンボス加工の合成皮革。クーポン適用前の一般表示価格。"
     },
     "checked": "2026-10-22",
     "fact": "合成皮革を使用したレディース両手用グローブ。",
@@ -3368,21 +3922,26 @@ const catalogData = [
     "unit": "1組",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "価格は公式サイトで確認してください。",
+    "priceNote": "2026年10月27日の公式税込一般表示価格。クーポン・会員割引は未適用。掲載仕様の価格で、サイズ別在庫・送料は購入時に確認。",
     "related": false,
     "note": "適性・履き心地・装着感には個人差があります。色・サイズ別の在庫と利用条件は公式サイトで確認してください。",
     "imageLabel": "公式商品写真",
     "recommendationReason": "両手用でシンプルなデザインを探す人へ。左右のサイズ感と握り心地を比較できます。",
     "recommendationRank": 88,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010476.html",
     "recommendationRanks": {
       "men": null,
       "women": 59
     },
-    "for": "両手用でシンプルなデザインを探す人へ。左右のサイズ感と握り心地を比較できます。"
+    "for": "両手用でシンプルなデザインを探す人へ。左右のサイズ感と握り心地を比較できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1161,
@@ -3394,9 +3953,10 @@ const catalogData = [
     "imageSource": "https://cdn2.webdamdb.com/1280_0O70dsmW0441Q1lp.png?1768480826",
     "image": "assets/products/1161.png",
     "imageSha256": "6d4ee0878b26b823d288b96631c76dd4c9b9f9a3343cf3cfe3e9e0c58875df6f",
-    "price": null,
+    "price": 3960,
     "specs": {
-      "掲載カラー": "掲載色"
+      "掲載カラー": "掲載色",
+      "選択時の確認": "両手用18〜21cm。吸水速乾・接触冷感・UPF50+の説明は甲側のニット生地が対象。"
     },
     "checked": "2026-10-22",
     "fact": "ベア柄を使ったレディース両手用グローブ。",
@@ -3404,21 +3964,26 @@ const catalogData = [
     "unit": "1組",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "価格は公式サイトで確認してください。",
+    "priceNote": "2026年10月27日の公式税込一般表示価格。クーポン・会員割引は未適用。掲載仕様の価格で、サイズ別在庫・送料は購入時に確認。",
     "related": false,
     "note": "適性・履き心地・装着感には個人差があります。色・サイズ別の在庫と利用条件は公式サイトで確認してください。",
     "imageLabel": "公式商品写真",
     "recommendationReason": "柄やアクセントを楽しみたい人へ。両手用の装着感と手のひらのフィットを確認してください。",
     "recommendationRank": 89,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.callawaygolf.jp/accessories/women/gloves/BP_011828.html",
     "recommendationRanks": {
       "men": null,
       "women": 60
     },
-    "for": "柄やアクセントを楽しみたい人へ。両手用の装着感と手のひらのフィットを確認してください。"
+    "for": "柄やアクセントを楽しみたい人へ。両手用の装着感と手のひらのフィットを確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1162,
@@ -3430,9 +3995,10 @@ const catalogData = [
     "imageSource": "https://cdn2.webdamdb.com/1280_IOAaw7tG7QP71ctc.png?1737510070",
     "image": "assets/products/1162.png",
     "imageSha256": "ceeec6d09b410221cdb6c5c16c751abda888fcff7804d1dd22764f2aef1c3f74",
-    "price": null,
+    "price": 3740,
     "specs": {
-      "掲載カラー": "掲載色"
+      "掲載カラー": "掲載色",
+      "選択時の確認": "指先カットの両手用。M 18〜19cm、L 20〜21cm。"
     },
     "checked": "2026-10-22",
     "fact": "指先を開けたレディース両手用グローブ。",
@@ -3440,21 +4006,26 @@ const catalogData = [
     "unit": "1組",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "価格は公式サイトで確認してください。",
+    "priceNote": "2026年10月27日の公式税込一般表示価格。クーポン・会員割引は未適用。掲載仕様の価格で、サイズ別在庫・送料は購入時に確認。",
     "related": false,
     "note": "適性・履き心地・装着感には個人差があります。色・サイズ別の在庫と利用条件は公式サイトで確認してください。",
     "imageLabel": "公式商品写真",
     "recommendationReason": "ネイルを出して使いたい人へ。指先まで覆うモデルとの違いを比較できます。",
     "recommendationRank": 90,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010478.html",
     "recommendationRanks": {
       "men": null,
       "women": 61
     },
-    "for": "ネイルを出して使いたい人へ。指先まで覆うモデルとの違いを比較できます。"
+    "for": "ネイルを出して使いたい人へ。指先まで覆うモデルとの違いを比較できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1163,
@@ -3466,9 +4037,10 @@ const catalogData = [
     "imageSource": "https://cdn2.webdamdb.com/1280_MzSO5n95MnP99sw0.png?1737513080",
     "image": "assets/products/1163.png",
     "imageSha256": "993b863589230686cc3ee798f5cce2d80872074a9b7e34b3e0382096af6e3525",
-    "price": null,
+    "price": 2860,
     "specs": {
-      "掲載カラー": "掲載色"
+      "掲載カラー": "掲載色",
+      "選択時の確認": "両手用18〜21cm。掌は合成皮革、甲は合成皮革/ナイロン。"
     },
     "checked": "2026-10-22",
     "fact": "レディースの両手用ゴルフグローブ。",
@@ -3476,21 +4048,26 @@ const catalogData = [
     "unit": "1組",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "価格は公式サイトで確認してください。",
+    "priceNote": "2026年10月27日の公式税込一般表示価格。クーポン・会員割引は未適用。掲載仕様の価格で、サイズ別在庫・送料は購入時に確認。",
     "related": false,
     "note": "適性・履き心地・装着感には個人差があります。色・サイズ別の在庫と利用条件は公式サイトで確認してください。",
     "imageLabel": "公式商品写真",
     "recommendationReason": "練習・ラウンド用の両手グローブを比較したい人へ。左右のフィット感を確認してください。",
     "recommendationRank": 91,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "audienceNote": "公式のレディース商品分類に基づく掲載モデル。サイズ・適性は試着で確認してください。",
     "audienceSource": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010463.html",
     "recommendationRanks": {
       "men": null,
       "women": 62
     },
-    "for": "練習・ラウンド用の両手グローブを比較したい人へ。左右のフィット感を確認してください。"
+    "for": "練習・ラウンド用の両手グローブを比較したい人へ。左右のフィット感を確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文の仕様・購入条件および保存画像の再照合。全選択肢の在庫は未確認。",
+      "complete": false
+    }
   },
   {
     "id": 1230,
@@ -3511,11 +4088,12 @@ const catalogData = [
     "image": "assets/products/1230.png",
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-clubs-master-JP/default/dw161f41d2/561C/561C_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "db935d106ce37844b5aa9bb03aa35c4ed403d91f0ffcb115e9660742f769637c",
     "specs": {
       "種類": "アイアン",
-      "選び方": "シャフト・長さ・重量をフィッティングで確認"
+      "選び方": "シャフト・長さ・重量をフィッティングで確認",
+      "注文条件": "公式カスタム注文は納期目安約4週間、注文後キャンセル不可。番手構成と価格を選択画面で確認"
     },
     "recommendationReason": "シャフトや番手構成を合わせて試打し、既存アイアンとの距離差を比較したい人へ。",
     "recommendationRank": 92,
@@ -3527,7 +4105,12 @@ const catalogData = [
       "men": 62,
       "women": 63
     },
-    "for": "シャフトや番手構成を合わせて試打し、既存アイアンとの距離差を比較したい人へ。"
+    "for": "シャフトや番手構成を合わせて試打し、既存アイアンとの距離差を比較したい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1231,
@@ -3586,12 +4169,13 @@ const catalogData = [
     "image": "assets/products/1232.png",
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-master/default/dw06cd58bf/T9015S_26_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "029b9fbd0952f0b149147602b66fdccf9150732b08d73242812acd4a1af5b244",
     "specs": {
       "構造": "3ピース",
       "カバー": "ウレタン",
-      "掲載モデル": "2026・ホワイト"
+      "掲載モデル": "2026・ホワイト",
+      "比較の目安": "メーカーはPro V1に対して低めの弾道・ロングゲーム低スピンを案内。実際の結果は打ち方による"
     },
     "recommendationReason": "ソフトな打感とロングゲームでのスピン傾向を比べたい人へ。普段使うボールと同条件で比較する候補です。",
     "recommendationRank": 94,
@@ -3603,7 +4187,12 @@ const catalogData = [
       "men": 64,
       "women": 65
     },
-    "for": "ソフトな打感とロングゲームでのスピン傾向を比べたい人へ。普段使うボールと同条件で比較する候補です。"
+    "for": "ソフトな打感とロングゲームでのスピン傾向を比べたい人へ。普段使うボールと同条件で比較する候補です。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1233,
@@ -3624,11 +4213,13 @@ const catalogData = [
     "image": "assets/products/1233.png",
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-master/default/dwf47a5821/T4015S_26_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "7c498001a437ebbc93a910e974aa0c83cd9a4178b05419124c8e3faf7715b6eb",
     "specs": {
       "掲載モデル": "2026・ホワイト",
-      "特徴": "エラストマーカバー"
+      "特徴": "エラストマーカバー",
+      "ディンプル": "386ディンプル",
+      "カバー": "独自のエラストマー・カバー・ブレンド"
     },
     "recommendationReason": "打感を重視しながら、ティショットとグリーン周りの使いやすさを比べたい人へ。",
     "recommendationRank": 95,
@@ -3640,7 +4231,12 @@ const catalogData = [
       "men": 65,
       "women": 66
     },
-    "for": "打感を重視しながら、ティショットとグリーン周りの使いやすさを比べたい人へ。"
+    "for": "打感を重視しながら、ティショットとグリーン周りの使いやすさを比べたい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1234,
@@ -3661,11 +4257,13 @@ const catalogData = [
     "image": "assets/products/1234.png",
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-master/default/dwa688b2b4/T8027S_26_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "0069308b904dc75311ab78258f794745cf18ca619b20b82dcc6a3e2cce5231a0",
     "specs": {
       "掲載モデル": "2026・ホワイト",
-      "特徴": "飛距離を重視した設計"
+      "特徴": "飛距離を重視した設計",
+      "ディンプル": "350ディンプル",
+      "設計": "ソフトコアと高速カバーを組み合わせたロングゲーム低スピン設計"
     },
     "recommendationReason": "飛距離を重視した設計のボールを探す人へ。実際の飛び方とアプローチの感覚を合わせて確認してください。",
     "recommendationRank": 96,
@@ -3677,7 +4275,12 @@ const catalogData = [
       "men": 66,
       "women": 67
     },
-    "for": "飛距離を重視した設計のボールを探す人へ。実際の飛び方とアプローチの感覚を合わせて確認してください。"
+    "for": "飛距離を重視した設計のボールを探す人へ。実際の飛び方とアプローチの感覚を合わせて確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1235,
@@ -3698,12 +4301,16 @@ const catalogData = [
     "image": "assets/products/1235.jpg",
     "imageSource": "https://www.garmin.co.jp/m/jp/g/products/Approach_G20_OF_front-04_1.jpg",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "400e813f84417971c0451206f3a33ad1c5115e095c182e418221e98f11684b97",
     "specs": {
       "形式": "携帯型GPSゴルフナビ",
       "画面": "2.2インチ",
-      "電源": "ソーラー充電対応・使用条件で稼働時間が変わります"
+      "電源": "ソーラー充電対応・使用条件で稼働時間が変わります",
+      "重量": "108g（メーカー仕様）",
+      "画面方式": "高解像度モノクロ",
+      "充電": "USB-C／ソーラー対応",
+      "電源条件": "内蔵バッテリーでGPS約180時間。ソーラーによる連続稼働の案内は直射日光75,000ルクスの条件付き"
     },
     "recommendationReason": "腕時計以外の画面で残り距離を見たい人へ。携帯型GPSナビの表示と持ち運び方を比較できます。",
     "recommendationRank": 97,
@@ -3715,7 +4322,12 @@ const catalogData = [
       "men": 67,
       "women": 68
     },
-    "for": "腕時計以外の画面で残り距離を見たい人へ。携帯型GPSナビの表示と持ち運び方を比較できます。"
+    "for": "腕時計以外の画面で残り距離を見たい人へ。携帯型GPSナビの表示と持ち運び方を比較できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1236,
@@ -3736,12 +4348,16 @@ const catalogData = [
     "image": "assets/products/1236.jpg",
     "imageSource": "https://www.garmin.co.jp/m/jp/g/products/approach-z10-cf-lg_1.jpg",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "500d958efc15ccb1e3cd32520e69052d7aa96e350d7c6e633fcb70a5f584b440",
     "specs": {
       "形式": "レーザー距離計",
       "機能": "高低差を考慮したPlaysLike距離",
-      "注意": "競技のローカルルールと使用可能機能を確認"
+      "注意": "競技のローカルルールと使用可能機能を確認",
+      "重量": "178g（メーカー仕様）",
+      "防水等級": "IPX4",
+      "電源": "CR2電池、約1年間（使用頻度による）",
+      "連携条件": "レンジリレー等は互換機器とのペアリングが必要"
     },
     "recommendationReason": "ピンまでの距離をその場で測りたい人へ。高低差表示や対応Garmin機器との連携を比較する候補です。",
     "recommendationRank": 98,
@@ -3753,7 +4369,12 @@ const catalogData = [
       "men": 68,
       "women": 69
     },
-    "for": "ピンまでの距離をその場で測りたい人へ。高低差表示や対応Garmin機器との連携を比較する候補です。"
+    "for": "ピンまでの距離をその場で測りたい人へ。高低差表示や対応Garmin機器との連携を比較する候補です。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1237,
@@ -3774,12 +4395,14 @@ const catalogData = [
     "image": "assets/products/1237.png",
     "imageSource": "https://www.garmin.co.jp/m/jp/g/products/approach_ct10_index_7.png",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "964593ba042349d9a975336b99973839c3be7f8689529f0df2fb6291e77a638c",
     "specs": {
       "セット": "3センサー",
       "用途": "クラブ・ショット記録",
-      "必要機器": "対応するGarminゴルフウォッチ"
+      "必要機器": "対応するGarminゴルフウォッチ",
+      "セット価格の区別": "公式比較表の3個セット15,000円（税込）。14個セットやApproach J1と混同しない",
+      "購入時の確認": "対応ウォッチ・セット個数・現在の販売状況を確認"
     },
     "recommendationReason": "対応Garminウォッチを使ってショット記録を残したい人へ。購入前にウォッチの互換性を確認してください。",
     "recommendationRank": 99,
@@ -3791,7 +4414,12 @@ const catalogData = [
       "men": 69,
       "women": 70
     },
-    "for": "対応Garminウォッチを使ってショット記録を残したい人へ。購入前にウォッチの互換性を確認してください。"
+    "for": "対応Garminウォッチを使ってショット記録を残したい人へ。購入前にウォッチの互換性を確認してください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1238,
@@ -3812,12 +4440,13 @@ const catalogData = [
     "image": "assets/products/1238.png",
     "imageSource": "https://www.titleist.co.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-titleist-master/default/dw300b21b4/TB25SX14-006_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "56e58000c77af8da2d337a8d26ec6bb09719da2f61a4c5e1e2d8f4290009a6b8",
     "specs": {
-      "口枠": "14分割",
+      "口枠": "14分割・下まで完全分割",
       "形式": "スタンドバッグ",
-      "カラー": "ブラック／ブラック／レッド"
+      "カラー": "ブラック／ブラック／レッド",
+      "掲載色": "ブラック／ブラック／レッド（TB25SX14A-006）"
     },
     "recommendationReason": "クラブの整理とカートでの扱いやすさを重視する人へ。14分割口枠と収納の使い勝手を確認できます。",
     "recommendationRank": 100,
@@ -3829,7 +4458,12 @@ const catalogData = [
       "men": 70,
       "women": 71
     },
-    "for": "クラブの整理とカートでの扱いやすさを重視する人へ。14分割口枠と収納の使い勝手を確認できます。"
+    "for": "クラブの整理とカートでの扱いやすさを重視する人へ。14分割口枠と収納の使い勝手を確認できます。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1239,
@@ -3963,12 +4597,14 @@ const catalogData = [
     "image": "assets/products/1242.png",
     "imageSource": "https://www.garmin.co.jp/m/jp/g/products/Approach-S50_OF_Black_Front-Left-06_1.png",
     "imageLabel": "公式商品写真",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "451bc13e3af6beb450a554d81c81e352a8c119b25611f91ce52f1bc0d7add955",
     "specs": {
       "形式": "GPSゴルフウォッチ",
       "画面": "AMOLED",
-      "カラー": "Black"
+      "カラー": "Black",
+      "電源条件": "GPSモード約15時間／スマートウォッチモード約10日間。表示設定・使用条件で変動",
+      "画面サイズ": "直径1.2インチ（30.4mm）"
     },
     "recommendationReason": "手元で距離を確認したい人へ。AMOLED画面の見やすさと腕への収まりを確かめたい候補です。",
     "recommendationRank": 104,
@@ -3980,7 +4616,12 @@ const catalogData = [
       "men": 74,
       "women": 75
     },
-    "for": "手元で距離を確認したい人へ。AMOLED画面の見やすさと腕への収まりを確かめたい候補です。"
+    "for": "手元で距離を確認したい人へ。AMOLED画面の見やすさと腕への収まりを確かめたい候補です。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "complete": false
+    }
   },
   {
     "id": 1190,
@@ -3997,7 +4638,7 @@ const catalogData = [
     "purpose": "景色を楽しむ",
     "priceNote": "料金・利用条件は公式サイトで確認",
     "related": false,
-    "note": "営業・予約条件・料金は公式サイトで最終確認してください。",
+    "note": "2026年10月27日確認：公式サイトにコース内の立入制限・一部徒歩移動と近隣道路の通行止め案内があります。来場前に公式へ最新状況を確認してください。通常ページはメンテナンス中です。",
     "image": "assets/products/1190.jpg",
     "imageSource": "https://www.camelliahills.com/imgs/mainimg01.jpg",
     "imageLabel": "公式施設画像",
@@ -4017,7 +4658,12 @@ const catalogData = [
       "men": 75,
       "women": 76
     },
-    "for": "広いフェアウェイのコースを検討したい人へ。"
+    "for": "広いフェアウェイのコースを検討したい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式メンテナンス画面の現地注意案内を追加",
+      "complete": false
+    }
   },
   {
     "id": 1191,
@@ -4040,12 +4686,13 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "千葉",
-      "種類": "ゴルフ場"
+      "種類": "ゴルフ場",
+      "コースの確認": "公式にOUT/INの各ホール、距離、池・バンカーの配置を掲載"
     },
     "recommendationReason": "景観とホールごとの特徴を確認して選びたい人へ。",
     "recommendationRank": 106,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "573d682592d68b8d628721fc3509da513720c3885b245c0c4df79260f6b1ac5f",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4054,7 +4701,12 @@ const catalogData = [
       "men": 76,
       "women": 77
     },
-    "for": "景観とホールごとの特徴を確認して選びたい人へ。"
+    "for": "景観とホールごとの特徴を確認して選びたい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致",
+      "complete": false
+    }
   },
   {
     "id": 1192,
@@ -4077,12 +4729,14 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "千葉",
-      "種類": "ゴルフ場"
+      "種類": "ゴルフ場",
+      "来場前の確認": "公式トップに木更津北IC方面の迂回路案内あり。最新の通行状況を確認",
+      "営業案内": "10月15日の18ホール通常営業再開、11月1日からの閉館時刻変更の案内あり。詳細は公式へ"
     },
     "recommendationReason": "千葉方面の18ホールコースを比較したい人へ。",
     "recommendationRank": 107,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "95da27388152d9b07f5bf857fa0ee7724ebc5219e3113940e8c116ded1b06b83",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4091,14 +4745,19 @@ const catalogData = [
       "men": 77,
       "women": 78
     },
-    "for": "千葉方面の18ホールコースを比較したい人へ。"
+    "for": "千葉方面の18ホールコースを比較したい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致",
+      "complete": false
+    }
   },
   {
     "id": 1193,
     "cat": 6,
     "name": "上総モナークカントリークラブ",
     "brand": "上総モナークカントリークラブ",
-    "source": "https://www.kazusamonarch.com/course",
+    "source": "https://www.kazusamonarch.com/",
     "checked": "2026-10-22",
     "fact": "ジャック・ニクラス設計の18ホール。",
     "check": "アクセス・予約条件・料金を公式サイトで確認",
@@ -4108,7 +4767,7 @@ const catalogData = [
     "purpose": "景色を楽しむ",
     "priceNote": "料金・利用条件は公式サイトで確認",
     "related": false,
-    "note": "営業・予約条件・料金は公式サイトで最終確認してください。",
+    "note": "2026年10月27日確認：公式サイトに一部ティーイングエリアを人工芝で対応する案内があります。利用予定のティーと当日の状態を公式へ確認してください。通常ページはメンテナンス中です。",
     "image": "assets/products/1193.jpg",
     "imageSource": "https://www.kazusamonarch.com/images/course-area-bg.jpg",
     "imageLabel": "公式施設画像",
@@ -4119,7 +4778,7 @@ const catalogData = [
     "recommendationReason": "コース設計や攻略の違いを楽しみたい人へ。",
     "recommendationRank": 108,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "91393d350922b2c07b584986577692ecde880660311e394ca23d08eada08fb1c",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4128,7 +4787,13 @@ const catalogData = [
       "men": 78,
       "women": 79
     },
-    "for": "コース設計や攻略の違いを楽しみたい人へ。"
+    "for": "コース設計や攻略の違いを楽しみたい人へ。",
+    "sourceLinkChecked": "2026-10-26",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式メンテナンス画面の現地注意案内を追加／新規公式画像と保存画像を目視照合、一致",
+      "complete": false
+    }
   },
   {
     "id": 1194,
@@ -4188,12 +4853,14 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "千葉",
-      "種類": "ゴルフ場"
+      "種類": "ゴルフ場",
+      "ホール数": "36ホール",
+      "電車でのアクセス": "上総一ノ宮駅西口からクラブバス約10分。運行便・利用条件は公式で確認"
     },
     "recommendationReason": "東西コースの違いを確認して選びたい人へ。",
     "recommendationRank": 110,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "4b05e4a927af0a4f9ae3966e6dd9ca6db67ff5e528e23cd80718b40fff819435",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4202,7 +4869,12 @@ const catalogData = [
       "men": 80,
       "women": 81
     },
-    "for": "東西コースの違いを確認して選びたい人へ。"
+    "for": "東西コースの違いを確認して選びたい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致",
+      "complete": false
+    }
   },
   {
     "id": 1196,
@@ -4299,12 +4971,17 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "東京",
-      "種類": "ゴルフ練習場"
+      "種類": "ゴルフ練習場",
+      "アクセス": "学芸大学駅・都立大学駅から徒歩10分",
+      "駐車場": "177台",
+      "料金方式": "フロント営業は時間貸し、モーニング・ナイターはボール貸し",
+      "一般利用の注意": "時間貸しゲストはICカード料金より1時間あたり440円増。利用時間・階・曜日で料金が異なる",
+      "貸出": "クラブ・シューズ各550円（税込）。貸出はフロント営業時間のみ、グローブ貸出なし"
     },
-    "recommendationReason": "学芸大学・都立大学周辺で練習したい人へ。",
+    "recommendationReason": "駅から歩いて通いたい人へ。時間貸しとボール貸しを、利用する時間帯に合わせて選ぶ候補です。",
     "recommendationRank": 113,
-    "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "recommendationReviewed": "2026-10-27",
+    "imageVerified": "2026-10-27",
     "imageSha256": "940a6f8017a70118fa7cfc33a4d98160f49de649baa89d9f7449083962471135",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4313,7 +4990,15 @@ const catalogData = [
       "men": 83,
       "women": 84
     },
-    "for": "学芸大学・都立大学周辺で練習したい人へ。"
+    "for": "学芸大学・都立大学周辺で練習したい人へ。",
+    "additionalSources": [
+      "https://www.tokyu-sports.com/golf/himonya/price.html"
+    ],
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致／公式料金表の一般/会員・球貸し/時間貸し条件を確認",
+      "complete": false
+    }
   },
   {
     "id": 1199,
@@ -4336,12 +5021,16 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "東京",
-      "種類": "ゴルフ練習場"
+      "種類": "ゴルフ練習場",
+      "営業": "24時間営業。3階は9〜24時（最終入場22時）、天候で閉鎖の場合あり",
+      "ビジター料金例": "1・2階、平日10〜20時の1時間2,000円／土日祝10〜13時の1時間2,700円（税込）",
+      "延長": "6分ごとに自動延長。延長時間帯の1時間料金の10分の1を加算",
+      "料金の条件": "2026年4月〜2027年3月の公式料金表。階・曜日・時間帯で異なり、会員割引は別条件"
     },
     "recommendationReason": "球数より練習時間を決めて打ちたい人へ。",
     "recommendationRank": 114,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "7ef2fbedf13b9bd675a5d50ce72ce9a66bc46a0cf724ce37d6bce09917e91399",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4350,7 +5039,15 @@ const catalogData = [
       "men": 84,
       "women": 85
     },
-    "for": "球数より練習時間を決めて打ちたい人へ。"
+    "for": "球数より練習時間を決めて打ちたい人へ。",
+    "additionalSources": [
+      "https://www.west-tokyo.co.jp/timezips/price/"
+    ],
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致／公式料金表の一般/会員・球貸し/時間貸し条件を確認",
+      "complete": false
+    }
   },
   {
     "id": 1200,
@@ -4378,7 +5075,7 @@ const catalogData = [
     "recommendationReason": "開放感のある屋外レンジで練習したい人へ。",
     "recommendationRank": 115,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "77e56dd0fdb75cfaa5f902179966e2e8739f1e6b21ffb8c13fdc15a6ed0d5a44",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4387,7 +5084,12 @@ const catalogData = [
       "men": 85,
       "women": 86
     },
-    "for": "開放感のある屋外レンジで練習したい人へ。"
+    "for": "開放感のある屋外レンジで練習したい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "新規公式画像と保存画像を目視照合、一致",
+      "complete": false
+    }
   },
   {
     "id": 1201,
@@ -4410,12 +5112,17 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "千葉",
-      "種類": "ゴルフ練習場"
+      "種類": "ゴルフ練習場",
+      "設備": "200ヤード・80打席。バンカー・パター・アプローチ練習設備あり",
+      "営業": "平日9〜23時／土日祝7〜23時",
+      "料金方式": "1階は球貸し、2階は時間貸し",
+      "一般料金例": "2階一般打席ビジター平日60分2,000円／土日祝60分3,000円（税込、入場料・ナイター料込み）",
+      "1階の注意": "ボール代と入場料が別。曜日・時間帯・会員区分で異なり、冬季はナイター時間も変更"
     },
-    "recommendationReason": "市川周辺で屋外練習場を比較したい人へ。",
+    "recommendationReason": "打席練習とアプローチ・バンカー練習を組み合わせたい人へ。球貸しと時間貸しの料金を比べられます。",
     "recommendationRank": 116,
-    "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "recommendationReviewed": "2026-10-27",
+    "imageVerified": "2026-10-27",
     "imageSha256": "9e7e5d67f7916486cee4a9863d15aaaca49697915f16bed1947bc62e0ae4465f",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4424,7 +5131,15 @@ const catalogData = [
       "men": 86,
       "women": 87
     },
-    "for": "市川周辺で屋外練習場を比較したい人へ。"
+    "for": "市川周辺で屋外練習場を比較したい人へ。",
+    "additionalSources": [
+      "https://colton.nk-ls.com/guide"
+    ],
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致／公式料金表の一般/会員・球貸し/時間貸し条件を確認",
+      "complete": false
+    }
   },
   {
     "id": 1202,
@@ -4521,12 +5236,18 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "東京",
-      "種類": "ゴルフスクール"
+      "種類": "ゴルフスクール",
+      "アクセス": "渋谷駅B3出口から徒歩4分／表参道駅から徒歩9分",
+      "駐車場": "専用駐車場なし",
+      "通常月会費・男性": "フルタイム29,590円／デイタイム25,190円（税込）",
+      "通常月会費・女性": "フルタイム24,090円／デイタイム19,690円（税込）",
+      "入会金・体験": "通常入会金11,000円／体験50分2,200円（税込）",
+      "料金の条件": "公式渋谷店料金表の通常価格。キャンペーン適用や利用時間は申込時に確認"
     },
     "recommendationReason": "初めてのレッスンを渋谷周辺で探している人へ。",
     "recommendationRank": 119,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "b23ad4ebd6da41faccb3d4bea99611253968d2517ce4ce1e20ebdf44e6e130af",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4535,7 +5256,16 @@ const catalogData = [
       "men": 89,
       "women": 90
     },
-    "for": "初めてのレッスンを渋谷周辺で探している人へ。"
+    "for": "初めてのレッスンを渋谷周辺で探している人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "渋谷店のアクセス・駐車場、公式料金表画像の男女別通常月会費・入会金・体験料金を目視確認。施設画像も一致。",
+      "complete": false
+    },
+    "additionalSources": [
+      "https://range.sanctuarygolf.jp/fees/",
+      "https://range.sanctuarygolf.jp/wp-content/uploads/2023/01/pricetable_shibuya-1024x891.png"
+    ]
   },
   {
     "id": 1205,
@@ -4558,12 +5288,17 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "東京",
-      "種類": "ゴルフスクール"
+      "種類": "ゴルフスクール",
+      "形式": "完全個室・マンツーマン。2打席",
+      "設備": "ARTRAY-Swing／FlightScope Mevo+",
+      "駐車場": "専用駐車場なし",
+      "共通プラン例": "トライアル107,800円〜（税込）。50分レッスン5回・ギア講座/診断1回・18ホールラウンド1回、有効3か月",
+      "店舗別料金": "プラン料金は店舗により異なるため、六本木麻布店の総額・ラウンド諸費用を確認"
     },
     "recommendationReason": "個別の課題をマンツーマンで相談したい人へ。",
     "recommendationRank": 120,
     "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "imageVerified": "2026-10-27",
     "imageSha256": "bbdd4f64296d2578d1929c972a3ed3c9ecd06d1a64b6625b19f47be9c43670c4",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4572,7 +5307,15 @@ const catalogData = [
       "men": 90,
       "women": 91
     },
-    "for": "個別の課題をマンツーマンで相談したい人へ。"
+    "for": "個別の課題をマンツーマンで相談したい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "2打席・計測設備・駐車場と写真を確認。共通トライアルの内容を追加し、店舗別料金が異なる条件を明示。",
+      "complete": false
+    },
+    "additionalSources": [
+      "https://golfperformance.jp/plan/"
+    ]
   },
   {
     "id": 1206,
@@ -4595,12 +5338,20 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "東京",
-      "種類": "ゴルフスクール"
+      "種類": "ゴルフスクール",
+      "設備": "6打席（うち1打席レフティ優先）。左用レンタルクラブあり",
+      "アクセス": "JR高田馬場駅戸山口から徒歩1分30秒／西武線戸山口から徒歩3分",
+      "レッスン時間": "平日14〜22時（休憩16:55〜17:55）／土日祝9〜19時（休憩13:55〜14:55）",
+      "レッスン定休日": "火・水。定休日が祝日の場合も終日セルフ営業",
+      "施設利用": "セルフ利用は24時間。利用可能な時間は契約プランによる",
+      "月会費例": "レッスンあり：平日デイ7,980円／全日12,078円（税込）",
+      "料金の注意": "レッスンなしプランとは別料金。入会金を含む初期総額・適用条件を確認",
+      "貸出": "クラブ・シューズ・グローブ無料"
     },
-    "recommendationReason": "高田馬場周辺でスイングを見ながら学びたい人へ。",
+    "recommendationReason": "高田馬場駅近くでレッスンと自主練習を組み合わせたい人へ。左用打席もあり、通える時間に合うプランを比較できます。",
     "recommendationRank": 121,
-    "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "recommendationReviewed": "2026-10-27",
+    "imageVerified": "2026-10-27",
     "imageSha256": "2f2ea9cad3d89db8f1c1cd9991922b01f1748db6850ccc0d565e209eb16ee8c5",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4609,7 +5360,12 @@ const catalogData = [
       "men": 91,
       "women": 92
     },
-    "for": "高田馬場周辺でスイングを見ながら学びたい人へ。"
+    "for": "高田馬場周辺でスイングを見ながら学びたい人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "打席/左用対応・アクセス・貸出・指導時間・休業日と、レッスンあり月会費を確認。24時間セルフ利用と区別。",
+      "complete": false
+    }
   },
   {
     "id": 1207,
@@ -4632,12 +5388,19 @@ const catalogData = [
     "imageLabel": "公式施設画像",
     "specs": {
       "所在地": "東京",
-      "種類": "ゴルフスクール"
+      "種類": "ゴルフスクール",
+      "アクセス": "赤羽橋駅から徒歩3分／芝公園駅・神谷町駅から徒歩8分",
+      "施設利用": "24時間営業。コーチによるレッスン時間とは異なります",
+      "通常初期費用": "レッスンコース43,780円（税込）。条件付き割引は含めていません",
+      "月会費例": "平日デイ8,778円〜／平日13,178円〜／全日14,278円〜（税込）",
+      "入会時の支払い": "初期費用＋月会費2か月分（初月は日割り）",
+      "貸出": "クラブ・シューズ無料",
+      "料金の注意": "セルフ専用プランとは料金・利用時間が異なります"
     },
-    "recommendationReason": "駅からの通いやすさと定額制を重視する人へ。",
+    "recommendationReason": "赤羽橋駅近くで定額レッスンを探す人へ。平日・全日プランの利用時間と、初期費用を含めて比較できます。",
     "recommendationRank": 122,
-    "recommendationReviewed": "2026-10-22",
-    "imageVerified": "2026-10-22",
+    "recommendationReviewed": "2026-10-27",
+    "imageVerified": "2026-10-27",
     "imageSha256": "3a8e59986ff01737ad49c30eb1486b3d0d67bb8e2e3ea73329a4e91c354a5bda",
     "audience": "shared",
     "audienceNote": "男女共通で利用を検討できる施設です。",
@@ -4646,7 +5409,12 @@ const catalogData = [
       "men": 92,
       "women": 93
     },
-    "for": "駅からの通いやすさと定額制を重視する人へ。"
+    "for": "駅からの通いやすさと定額制を重視する人へ。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "駅徒歩時間・24時間施設利用・無料貸出・通常初期費用・月会費例・入会時2か月分支払い条件と写真を確認。",
+      "complete": false
+    }
   },
   {
     "id": 1012,
@@ -4654,17 +5422,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "マルシェ半袖ポロシャツ",
     "source": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s04/FJ-F26-S04.html?dwvar_FJ-F26-S04_color=41803",
-    "checked": "2026-10-23",
-    "fact": "パフォーマンスゴルフシャツ",
+    "checked": "2026-10-26",
+    "fact": "マルシェを題材にした総柄の半袖ポロ。メーカーはストレッチ機能を紹介。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 13200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "柄の半袖ポロを楽しみたい人へ。マルシェを描いた総柄とストレッチ素材が特徴。",
     "image": "assets/products/2200.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dwb22a8bfa/FJ_41803_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -4672,12 +5440,12 @@ const catalogData = [
       "品番": "FJ-F26-S04",
       "掲載色": "ホワイト",
       "種類": "トップス",
-      "在庫のある掲載色サイズ": "3XL / L / M / S / XL / 2XL"
+      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "柄の半袖ポロを楽しみたい人へ。マルシェを描いた総柄とストレッチ素材が特徴。",
     "recommendationRank": 123,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "c1ebb94f881324372d02244f62f4373768c9c6f983af1d62413c15478e405332",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -4689,8 +5457,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "FJ-F26-S04",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s04/FJ-F26-S04.html?dwvar_FJ-F26-S04_color=41803"
+    }
   },
   {
     "id": 2102,
@@ -4698,17 +5471,17 @@ const catalogData = [
     "name": "はっ水ジップスリット360°スカート見えショートパンツ（イエロー（YL00））",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007920/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "はっ水ジップスリット360°スカート見えショートパンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 26400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "スカート風のパンツを探す人へ。ファスナーでスリットを調整できる、一体型のスカパン。",
     "image": "assets/products/2102.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EW007920_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -4717,11 +5490,12 @@ const catalogData = [
       "メーカー品番": "DG6SHP51L",
       "掲載商品コード": "DE2188EW007920",
       "カラー": "イエロー（YL00）",
-      "掲載サイズ": "S / M / L"
+      "掲載サイズ": "S / M / L",
+      "在庫のある掲載色サイズ": "S / M / L"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "スカート風のパンツを探す人へ。ファスナーでスリットを調整できる、一体型のスカパン。",
     "recommendationRank": 124,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "2d88bd9c56787ff9d47810a88c9682b40ade4284160c93984feca4b79faeff56",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -4733,8 +5507,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "DG6SHP51L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007920/"
+    }
   },
   {
     "id": 2019,
@@ -4742,17 +5522,17 @@ const catalogData = [
     "name": "Coolist D-Tecロングパンツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008053/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "Coolist D-Tecロングパンツ。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 22000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "すっきりした長いパンツを探す人へ。ストレートの形と、腰裏の滑り止め・メッシュが特徴。",
     "image": "assets/products/2019.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008053_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -4760,11 +5540,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "DG6SLP04M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92",
+      "在庫のある掲載色サイズ": "76 / 79 / 82 / 88 / 92"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "すっきりした長いパンツを探す人へ。ストレートの形と、腰裏の滑り止め・メッシュが特徴。",
     "recommendationRank": 125,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008053/",
@@ -4775,9 +5556,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "DG6SLP04M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "3ae00cebeb665d778eea72e2d30c9be0410bace13b5d0a0c803526b6a6600d0c",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008053/"
+    }
   },
   {
     "id": 2138,
@@ -4785,17 +5572,17 @@ const catalogData = [
     "name": "総柄半袖シャツ（ライム（LM00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012653/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "総柄半袖シャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 5500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "明るい柄の半袖を探す人へ。手書き風ロゴとリブ袖口が特徴。掲載色は購入可能サイズをご確認ください。",
     "image": "assets/products/2138.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW012653_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -4804,11 +5591,12 @@ const catalogData = [
       "メーカー品番": "LG5FHS03L",
       "掲載商品コード": "LE1872EW012653",
       "カラー": "ライム（LM00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "明るい柄の半袖を探す人へ。手書き風ロゴとリブ袖口が特徴。掲載色は購入可能サイズをご確認ください。",
     "recommendationRank": 126,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "0419ec6b4c52d802f1d4e3be3983826acbfab8d35f76258560e86965fcf5ae52",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -4820,8 +5608,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FHS03L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012653/"
+    }
   },
   {
     "id": 2050,
@@ -4829,17 +5623,17 @@ const catalogData = [
     "name": "ライトウェイト ウォームジャケット",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001244/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ライトウェイト ウォームジャケット。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 27500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "季節に合わせて重ね着したい人へ。ゆとりのある形のフルジップジャケットで、冬はアウターの内側にも。",
     "image": "assets/products/2050.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001244_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -4847,11 +5641,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MU6FJK09M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "季節に合わせて重ね着したい人へ。ゆとりのある形のフルジップジャケットで、冬はアウターの内側にも。",
     "recommendationRank": 127,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001244/",
@@ -4862,9 +5657,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MU6FJK09M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "e4a809929ef9f5ee09b7ff4f0bb07730daa72e599a2125a841e7e6b76f51281c",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001244/"
+    }
   },
   {
     "id": 2250,
@@ -4872,17 +5673,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "Essential Womens LtWt L/S ストレッチフーディープルオーバー",
     "source": "https://www.footjoy.jp/womengolf-apparelouter-layers/fjw-s26-bem01/FJW-S26-BEM01.html?dwvar_FJW-S26-BEM01_color=40633",
-    "checked": "2026-10-23",
-    "fact": "軽快さを極めたフーディ",
+    "checked": "2026-10-26",
+    "fact": "ダブルニット素材のフーディー。メーカーは吸湿速乾・抗菌機能を紹介。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 15400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "for": "重ね着用のフーディーを探す人へ。ダブルニット素材で、吸湿速乾・抗菌機能を備えます。",
     "image": "assets/products/2250.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw760d762b/FJ_40633_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -4892,10 +5693,10 @@ const catalogData = [
       "種類": "アウター",
       "在庫のある掲載色サイズ": "M / XL / 2XL"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "recommendationReason": "重ね着用のフーディーを探す人へ。ダブルニット素材で、吸湿速乾・抗菌機能を備えます。",
     "recommendationRank": 128,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "a4bf0548168f6c088e5c27ab5f03f0d599334cd20ff6957c2340885ffc91ec76",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -4907,8 +5708,13 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "FJW-S26-BEM01",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/womengolf-apparelouter-layers/fjw-s26-bem01/FJW-S26-BEM01.html?dwvar_FJW-S26-BEM01_color=40633"
+    }
   },
   {
     "id": 2022,
@@ -4916,17 +5722,17 @@ const catalogData = [
     "name": "幾何学チェック柄ウォッシャブルクルーネックセーター",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013512/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "幾何学チェック柄ウォッシャブルクルーネックセーター。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 10010,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "for": "柄ニットを手軽に使いたい人へ。タイル風の幾何学柄で、自宅で洗えるポリエステル製セーター。",
     "image": "assets/products/2022.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM013512_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -4934,11 +5740,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6SST00M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / 3L"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "柄ニットを手軽に使いたい人へ。タイル風の幾何学柄で、自宅で洗えるポリエステル製セーター。",
     "recommendationRank": 129,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013512/",
@@ -4949,9 +5756,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6SST00M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "c83e1e62ea9d20e72dfd7538cee5993001de93352595fc0cec0dd0b4b065e01d",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013512/"
+    }
   },
   {
     "id": 2117,
@@ -4959,17 +5772,17 @@ const catalogData = [
     "name": "ハイネックセーター（ホワイト（WH00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015368/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ハイネックセーター",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "for": "首元まで覆うニットを探す人へ。ウール混素材のハイネックで、太めのリブ柄とポケットが特徴。",
     "image": "assets/products/2117.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015368_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -4978,11 +5791,12 @@ const catalogData = [
       "メーカー品番": "MG6FST32L",
       "掲載商品コード": "M01871EW015368",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "recommendationReason": "首元まで覆うニットを探す人へ。ウール混素材のハイネックで、太めのリブ柄とポケットが特徴。",
     "recommendationRank": 130,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "f2397390d40c56c28ff94ab057b7187950a67a4864f6df3978d7a1edfb54e188",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -4994,8 +5808,14 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015368/"
+    }
   },
   {
     "id": 2212,
@@ -5003,17 +5823,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "超速乾 ハーフスリーブ モックネック プルオーバー (MENS)",
     "source": "https://mix.tokyo/products/0126266001?variant=44026980106305",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "スポーティーなアクセントを効かせたプルオーバー。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 5544,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "汗ばむ日の半袖を探す人へ。ダブルメッシュ素材と、ゆとりのあるシルエットが特徴。",
     "image": "assets/products/2212.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126266001-030_MAIN.jpg?v=1792076511&width=720",
     "imageLabel": "公式商品写真",
@@ -5023,10 +5843,10 @@ const catalogData = [
       "種類": "トップス",
       "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "汗ばむ日の半袖を探す人へ。ダブルメッシュ素材と、ゆとりのあるシルエットが特徴。",
     "recommendationRank": 131,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "0cd3be2a02a904134df2860c69086e83cf8b640039d597ace31aab8809b6f05a",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5038,8 +5858,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "0126266001",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126266001?variant=44026980106305"
+    }
   },
   {
     "id": 2264,
@@ -5047,17 +5872,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "撥水 カーゴスカート (WOMENS)",
     "source": "https://mix.tokyo/products/0126234501?variant=44002730508353",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "アクティブな毎日に寄り添うカーゴスカート。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 8470,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "トップスと合わせるボトムスを探す人へ。丈・腰回り・インナーの仕様を比較できます。",
+    "for": "ポケット付きのスカートを探す人へ。撥水素材のカーゴ型で、後ろウエストはゴム仕様。",
     "image": "assets/products/2264.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126234501-181_MAIN.jpg?v=1792076515&width=720",
     "imageLabel": "公式商品写真",
@@ -5067,10 +5892,10 @@ const catalogData = [
       "種類": "スカート・キュロット",
       "在庫のある掲載色サイズ": "00 / 0 / 1 / 2"
     },
-    "recommendationReason": "トップスと合わせるボトムスを探す人へ。丈・腰回り・インナーの仕様を比較できます。",
+    "recommendationReason": "ポケット付きのスカートを探す人へ。撥水素材のカーゴ型で、後ろウエストはゴム仕様。",
     "recommendationRank": 132,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "b82408af4646afe66261c4f825bd8739b6b83400524443657cf8f8dec4f6fe92",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5082,8 +5907,13 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "0126234501",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126234501?variant=44002730508353"
+    }
   },
   {
     "id": 2005,
@@ -5091,17 +5921,17 @@ const catalogData = [
     "name": "ナイロングログランイージーパンツ",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001319/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ナイロングログランイージーパンツ。掲載カラー：グレー（GY00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 17600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "普段にも着られるパンツを探す人へ。ウエストゴムと裾のひも、携帯用ポケットを備えます。",
     "image": "assets/products/2005.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001319_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5109,11 +5939,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MU6FLP05M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "普段にも着られるパンツを探す人へ。ウエストゴムと裾のひも、携帯用ポケットを備えます。",
     "recommendationRank": 133,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001319/",
@@ -5124,9 +5955,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MU6FLP05M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "0d4d68578d490064b3e87f5441bfe3ff431dde8789341cf00972d0f992fd04ec",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001319/"
+    }
   },
   {
     "id": 2119,
@@ -5134,17 +5971,17 @@ const catalogData = [
     "name": "【耐水圧20，000mm 透湿性30，000g/24h】ワンピースレインウェア（ブルー（BL00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014458/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【耐水圧20，000mm 透湿性30，000g/24h】ワンピースレインウェア",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 25300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "雨天用のワンピースを比較したい人へ。耐水性・サイズ・重ね着の余裕を公式仕様で確認してください。",
+    "for": "雨の日のワンピース型を探す人へ。袖とフードを取り外せるレインウェアで、前は上下から開くファスナー。",
     "image": "assets/products/2119.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014458_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5153,11 +5990,12 @@ const catalogData = [
       "メーカー品番": "LG6FRW01L",
       "掲載商品コード": "LE1872EW014458",
       "カラー": "ブルー（BL00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "雨天用のワンピースを比較したい人へ。耐水性・サイズ・重ね着の余裕を公式仕様で確認してください。",
+    "recommendationReason": "雨の日のワンピース型を探す人へ。袖とフードを取り外せるレインウェアで、前は上下から開くファスナー。",
     "recommendationRank": 134,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "d21ad2f6ee56c90f8c3e3d2b1cb54aaf206b50eaed296a548b0e19615408fc52",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -5169,8 +6007,14 @@ const catalogData = [
     "apparelType": "dress",
     "modelCode": "LG6FRW01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014458/"
+    }
   },
   {
     "id": 2020,
@@ -5178,17 +6022,17 @@ const catalogData = [
     "name": "花粉対策アウターベスト",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013651/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "花粉対策アウターベスト。掲載カラー：グリーン（GR00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 7370,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "薄手の重ね着用ベストを探す人へ。メッシュ裏地付きで、花粉が付きにくい加工とはっ水加工を施した素材。",
     "image": "assets/products/2020.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM013651_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5196,11 +6040,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "LG6SVE00M",
       "カラー": "グリーン（GR00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "L / 3L"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "薄手の重ね着用ベストを探す人へ。メッシュ裏地付きで、花粉が付きにくい加工とはっ水加工を施した素材。",
     "recommendationRank": 135,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013651/",
@@ -5211,9 +6056,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6SVE00M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "547efa28c2a945eb4039a76935a4a2c0b7c5ed058dd53a252d57d79735bf85d4",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013651/"
+    }
   },
   {
     "id": 2106,
@@ -5221,17 +6072,17 @@ const catalogData = [
     "name": "クルーネックアンダー長袖シャツ【吸汗速乾/部分UV】（ブラック（BK03））",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW007947/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "クルーネックアンダー長袖シャツ【吸汗速乾/部分UV】",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 16500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "重ね着用のインナーを探す人へ。フィット感と素材を確認して選べます。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 10月27日、公式ページにサイズ交換・返品不可の表示を確認。購入前にサイズと返品条件をご確認ください。 UVカットは本体生地、接触冷感はメッシュ部分の機能です。",
+    "for": "首元から見えにくいインナーを探す人へ。クルーネックの長袖で、UV機能は本体生地のみに適用。",
     "image": "assets/products/2106.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LA/LA7956EW007947_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5240,11 +6091,12 @@ const catalogData = [
       "メーカー品番": "VG6SUD02L",
       "掲載商品コード": "LA7956EW007947",
       "カラー": "ブラック（BK03）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
+      "在庫のある掲載色サイズ": "38 / 40 / 44"
     },
-    "recommendationReason": "重ね着用のインナーを探す人へ。フィット感と素材を確認して選べます。",
+    "recommendationReason": "首元から見えにくいインナーを探す人へ。クルーネックの長袖で、UV機能は本体生地のみに適用。",
     "recommendationRank": 136,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "806c1b64f34061d6edea92c5822bca3508ffd9038dcce1656048c62564f96db0",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -5256,8 +6108,14 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "VG6SUD02L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW007947/"
+    }
   },
   {
     "id": 2051,
@@ -5265,17 +6123,17 @@ const catalogData = [
     "name": "防風裏付きクルーネックセーター",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015501/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "防風裏付きクルーネックセーター。掲載カラー：エメラルド（EM00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 28600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "for": "裏地付きのニットを探す人へ。防風裏地とウール混素材を組み合わせた、星条旗モチーフのセーター。",
     "image": "assets/products/2051.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015501_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5283,11 +6141,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "MG6FST36M",
       "カラー": "エメラルド（EM00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "裏地付きのニットを探す人へ。防風裏地とウール混素材を組み合わせた、星条旗モチーフのセーター。",
     "recommendationRank": 137,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015501/",
@@ -5298,9 +6157,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST36M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "e553dbd4f56bb5f628042e5b2c24fab125179dbdd97231e1694425e9e60db7c0",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015501/"
+    }
   },
   {
     "id": 2109,
@@ -5308,17 +6173,17 @@ const catalogData = [
     "name": "タック入り9分丈パンツ（グレー（GY00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012601/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "タック入り9分丈パンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 6050,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "腰回りにゆとりのあるパンツを探す人へ。2タック入りの9分丈で、裾に向かって細くなる形。",
     "image": "assets/products/2109.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW012601_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5327,11 +6192,12 @@ const catalogData = [
       "メーカー品番": "LG5FLP50L",
       "掲載商品コード": "LE1872EW012601",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "腰回りにゆとりのあるパンツを探す人へ。2タック入りの9分丈で、裾に向かって細くなる形。",
     "recommendationRank": 138,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "bebf58cf4fc9e94fd2a899e16c476e5913ed736e690fc43382225156b8e7e97a",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -5343,8 +6209,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "LG5FLP50L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012601/"
+    }
   },
   {
     "id": 2202,
@@ -5352,17 +6224,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "ポーカーフェイス長袖ポロシャツ",
     "source": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s05/FJ-F26-S05.html?dwvar_FJ-F26-S05_color=41804",
-    "checked": "2026-10-23",
-    "fact": "パフォーマンスゴルフシャツ",
+    "checked": "2026-10-26",
+    "fact": "ベガスマーカー柄の長袖ポロ。メーカーはストレッチ機能を紹介。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 14300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "長袖ポロで柄を楽しみたい人へ。ベガスマーカーの総柄とストレッチ素材が特徴。",
     "image": "assets/products/2202.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw1c691467/FJ_41804_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -5370,12 +6242,12 @@ const catalogData = [
       "品番": "FJ-F26-S05",
       "掲載色": "ミントジュレップ/ウィンドワードブルー",
       "種類": "トップス",
-      "在庫のある掲載色サイズ": "3XL / L / M / S / XL / 2XL"
+      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "長袖ポロで柄を楽しみたい人へ。ベガスマーカーの総柄とストレッチ素材が特徴。",
     "recommendationRank": 139,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "e33ddaac0c6099f2867271b1d450ac5dc5e240a8841dc7f129c92c319ea7b993",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5387,8 +6259,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "FJ-F26-S05",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s05/FJ-F26-S05.html?dwvar_FJ-F26-S05_color=41804"
+    }
   },
   {
     "id": 2124,
@@ -5396,17 +6273,17 @@ const catalogData = [
     "name": "ペンギンエンブレムクルーネックセーター（エメラルド（EM00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015300/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ペンギンエンブレムクルーネックセーター",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "for": "柄や編み地を楽しみたい人へ。前面のロゴと、袖・背中のケーブル編みが特徴。手洗いできるセーター。",
     "image": "assets/products/2124.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015300_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5415,11 +6292,12 @@ const catalogData = [
       "メーカー品番": "MG6FST31L",
       "掲載商品コード": "M01871EW015300",
       "カラー": "エメラルド（EM00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "recommendationReason": "柄や編み地を楽しみたい人へ。前面のロゴと、袖・背中のケーブル編みが特徴。手洗いできるセーター。",
     "recommendationRank": 140,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "226f70452fa742f03a431c85931e26b5290aa02e1457bbcd0aa1d945ea125e0f",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -5431,8 +6309,14 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST31L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015300/"
+    }
   },
   {
     "id": 2017,
@@ -5447,10 +6331,10 @@ const catalogData = [
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "白のショートパンツを探す人へ。公式の商品名・写真に対応した掲載モデル。購入可能サイズをご確認ください。",
     "image": "assets/products/2017.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008095_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5458,9 +6342,10 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "DG6SHP05M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96",
+      "在庫のある掲載色サイズ": "85 / 96"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "白のショートパンツを探す人へ。公式の商品名・写真に対応した掲載モデル。購入可能サイズをご確認ください。",
     "recommendationRank": 141,
     "recommendationReviewed": "2026-10-23",
     "audience": "men",
@@ -5473,9 +6358,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "DG6SHP05M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "6ffccc8112ff91e46dfc5e21881afd29300f78c245d321f3f9acbc28f1032f79",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。 ただし公式本文の丈表記不一致は未解決。総合確認日は据え置き。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008095/"
+    }
   },
   {
     "id": 2263,
@@ -5483,17 +6374,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "ハーフスリーブ カラーシャツ (WOMENS)",
     "source": "https://mix.tokyo/products/0126268501?variant=44002730213441",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "前後で異なるロゴ使いがポイントのカラーシャツ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 6930,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "シンプルすぎない半袖シャツを探す人へ。前後のロゴと、ゆとりのある袖が特徴。",
     "image": "assets/products/2263.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126268501-130_MAIN.jpg?v=1792076530&width=720",
     "imageLabel": "公式商品写真",
@@ -5503,10 +6394,10 @@ const catalogData = [
       "種類": "トップス",
       "在庫のある掲載色サイズ": "0 / 1 / 2"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "シンプルすぎない半袖シャツを探す人へ。前後のロゴと、ゆとりのある袖が特徴。",
     "recommendationRank": 142,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "7ea66afb474436f7228769da0554e8ec4a8f0e3e13966fece202f44078ef7822",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5518,8 +6409,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "0126268501",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126268501?variant=44002730213441"
+    }
   },
   {
     "id": 2209,
@@ -5527,17 +6423,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "クルーネック ニット プルオーバー (MENS)",
     "source": "https://mix.tokyo/products/0126270002?variant=44391822262337",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "胸元にあしらったロゴがアクセントを添えるニットプルオーバー。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 16500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "ニットの着心地やコーディネートを比べたい人へ。重ね着時のサイズ感を確認できます。",
+    "for": "クルーネックのニットを探す人へ。胸のロゴと表情のある編み地が、着こなしのアクセントに。",
     "image": "assets/products/2209.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126270002-030_MAIN.jpg?v=1792177401&width=720",
     "imageLabel": "公式商品写真",
@@ -5547,10 +6443,10 @@ const catalogData = [
       "種類": "ニット",
       "在庫のある掲載色サイズ": "4 / 5 / 6 / 7"
     },
-    "recommendationReason": "ニットの着心地やコーディネートを比べたい人へ。重ね着時のサイズ感を確認できます。",
+    "recommendationReason": "クルーネックのニットを探す人へ。胸のロゴと表情のある編み地が、着こなしのアクセントに。",
     "recommendationRank": 143,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "bb9da9536ef01ed6ef4a89bdc6833d6dc9024233e6c354c1e222ed385230c65c",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5562,8 +6458,13 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "0126270002",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126270002?variant=44391822262337"
+    }
   },
   {
     "id": 2254,
@@ -5571,17 +6472,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "ウィメンズFJサーモシリーズ ベースレイヤーシャツ",
     "source": "https://www.footjoy.jp/fj/fj-thermoseries/fjw-f26-b01/FJW-F26-B01.html?dwvar_FJW-F26-B01_color=41884",
-    "checked": "2026-10-23",
-    "fact": "天候の変化に対応する、パフォーマンスレイヤー",
+    "checked": "2026-10-26",
+    "fact": "裏面をフリースタッチに仕上げた長袖インナー。フラットシーム縫製を採用。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 11000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "重ね着用のインナーを選びたい人へ。締め付けとサイズを確認できます。",
+    "for": "肌寒い日のインナーを探す人へ。裏面がフリースタッチの長袖で、縫い目を平らにした仕様。",
     "image": "assets/products/2254.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw2a47bb57/FJ_41884_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -5589,12 +6490,12 @@ const catalogData = [
       "品番": "FJW-F26-B01",
       "掲載色": "ネイビー",
       "種類": "インナー",
-      "在庫のある掲載色サイズ": "L / M / S / XL"
+      "在庫のある掲載色サイズ": "S / M / L / XL"
     },
-    "recommendationReason": "重ね着用のインナーを選びたい人へ。締め付けとサイズを確認できます。",
+    "recommendationReason": "肌寒い日のインナーを探す人へ。裏面がフリースタッチの長袖で、縫い目を平らにした仕様。",
     "recommendationRank": 144,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "908e1afc414112864db31dd58a99b029c68999a124524ad0aec40b4e09ed22f4",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5606,8 +6507,13 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "FJW-F26-B01",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/fj/fj-thermoseries/fjw-f26-b01/FJW-F26-B01.html?dwvar_FJW-F26-B01_color=41884"
+    }
   },
   {
     "id": 2052,
@@ -5615,17 +6521,17 @@ const catalogData = [
     "name": "ウォームライニングゴルフジャケット",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001343/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ウォームライニングゴルフジャケット。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 29700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "ゆったり羽織れる防寒着を探す人へ。保温裏地のオクタCPCPと、光沢のあるポリエステル表地を採用。",
     "image": "assets/products/2052.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001343_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5633,11 +6539,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MU6FJK08M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "ゆったり羽織れる防寒着を探す人へ。保温裏地のオクタCPCPと、光沢のあるポリエステル表地を採用。",
     "recommendationRank": 145,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001343/",
@@ -5648,9 +6555,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MU6FJK08M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "3103977f650ca0152592ba2949cbe2589f350498c6af437fecc941ee8f6f5508",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001343/"
+    }
   },
   {
     "id": 2104,
@@ -5658,17 +6571,17 @@ const catalogData = [
     "name": "防風はっ水カットソーベスト（ネイビー（NV00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015392/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "防風はっ水カットソーベスト",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "for": "気温に合わせて羽織りたい人へ。防風・はっ水素材のベストで、フードを取り外せます。",
     "image": "assets/products/2104.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015392_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5677,11 +6590,12 @@ const catalogData = [
       "メーカー品番": "MG6FVE32L",
       "掲載商品コード": "M01871EW015392",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "L / LL"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "recommendationReason": "気温に合わせて羽織りたい人へ。防風・はっ水素材のベストで、フードを取り外せます。",
     "recommendationRank": 146,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "5cc1fc0a480a0a4ce404b0cc31fd31bae0b2906a856c476f33ba5d4121689204",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -5693,51 +6607,57 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MG6FVE32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015392/"
+    }
   },
   {
-    "id": 2006,
+    "id": 2265,
     "cat": 5,
-    "name": "インナー付半袖シャツ",
-    "brand": "le coq sportif golf",
-    "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012981/",
-    "checked": "2026-10-23",
-    "fact": "インナー付半袖シャツ。掲載カラー：ホワイト（WH00）。",
+    "name": "10年ポロシャツ ビッグピート（ネイビー）",
+    "brand": "MUNSINGWEAR",
+    "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015613/",
+    "checked": "2026-10-26",
+    "fact": "綿・ポリエステル混紡の長袖ポロシャツ。胸に大きなペンギン刺繍。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
-    "price": 5720,
+    "price": 19800,
     "unit": "1セット",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月26日確認の公式税込価格19,800円・送料別。クーポン・ポイント値引きは含みません。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "半袖シャツとインナーを組み合わせたい方へ。セット内容と両方のサイズを確認して選べます。",
-    "image": "assets/products/2006.jpg",
-    "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM012981_1_l.jpg",
+    "for": "長袖の襟付きシャツを探す人へ。レギュラーシルエットと身幅・袖丈を確認して選べます。",
+    "image": "assets/products/2265.jpg",
+    "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015613_1_l.jpg",
     "imageLabel": "公式商品写真",
     "specs": {
-      "種類": "半袖シャツ・インナーセット",
-      "品番": "LG5FTZ00M",
-      "カラー": "ホワイト（WH00）",
+      "種類": "トップス",
+      "品番": "MG6FLS01M",
+      "カラー": "ネイビー（NV00）",
       "掲載サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "半袖シャツとインナーを組み合わせたい方へ。セット内容と両方のサイズを確認して選べます。",
+    "recommendationReason": "長袖の襟付きシャツを探す人へ。レギュラーシルエットと身幅・袖丈を確認して選べます。",
     "recommendationRank": 147,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
-    "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012981/",
+    "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015613/",
     "recommendationRanks": {
       "men": 105,
       "women": null
     },
     "apparelType": "tops",
-    "modelCode": "LG5FTZ00M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
-    "imageSha256": "814167b9a01b81d73b0594eab0d0b05e10274ad3f57e0f9b018b40887f2cf515",
-    "imageVerified": "2026-10-23"
+    "modelCode": "MG6FLS01M",
+    "availability": "確認時点でM・L・LL・3Lに在庫あり",
+    "availabilityChecked": "2026-10-26",
+    "imageSha256": "9d9f7386436d00f3e895abc8955e6f851e5a2d35ccdafe3f4f543d8f6051caa8",
+    "imageVerified": "2026-10-26"
   },
   {
     "id": 2260,
@@ -5745,17 +6665,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "スウェット スカート (WOMENS)",
     "source": "https://mix.tokyo/products/0126234507?variant=44187528757313",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "脚のラインをすっきりと見せる綺麗なシルエットが魅力のスウェットスカート。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 9900,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "トップスと合わせるボトムスを探す人へ。丈・腰回り・インナーの仕様を比較できます。",
+    "for": "柔らかな素材のスカートを探す人へ。ストレッチ性のあるスウェット生地で、総丈は42cm。",
     "image": "assets/products/2260.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126234507-030_MAIN.jpg?v=1786388553&width=720",
     "imageLabel": "公式商品写真",
@@ -5765,10 +6685,10 @@ const catalogData = [
       "種類": "スカート・キュロット",
       "在庫のある掲載色サイズ": "00 / 0 / 1 / 2 / 3"
     },
-    "recommendationReason": "トップスと合わせるボトムスを探す人へ。丈・腰回り・インナーの仕様を比較できます。",
+    "recommendationReason": "柔らかな素材のスカートを探す人へ。ストレッチ性のあるスウェット生地で、総丈は42cm。",
     "recommendationRank": 148,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "d0a3632c310d08f19e6224cad50ae576f578a510058b4584d20db0573dfc2c91",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5780,8 +6700,13 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "0126234507",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126234507?variant=44187528757313"
+    }
   },
   {
     "id": 2045,
@@ -5789,17 +6714,17 @@ const catalogData = [
     "name": "ロングパンツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007924/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ロングパンツ。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 25300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "普段にも使える長いパンツを探す人へ。ナイロン系の伸縮素材で、腰裏に滑り止めを備えたストレート。",
     "image": "assets/products/2045.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM007924_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5807,11 +6732,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "DG6SLP01M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96",
+      "在庫のある掲載色サイズ": "76 / 79 / 82 / 85 / 88 / 92"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "普段にも使える長いパンツを探す人へ。ナイロン系の伸縮素材で、腰裏に滑り止めを備えたストレート。",
     "recommendationRank": 149,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007924/",
@@ -5822,9 +6748,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "DG6SLP01M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "e6e0449cd4b1b3198f969c5bce25e330009af29fd55c1f2d1566ad4bc17dd9e1",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007924/"
+    }
   },
   {
     "id": 2252,
@@ -5832,29 +6764,30 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "Essential Womens 4wayトリコットストレッチ ショートパンツ",
     "source": "https://www.footjoy.jp/womengolf-apparelbottoms/fjw-s26-bep01/FJW-S26-BEP01.html?dwvar_FJW-S26-BEP01_color=40620",
-    "checked": "2026-10-23",
-    "fact": "妥協のない機能性と洗練されたシルエット",
+    "checked": "2026-10-26",
+    "fact": "トリコット素材のショートパンツ。メーカーはストレッチ・UVカット・吸汗速乾機能を紹介。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 13200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "for": "伸縮性を重視した短パンを探す人へ。トリコット素材で、UVカットと吸汗速乾機能を備えます。",
     "image": "assets/products/2252.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw7ec7b5ca/FJ_40620_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
     "specs": {
       "品番": "FJW-S26-BEP01",
       "掲載色": "ベージュ",
-      "種類": "パンツ"
+      "種類": "パンツ",
+      "在庫のある掲載色サイズ": "S / M / L / XL / XXL"
     },
-    "recommendationReason": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "recommendationReason": "伸縮性を重視した短パンを探す人へ。トリコット素材で、UVカットと吸汗速乾機能を備えます。",
     "recommendationRank": 150,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "3a1944ac67f7feab05a28d40c2d88f3808d311112bb61cf3c8b3de591d664dca",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5866,8 +6799,13 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "FJW-S26-BEP01",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/womengolf-apparelbottoms/fjw-s26-bep01/FJW-S26-BEP01.html?dwvar_FJW-S26-BEP01_color=40620"
+    }
   },
   {
     "id": 2009,
@@ -5875,17 +6813,17 @@ const catalogData = [
     "name": "ハイブリッドVネックニットベスト",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015578/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ハイブリッドVネックニットベスト。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 17600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "for": "ポロシャツに重ねるベストを探す人へ。ニットと布帛を組み合わせたVネック。",
     "image": "assets/products/2009.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015578_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5893,11 +6831,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "MG6FVE35M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "ポロシャツに重ねるベストを探す人へ。ニットと布帛を組み合わせたVネック。",
     "recommendationRank": 151,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015578/",
@@ -5908,9 +6847,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FVE35M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "c688e8e6e975eca5e7ba766ab121f0c23c815acb3fe30c1f5639c72c9e16d0cd",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015578/"
+    }
   },
   {
     "id": 2100,
@@ -5918,17 +6863,17 @@ const catalogData = [
     "name": "接触冷感バックエンボスロゴ半袖ポロシャツ（ブラック（BK00））",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007936/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "接触冷感バックエンボスロゴ半袖ポロシャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 22000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "すっきりした半袖ポロを探す人へ。背面の立体ロゴと、接触冷感素材が特徴。",
     "image": "assets/products/2100.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EW007936_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -5937,11 +6882,12 @@ const catalogData = [
       "メーカー品番": "DG6SHS54L",
       "掲載商品コード": "DE2188EW007936",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / O"
+      "掲載サイズ": "S / M / L / O",
+      "在庫のある掲載色サイズ": "S / M / L / O"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "すっきりした半袖ポロを探す人へ。背面の立体ロゴと、接触冷感素材が特徴。",
     "recommendationRank": 152,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "ee58defdb1f1e2b55926df9ef93dbef3bc4d7028b0d32fa51ecd6bae59feb64e",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -5953,8 +6899,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS54L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007936/"
+    }
   },
   {
     "id": 2213,
@@ -5962,17 +6914,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "超速乾 総柄 ハーフスリーブ カラーシャツ (MENS)",
     "source": "https://mix.tokyo/products/0126268001?variant=44016764747841",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "躍動感のあるエフェクトロゴボーダーを配した総柄デザインが目を惹くカラーシャツ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 6237,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "柄と涼しげな素材感で選びたい人へ。ロゴ総柄のダブルメッシュ半袖シャツ。",
     "image": "assets/products/2213.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126268001-010_MAIN.jpg?v=1792076529&width=720",
     "imageLabel": "公式商品写真",
@@ -5982,10 +6934,10 @@ const catalogData = [
       "種類": "トップス",
       "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "柄と涼しげな素材感で選びたい人へ。ロゴ総柄のダブルメッシュ半袖シャツ。",
     "recommendationRank": 153,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "57214d74c8ee19b3abf150897cd8716ffcbbd6e834d6be7dadf0bd75ccc7205b",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -5997,8 +6949,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "0126268001",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126268001?variant=44016764747841"
+    }
   },
   {
     "id": 2126,
@@ -6006,17 +6963,17 @@ const catalogData = [
     "name": "レインウェア（ワンピース）（(NV00)（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008727/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "レインウェア（ワンピース）",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 16940,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "雨天用のワンピースを比較したい人へ。耐水性・サイズ・重ね着の余裕を公式仕様で確認してください。",
+    "for": "雨の日のワンピース型を探す人へ。袖を取り外せ、フードを襟に収納できるレインウェア。",
     "image": "assets/products/2126.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW008727_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6025,11 +6982,12 @@ const catalogData = [
       "メーカー品番": "QGWXJF00W",
       "掲載商品コード": "LE1872EW008727",
       "カラー": "(NV00)（NV00）",
-      "掲載サイズ": "S / M / L / LL"
+      "掲載サイズ": "S / M / L / LL",
+      "在庫のある掲載色サイズ": "S / M / L / LL"
     },
-    "recommendationReason": "雨天用のワンピースを比較したい人へ。耐水性・サイズ・重ね着の余裕を公式仕様で確認してください。",
+    "recommendationReason": "雨の日のワンピース型を探す人へ。袖を取り外せ、フードを襟に収納できるレインウェア。",
     "recommendationRank": 154,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "aa9c3b6abfb98c524193848657a363b84720e40d9c93214aa20a11b9c3ac5fe1",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -6041,8 +6999,14 @@ const catalogData = [
     "apparelType": "dress",
     "modelCode": "QGWXJF00W",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008727/"
+    }
   },
   {
     "id": 2054,
@@ -6050,17 +7014,17 @@ const catalogData = [
     "name": "リップストップウォームプルオーバージャケット",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001322/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "リップストップウォームプルオーバージャケット。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 29700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "襟のない防寒着を探す人へ。伸縮性のある表地と保温裏地を組み合わせた、クルーネックのプルオーバー。",
     "image": "assets/products/2054.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001322_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6068,11 +7032,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MU6FJK07M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "襟のない防寒着を探す人へ。伸縮性のある表地と保温裏地を組み合わせた、クルーネックのプルオーバー。",
     "recommendationRank": 155,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001322/",
@@ -6083,9 +7048,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MU6FJK07M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "75fed7f90f6c850bb59c785de50dd338ee7f4a4bd87d851c36d77ed73746b380",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001322/"
+    }
   },
   {
     "id": 2133,
@@ -6093,17 +7064,17 @@ const catalogData = [
     "name": "ドットプリントハイネック長袖シャツ【蓄熱保温】（ホワイト（WH00））",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008694/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ドットプリントハイネック長袖シャツ【蓄熱保温】",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 29700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "重ね着から柄を見せたい人へ。ロゴを織り交ぜたドットプリントのハイネック長袖。掲載サイズを要確認。",
     "image": "assets/products/2133.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LA/LA7956EW008694_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6112,11 +7083,12 @@ const catalogData = [
       "メーカー品番": "VG6FLS31L",
       "掲載商品コード": "LA7956EW008694",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
+      "在庫のある掲載色サイズ": "40"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "重ね着から柄を見せたい人へ。ロゴを織り交ぜたドットプリントのハイネック長袖。掲載サイズを要確認。",
     "recommendationRank": 156,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "e5ebca4061d31c628c47311f326ea0892369a99db6558c458e2ca8601f9d4603",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -6128,8 +7100,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "VG6FLS31L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008694/"
+    }
   },
   {
     "id": 2203,
@@ -6137,17 +7115,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "FJサーモシリーズ ソリッド長袖ポロシャツ",
     "source": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s08/FJ-F26-S08.html?dwvar_FJ-F26-S08_color=41814",
-    "checked": "2026-10-23",
-    "fact": "天候の変化に対応する、パフォーマンスレイヤー",
+    "checked": "2026-10-26",
+    "fact": "メーカーが裏起毛ストレッチ素材を紹介する長袖ポロ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 16500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "肌寒い日の長袖ポロを探す人へ。裏起毛のストレッチ素材で、重ね着にも使える一枚。",
     "image": "assets/products/2203.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dwd47e5f9c/FJ_41814_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -6155,12 +7133,12 @@ const catalogData = [
       "品番": "FJ-F26-S08",
       "掲載色": "ブラック",
       "種類": "トップス",
-      "在庫のある掲載色サイズ": "3XL / L / M / S / XL / 2XL"
+      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "肌寒い日の長袖ポロを探す人へ。裏起毛のストレッチ素材で、重ね着にも使える一枚。",
     "recommendationRank": 157,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "d595315a152e696c5e1ce64921b5272f024cd3dc5583e314fe1841b0e92b9457",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -6172,8 +7150,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "FJ-F26-S08",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s08/FJ-F26-S08.html?dwvar_FJ-F26-S08_color=41814"
+    }
   },
   {
     "id": 2127,
@@ -6181,17 +7164,17 @@ const catalogData = [
     "name": "【ストレッチフォーサー】ハイネックアンダーシャツ（ブラック（BK00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008816/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【ストレッチフォーサー】ハイネックアンダーシャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 5544,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "重ね着用のインナーを探す人へ。フィット感と素材を確認して選べます。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 10月27日、公式ページにサイズ交換・返品不可の表示を確認。購入前にサイズと返品条件をご確認ください。",
+    "for": "首元まで覆うインナーを探す人へ。伸縮性のある長袖ハイネック。掲載色のサイズと返品条件を要確認。",
     "image": "assets/products/2127.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW008816_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6200,11 +7183,12 @@ const catalogData = [
       "メーカー品番": "QGWXJM00",
       "掲載商品コード": "LE1872EW008816",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / LL"
+      "掲載サイズ": "S / M / L / LL",
+      "在庫のある掲載色サイズ": "S"
     },
-    "recommendationReason": "重ね着用のインナーを探す人へ。フィット感と素材を確認して選べます。",
+    "recommendationReason": "首元まで覆うインナーを探す人へ。伸縮性のある長袖ハイネック。掲載色のサイズと返品条件を要確認。",
     "recommendationRank": 158,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "b772babb82ad8e442173c2c326b78f072072b3d277d9bce3cbf83a594d0733b4",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -6216,8 +7200,14 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "QGWXJM00",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008816/"
+    }
   },
   {
     "id": 2047,
@@ -6225,17 +7215,17 @@ const catalogData = [
     "name": "ロングパンツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007834/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ロングパンツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 27500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。 掲載色WH00はポリエステル系素材です。他色と素材・機能が異なるため、色別の公式仕様をご確認ください。",
+    "for": "白の長いパンツを探す人へ。腰裏の滑り止めと立体的な裁断が特徴。色によって素材・機能が異なります。",
     "image": "assets/products/2047.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM007834_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6243,11 +7233,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "DG6SLP00M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96",
+      "在庫のある掲載色サイズ": "79 / 82 / 85 / 88 / 92"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "白の長いパンツを探す人へ。腰裏の滑り止めと立体的な裁断が特徴。色によって素材・機能が異なります。",
     "recommendationRank": 159,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007834/",
@@ -6258,9 +7249,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "DG6SLP00M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "9923b95ec03f578567c0266d7aba754767c0635cb7ac999f252019737cccd480",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007834/"
+    }
   },
   {
     "id": 2256,
@@ -6268,17 +7265,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "クルーネック ニット プルオーバー (WOMENS)",
     "source": "https://mix.tokyo/products/0126270502?variant=44365136756801",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "遊び心ある個性的なロゴ使いが目を引く、デザイン性の高いニットプルオーバー。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 16500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "ニットの着心地やコーディネートを比べたい人へ。重ね着時のサイズ感を確認できます。",
+    "for": "ニットを着こなしの主役にしたい人へ。ロゴとジャカードの編み地が特徴。",
     "image": "assets/products/2256.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126270502-042_MAIN.jpg?v=1791889367&width=720",
     "imageLabel": "公式商品写真",
@@ -6288,10 +7285,10 @@ const catalogData = [
       "種類": "ニット",
       "在庫のある掲載色サイズ": "0 / 1 / 2"
     },
-    "recommendationReason": "ニットの着心地やコーディネートを比べたい人へ。重ね着時のサイズ感を確認できます。",
+    "recommendationReason": "ニットを着こなしの主役にしたい人へ。ロゴとジャカードの編み地が特徴。",
     "recommendationRank": 160,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "e78bf59e4945bdddcce9f92957005245dd9a3f053abb8082e647588588ce0f70",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -6303,8 +7300,13 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "0126270502",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126270502?variant=44365136756801"
+    }
   },
   {
     "id": 2024,
@@ -6312,17 +7314,17 @@ const catalogData = [
     "name": "ケーブル編セーターベスト",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014706/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ケーブル編セーターベスト。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 11990,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "for": "シャツに重ねるニットを探す人へ。ケーブル編みのVネックベストで、自宅で手洗いできます。",
     "image": "assets/products/2024.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014706_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6330,11 +7332,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6FVE50M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "シャツに重ねるニットを探す人へ。ケーブル編みのVネックベストで、自宅で手洗いできます。",
     "recommendationRank": 161,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014706/",
@@ -6345,9 +7348,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6FVE50M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "f05bcf63166b3397135a24719f13fb900bb035e373a1f1630a014029fda119d8",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014706/"
+    }
   },
   {
     "id": 2112,
@@ -6355,17 +7364,17 @@ const catalogData = [
     "name": "ペンギンストライプジャガードワンピース（ネイビー（NV00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015200/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ペンギンストライプジャガードワンピース",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 27500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "ワンピース型の着こなしを探す人へ。丈や重ね着の余裕を確認して選べます。",
+    "for": "一枚で装いをまとめたい人へ。ペンギン柄のジャガードと、高めのウエスト位置が特徴のワンピース。",
     "image": "assets/products/2112.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015200_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6374,11 +7383,12 @@ const catalogData = [
       "メーカー品番": "MG6FOP31L",
       "掲載商品コード": "M01871EW015200",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "L / LL / 3L"
     },
-    "recommendationReason": "ワンピース型の着こなしを探す人へ。丈や重ね着の余裕を確認して選べます。",
+    "recommendationReason": "一枚で装いをまとめたい人へ。ペンギン柄のジャガードと、高めのウエスト位置が特徴のワンピース。",
     "recommendationRank": 162,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "f618773f72ec194fd72e01a10d96b79e9fb8740863d6222341e36769126cf3e3",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -6390,8 +7400,14 @@ const catalogData = [
     "apparelType": "dress",
     "modelCode": "MG6FOP31L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015200/"
+    }
   },
   {
     "id": 2211,
@@ -6399,17 +7415,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "UV ハーフスリーブ スウェット クルーネック プルオーバー (MENS)",
     "source": "https://mix.tokyo/products/0126264001?variant=44063804031041",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "気負わず着こなせるスウェットプルオーバー。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 7700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "ゆったり着られる半袖を探す人へ。吸汗速乾・UVカット機能付きのクルーネック。",
     "image": "assets/products/2211.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126264001-010_MAIN.jpg?v=1792076511&width=720",
     "imageLabel": "公式商品写真",
@@ -6419,10 +7435,10 @@ const catalogData = [
       "種類": "トップス",
       "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "ゆったり着られる半袖を探す人へ。吸汗速乾・UVカット機能付きのクルーネック。",
     "recommendationRank": 163,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "5e2be1089bd5a67b6d678a9b10b4982cf63344e1ba04a8d84408c4e44a833429",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -6434,8 +7450,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "0126264001",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126264001?variant=44063804031041"
+    }
   },
   {
     "id": 2253,
@@ -6443,29 +7464,30 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "Essential Womens 4wayツイルストレッチ ロングパンツ",
     "source": "https://www.footjoy.jp/womengolf-apparelbottoms/fjw-s26-bep02/FJW-S26-BEP02.html?dwvar_FJW-S26-BEP02_color=40623",
-    "checked": "2026-10-23",
-    "fact": "妥協のない機能性と洗練されたシルエット",
+    "checked": "2026-10-26",
+    "fact": "4WAYストレッチツイル素材のロングパンツ。メーカーは吸湿速乾機能を紹介。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 14300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "for": "すっきりしたロングパンツを探す人へ。4方向に伸びるツイル素材と吸湿速乾機能が特徴。",
     "image": "assets/products/2253.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw72213529/FJ_40623_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
     "specs": {
       "品番": "FJW-S26-BEP02",
       "掲載色": "ネイビー",
-      "種類": "パンツ"
+      "種類": "パンツ",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "recommendationReason": "すっきりしたロングパンツを探す人へ。4方向に伸びるツイル素材と吸湿速乾機能が特徴。",
     "recommendationRank": 164,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "d858f676807a5576ff9a41cf616e5300efdb1615944d3d796b07c58a48a4366f",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -6477,8 +7499,13 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "FJW-S26-BEP02",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/womengolf-apparelbottoms/fjw-s26-bep02/FJW-S26-BEP02.html?dwvar_FJW-S26-BEP02_color=40623"
+    }
   },
   {
     "id": 2015,
@@ -6486,17 +7513,17 @@ const catalogData = [
     "name": "はっ水ストレッチディタッチャブルブルゾン",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014521/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "はっ水ストレッチディタッチャブルブルゾン。掲載カラー：グレー（GY00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "気温に合わせて着方を変えたい人へ。袖を取り外せる2WAYブルゾン。伸縮性とはっ水性のある素材。",
     "image": "assets/products/2015.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM014521_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6504,11 +7531,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6SJK33M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "L / LL / 3L"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "気温に合わせて着方を変えたい人へ。袖を取り外せる2WAYブルゾン。伸縮性とはっ水性のある素材。",
     "recommendationRank": 165,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014521/",
@@ -6519,9 +7547,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MG6SJK33M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "bbe64531f67eb4dc7abafb3b7c54041a5272123513bf236403a1aca4bae32b1c",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014521/"
+    }
   },
   {
     "id": 2101,
@@ -6529,17 +7563,17 @@ const catalogData = [
     "name": "裾プリーツスカート（カーキ（KH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012924/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "裾プリーツスカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 6050,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 インナースパッツは付属しません。掲載色カーキには裏地が付かず、公式ではホワイトのみ裏地付きと案内されています。",
+    "for": "控えめなプリーツで選びたい人へ。裾のサイドにプリーツを配置。インナースパッツは付属しません。",
     "image": "assets/products/2101.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW012924_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6548,11 +7582,12 @@ const catalogData = [
       "メーカー品番": "LG5FSK00L",
       "掲載商品コード": "LE1872EW012924",
       "カラー": "カーキ（KH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "控えめなプリーツで選びたい人へ。裾のサイドにプリーツを配置。インナースパッツは付属しません。",
     "recommendationRank": 166,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "bd35fad0c5a618f73688ba84a0e3b7803b01d0a09e089f70bd7a05e0a5becec2",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -6564,8 +7599,14 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG5FSK00L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012924/"
+    }
   },
   {
     "id": 2035,
@@ -6573,17 +7614,17 @@ const catalogData = [
     "name": "STYLE M1A-2 パターンパンツ",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001258/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "STYLE M1A-2 パターンパンツ。掲載カラー：ブラウン（BW00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "腰回りにゆとりのあるパンツを探す人へ。2タック入りのチェック柄で、裾に向かって細くなる形。",
     "image": "assets/products/2035.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001258_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6591,11 +7632,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MU6FLP03M",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "腰回りにゆとりのあるパンツを探す人へ。2タック入りのチェック柄で、裾に向かって細くなる形。",
     "recommendationRank": 167,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001258/",
@@ -6606,9 +7648,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MU6FLP03M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "81c46dde6a61d430bd7b599c0691da4a2338a734c32324e5d1838219e462e1f8",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001258/"
+    }
   },
   {
     "id": 2107,
@@ -6616,17 +7664,17 @@ const catalogData = [
     "name": "タイダイプリント裾リブモックネックシャツ（ネイビー（NV00））",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008114/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "タイダイプリント裾リブモックネックシャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "ゆとりのある柄トップスを探す人へ。タイダイ柄の半袖で、裾のボタンでスリットを変えられます。",
     "image": "assets/products/2107.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EW008114_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6635,11 +7683,12 @@ const catalogData = [
       "メーカー品番": "DG6SHS60L",
       "掲載商品コード": "DE2188EW008114",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / O"
+      "掲載サイズ": "S / M / L / O",
+      "在庫のある掲載色サイズ": "S / M / L"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "ゆとりのある柄トップスを探す人へ。タイダイ柄の半袖で、裾のボタンでスリットを変えられます。",
     "recommendationRank": 168,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "d61bde27f54c9723bea3fbd20db6226de5677fe7b92b3e47782eb9df989d7ae2",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -6651,8 +7700,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS60L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008114/"
+    }
   },
   {
     "id": 2002,
@@ -6660,17 +7715,17 @@ const catalogData = [
     "name": "【Sunscreen NIR】無地鹿の子半袖シャツ",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014167/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【Sunscreen NIR】無地鹿の子半袖シャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 5990,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "無地の半袖ポロを揃えたい人へ。薄手の鹿の子素材と、胸の刺繍が特徴。",
     "image": "assets/products/2002.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014167_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6678,11 +7733,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHSD3M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "無地の半袖ポロを揃えたい人へ。薄手の鹿の子素材と、胸の刺繍が特徴。",
     "recommendationRank": 169,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014167/",
@@ -6693,9 +7749,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHSD3M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "7dfe28a56786abbfe9f083f2ab08ca9f223956fc6526066fae8642937a36fcb2",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014167/"
+    }
   },
   {
     "id": 2259,
@@ -6703,17 +7765,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "フルジップ ニット ブルゾン (WOMENS)",
     "source": "https://mix.tokyo/products/0126272501?variant=44195945119809",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "大きめの襟が上品で洗練された印象を演出するフルジップ仕様のニットブルゾン。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "for": "襟付きのニット羽織りを探す人へ。フルジップと前ポケットで、脱ぎ着や小物の収納にも配慮。",
     "image": "assets/products/2259.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126272501-130_MAIN.jpg?v=1789470166&width=720",
     "imageLabel": "公式商品写真",
@@ -6723,10 +7785,10 @@ const catalogData = [
       "種類": "アウター",
       "在庫のある掲載色サイズ": "0 / 1 / 2"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "recommendationReason": "襟付きのニット羽織りを探す人へ。フルジップと前ポケットで、脱ぎ着や小物の収納にも配慮。",
     "recommendationRank": 170,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "5631e19b4ecd6bfd5cd9722626d1cb69cf372c46e34d81406d67ee0963d16380",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -6738,8 +7800,13 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "0126272501",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126272501?variant=44195945119809"
+    }
   },
   {
     "id": 2210,
@@ -6747,17 +7814,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "フルジップ スタンド ニット ブルゾン (MENS)",
     "source": "https://mix.tokyo/products/0126272001?variant=44188777381953",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "配色切替デザインがスポーティーな印象を演出するスタンドニットブルゾン。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "for": "ニットをブルゾン感覚で着たい人へ。立ち襟・フルジップと胸の配色切替が特徴。",
     "image": "assets/products/2210.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126272001-042_MAIN.jpg?v=1787050984&width=720",
     "imageLabel": "公式商品写真",
@@ -6767,10 +7834,10 @@ const catalogData = [
       "種類": "アウター",
       "在庫のある掲載色サイズ": "4 / 5 / 6 / 7"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "recommendationReason": "ニットをブルゾン感覚で着たい人へ。立ち襟・フルジップと胸の配色切替が特徴。",
     "recommendationRank": 171,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "1a6760bfdb9362201b44dff399f3037813c9c40a1b40e6b7e18f9c21d42a11f1",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -6782,8 +7849,13 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "0126272001",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126272001?variant=44188777381953"
+    }
   },
   {
     "id": 2110,
@@ -6791,17 +7863,17 @@ const catalogData = [
     "name": "裏付きフーディセーター（ホワイト（WH00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015186/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "裏付きフーディセーター",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 29700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "for": "風のある日のニットを探す人へ。身頃に防風裏地を備えたフード付きセーター。手洗いも可能。",
     "image": "assets/products/2110.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015186_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6810,11 +7882,12 @@ const catalogData = [
       "メーカー品番": "MG6FST33L",
       "掲載商品コード": "M01871EW015186",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / 3L"
     },
-    "recommendationReason": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "recommendationReason": "風のある日のニットを探す人へ。身頃に防風裏地を備えたフード付きセーター。手洗いも可能。",
     "recommendationRank": 172,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "89c9edf5c6c9f8db277fd3004a3d01308d9b60ad7e6f9a2d429aa2620dbd5f5f",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -6826,8 +7899,14 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST33L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015186/"
+    }
   },
   {
     "id": 2038,
@@ -6835,17 +7914,17 @@ const catalogData = [
     "name": "6Dパターンストレッチロングパンツ",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015523/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "6Dパターンストレッチロングパンツ。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "腰回りの仕様で選びたい人へ。後ろウエストのゴムと、左脇の隠しポケットを備えた長いパンツ。",
     "image": "assets/products/2038.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015523_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6853,11 +7932,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MG6FLP33M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100"
+      "掲載サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100",
+      "在庫のある掲載色サイズ": "74-78 / 79-83 / 84-88 / 95-100"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "腰回りの仕様で選びたい人へ。後ろウエストのゴムと、左脇の隠しポケットを備えた長いパンツ。",
     "recommendationRank": 173,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015523/",
@@ -6868,9 +7948,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP33M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "722bd6b9b7585c91ae18f18555fef15896ec174820f557c652a346f84db41543",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015523/"
+    }
   },
   {
     "id": 2116,
@@ -6878,17 +7964,17 @@ const catalogData = [
     "name": "【AIR STYLISH】テーパード9分丈パンツ（グリーン（GR00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013839/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【AIR STYLISH】テーパード9分丈パンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 7700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "足首が見えるパンツを探す人へ。裾に向かって細くなる9分丈で、収納できるDカン付き。",
     "image": "assets/products/2116.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW013839_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6897,11 +7983,12 @@ const catalogData = [
       "メーカー品番": "LG6SLP51L",
       "掲載商品コード": "LE1872EW013839",
       "カラー": "グリーン（GR00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "L / LL"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "足首が見えるパンツを探す人へ。裾に向かって細くなる9分丈で、収納できるDカン付き。",
     "recommendationRank": 174,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "06c8942c6f005bb6beb596fa411445819b440b2f657007622094ecc1d41320d9",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -6913,8 +8000,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "LG6SLP51L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013839/"
+    }
   },
   {
     "id": 2028,
@@ -6922,17 +8015,17 @@ const catalogData = [
     "name": "【アーカイブロゴシリーズ｜武井壮着用】アーカイブデザインVネックセーター",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014365/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【アーカイブロゴシリーズ｜武井壮着用】アーカイブデザインVネックセーター。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 13200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "for": "ロゴ入りニットを探す人へ。ウール混のVネックに、異なる書体のマークを配置。手洗いできます。",
     "image": "assets/products/2028.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014365_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6940,11 +8033,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6FSTA0MB",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "ロゴ入りニットを探す人へ。ウール混のVネックに、異なる書体のマークを配置。手洗いできます。",
     "recommendationRank": 175,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014365/",
@@ -6955,9 +8049,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6FSTA0MB",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "2e4129ebd356f4fc7c1645e27280196389e7223a668450bd03f29a0afd87afb7",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014365/"
+    }
   },
   {
     "id": 2255,
@@ -6965,17 +8065,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "ウィメンズFJサーモシリーズ ベースレイヤーレギンス",
     "source": "https://www.footjoy.jp/fj/fj-thermoseries/fjw-f26-b02/FJW-F26-B02.html?dwvar_FJW-F26-B02_color=41885",
-    "checked": "2026-10-23",
-    "fact": "天候の変化に対応する、パフォーマンスレイヤー",
+    "checked": "2026-10-26",
+    "fact": "裏起毛のストレッチ素材を使ったレギンス。メーカーは吸湿速乾・UVカット機能を紹介。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 11000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "重ね着用のインナーを選びたい人へ。締め付けとサイズを確認できます。",
+    "for": "寒い日の脚の重ね着を探す人へ。裏起毛のストレッチ素材を使ったレギンス。",
     "image": "assets/products/2255.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw68b0aa94/FJ_41885_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -6983,12 +8083,12 @@ const catalogData = [
       "品番": "FJW-F26-B02",
       "掲載色": "ヴィンテージブルー",
       "種類": "インナー",
-      "在庫のある掲載色サイズ": "L / M / S / XL"
+      "在庫のある掲載色サイズ": "S / M / L / XL"
     },
-    "recommendationReason": "重ね着用のインナーを選びたい人へ。締め付けとサイズを確認できます。",
+    "recommendationReason": "寒い日の脚の重ね着を探す人へ。裏起毛のストレッチ素材を使ったレギンス。",
     "recommendationRank": 176,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "44b2e2fde131d3908f09d9ec8dd5d9ccb1e76051274fa92e8c554ba0945a9011",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -7000,8 +8100,13 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "FJW-F26-B02",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/fj/fj-thermoseries/fjw-f26-b02/FJW-F26-B02.html?dwvar_FJW-F26-B02_color=41885"
+    }
   },
   {
     "id": 2036,
@@ -7009,17 +8114,17 @@ const catalogData = [
     "name": "防風ストレッチカットソーベスト",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015712/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "防風ストレッチカットソーベスト。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "肌寒い日に羽織るベストを探す人へ。前開きで、防風・はっ水性と縦横の伸縮性を備えた素材。",
     "image": "assets/products/2036.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015712_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7027,11 +8132,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6FVE32M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "L / LL / 3L"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "肌寒い日に羽織るベストを探す人へ。前開きで、防風・はっ水性と縦横の伸縮性を備えた素材。",
     "recommendationRank": 177,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015712/",
@@ -7042,9 +8148,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MG6FVE32M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "b9f06169f7bb3f4c0dba88c29ad1691d2a64e77bce60e512572a6912c859901f",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015712/"
+    }
   },
   {
     "id": 2128,
@@ -7052,17 +8164,17 @@ const catalogData = [
     "name": "ロゴジャカードハーフジップ長袖シャツ【UV/2WAYストレッチ】（ブラック（BK00））",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008222/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ロゴジャカードハーフジップ長袖シャツ【UV/2WAYストレッチ】",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 29700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "控えめな総柄で選びたい人へ。同色のロゴを編み込んだ、縦横に伸びるハーフジップ長袖。",
     "image": "assets/products/2128.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LA/LA7956EW008222_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7071,11 +8183,12 @@ const catalogData = [
       "メーカー品番": "VG6FLS12L",
       "掲載商品コード": "LA7956EW008222",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
+      "在庫のある掲載色サイズ": "36 / 38 / 44"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "控えめな総柄で選びたい人へ。同色のロゴを編み込んだ、縦横に伸びるハーフジップ長袖。",
     "recommendationRank": 178,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "6d86f814a222f3e2a3de47ae7eeafe76b50f43dc3f5afb9dbaf813eb6b7f55c6",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7087,8 +8200,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "VG6FLS12L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008222/"
+    }
   },
   {
     "id": 1013,
@@ -7096,17 +8215,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "FJサーモシリーズ カラーブロック モックネック長袖シャツ",
     "source": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s06/FJ-F26-S06.html?dwvar_FJ-F26-S06_color=41806",
-    "checked": "2026-10-23",
-    "fact": "天候の変化に対応する、パフォーマンスレイヤー",
+    "checked": "2026-10-26",
+    "fact": "表面にピーチ加工を施した、配色切替のモックネック長袖シャツ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "首元まで覆う長袖を探す人へ。ピーチ加工の表面とカラーブロックが特徴。",
     "image": "assets/products/2201.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dw2ea1b5b8/FJ_41806_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -7114,12 +8233,12 @@ const catalogData = [
       "品番": "FJ-F26-S06",
       "掲載色": "ブラック",
       "種類": "トップス",
-      "在庫のある掲載色サイズ": "3XL / L / M / S / XL / 2XL"
+      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "首元まで覆う長袖を探す人へ。ピーチ加工の表面とカラーブロックが特徴。",
     "recommendationRank": 179,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "6ab47493fbd8a63a69989c32315d7746c51637ce9bff0a6741e0c48b660c715d",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -7131,8 +8250,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "FJ-F26-S06",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s06/FJ-F26-S06.html?dwvar_FJ-F26-S06_color=41806"
+    }
   },
   {
     "id": 2261,
@@ -7140,17 +8264,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "撥水 軽量 ソフトシェル フルジップ フーディー (WOMENS)",
     "source": "https://mix.tokyo/products/0126220503?variant=44294948651073",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "軽やかに羽織れる一重仕立てと、すっきりとしたフルジップデザインが魅力のソフトシェルフルジップフーディー。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "for": "軽く羽織れるパーカーを探す人へ。一重仕立てのソフトシェルで、撥水性も備えます。",
     "image": "assets/products/2261.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126220503-042_MAIN.jpg?v=1788865371&width=720",
     "imageLabel": "公式商品写真",
@@ -7160,10 +8284,10 @@ const catalogData = [
       "種類": "アウター",
       "在庫のある掲載色サイズ": "1 / 2 / 3"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りのゆとりと脱ぎ着のしやすさを確認できます。",
+    "recommendationReason": "軽く羽織れるパーカーを探す人へ。一重仕立てのソフトシェルで、撥水性も備えます。",
     "recommendationRank": 180,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "3b048482af3f51df20c45a63c9986477e1f99212a038520843b98bbd4f6dc190",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -7175,8 +8299,13 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "0126220503",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126220503?variant=44294948651073"
+    }
   },
   {
     "id": 2004,
@@ -7184,17 +8313,17 @@ const catalogData = [
     "name": "【公式オンライン限定】ゴルフプラクティス半袖シャツ",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014123/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【公式オンライン限定】ゴルフプラクティス半袖シャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 6160,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "練習用のTシャツを探す人へ。ゴルフの動きに合わせた立体設計と、背中のプリントが特徴。",
     "image": "assets/products/2004.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014123_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7202,11 +8331,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHSD0M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "SS / M / L / LL / 3L"
+      "掲載サイズ": "SS / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / LL / 3L"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "練習用のTシャツを探す人へ。ゴルフの動きに合わせた立体設計と、背中のプリントが特徴。",
     "recommendationRank": 181,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014123/",
@@ -7217,9 +8347,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHSD0M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "94a581db446f6df0568cfc095718677c0dc5a6ddd6137c12370e7b97e3cf6fe4",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014123/"
+    }
   },
   {
     "id": 2148,
@@ -7227,17 +8363,17 @@ const catalogData = [
     "name": "ロングパンツ（ネイビー（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012737/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ロングパンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 9240,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "普段にも使える秋冬パンツを探す人へ。5ポケット仕様と腰裏の滑り止めが特徴の、長いストレート。",
     "image": "assets/products/2148.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW012737_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7246,11 +8382,12 @@ const catalogData = [
       "メーカー品番": "LG5FLP01L",
       "掲載商品コード": "LE1872EW012737",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "LL"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "普段にも使える秋冬パンツを探す人へ。5ポケット仕様と腰裏の滑り止めが特徴の、長いストレート。",
     "recommendationRank": 182,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "65841acd20e0c79316e2866972f19bff040f448e6ce78ecb22dba525ca2f6bfd",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7262,8 +8399,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "LG5FLP01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012737/"
+    }
   },
   {
     "id": 2013,
@@ -7271,17 +8414,17 @@ const catalogData = [
     "name": "リップストップウォームパンツ",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001249/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "リップストップウォームパンツ。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "冷える日のゆったりしたパンツを探す人へ。保温性のある裏地と、ウエストゴム・裾のひもを備えます。",
     "image": "assets/products/2013.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001249_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7289,11 +8432,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MU6FLP07M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "冷える日のゆったりしたパンツを探す人へ。保温性のある裏地と、ウエストゴム・裾のひもを備えます。",
     "recommendationRank": 183,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001249/",
@@ -7304,9 +8448,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MU6FLP07M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "a8edb51e5bddedd5064279b511a03720f11e56c1d1f63e9369ca124ae42664e0",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001249/"
+    }
   },
   {
     "id": 2122,
@@ -7314,17 +8464,17 @@ const catalogData = [
     "name": "防風ストレッチコーデュロイスカート（ネイビー（NV00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015194/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "防風ストレッチコーデュロイスカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 22000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "for": "秋冬らしいスカートを探す人へ。防風性のあるコーデュロイニットで、後ろウエストにゴムを配した台形。",
     "image": "assets/products/2122.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015194_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7333,11 +8483,12 @@ const catalogData = [
       "メーカー品番": "MG6FSK36L",
       "掲載商品コード": "M01871EW015194",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
+      "在庫のある掲載色サイズ": "7 / 9 / 11 / 13 / 15"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "秋冬らしいスカートを探す人へ。防風性のあるコーデュロイニットで、後ろウエストにゴムを配した台形。",
     "recommendationRank": 184,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "f6c400c59d569634c5e5541a8787936b0a31b6ee8af63a670262a44994a3332e",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7349,8 +8500,14 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "MG6FSK36L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015194/"
+    }
   },
   {
     "id": 2048,
@@ -7358,17 +8515,17 @@ const catalogData = [
     "name": "ソロテックスユーティリティジャケット",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015438/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ソロテックスユーティリティジャケット。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 26400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "シンプルな羽織りを探す人へ。はっ水性のあるソロテックス素材と、ラグラン袖が特徴。",
     "image": "assets/products/2048.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015438_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7376,11 +8533,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6SJK21M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "シンプルな羽織りを探す人へ。はっ水性のあるソロテックス素材と、ラグラン袖が特徴。",
     "recommendationRank": 185,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015438/",
@@ -7391,9 +8549,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MG6SJK21M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "9eda9277e0159b0d81a879472277e4bb9e2aa47441e3e158c048447a86ae9a7a",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015438/"
+    }
   },
   {
     "id": 2114,
@@ -7401,17 +8565,17 @@ const catalogData = [
     "name": "切替デザインモックネックシャツ（ブラック（BK00））",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008685/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "切替デザインモックネックシャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 29700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "配色のアクセントで選びたい人へ。襟から袖へ続く切り替えと、伸縮性のある素材が特徴。",
     "image": "assets/products/2114.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LA/LA7956EW008685_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7420,11 +8584,12 @@ const catalogData = [
       "メーカー品番": "VG6FLS23L",
       "掲載商品コード": "LA7956EW008685",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
+      "在庫のある掲載色サイズ": "36 / 38 / 40 / 42 / 44"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "配色のアクセントで選びたい人へ。襟から袖へ続く切り替えと、伸縮性のある素材が特徴。",
     "recommendationRank": 186,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "ca7807748446b81602c583b61f5ac5d12b119cb5169231c60d9028cbf7cfd042",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7436,8 +8601,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "VG6FLS23L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008685/"
+    }
   },
   {
     "id": 2029,
@@ -7445,17 +8616,17 @@ const catalogData = [
     "name": "SUNSCREEN鹿の子ハーフジップ半袖シャツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008160/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "SUNSCREEN鹿の子ハーフジップ半袖シャツ。掲載カラー：グリーン（GR00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 22000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "首元を調整できる半袖を探す人へ。薄手の鹿の子素材とハーフジップ、前面のテープ使いが特徴。",
     "image": "assets/products/2029.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008160_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7463,11 +8634,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS10M",
       "カラー": "グリーン（GR00）",
-      "掲載サイズ": "S / M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO",
+      "在庫のある掲載色サイズ": "M / O"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "首元を調整できる半袖を探す人へ。薄手の鹿の子素材とハーフジップ、前面のテープ使いが特徴。",
     "recommendationRank": 187,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008160/",
@@ -7478,9 +8650,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS10M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "a9f0f07d4d7619c0c860789e2487d343afd91849df62cdf096e3222206e1bdde",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008160/"
+    }
   },
   {
     "id": 2257,
@@ -7488,17 +8666,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "Nサークル柄 キルト キュロット (WOMENS)",
     "source": "https://mix.tokyo/products/0126239501?variant=44365120340033",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "Nサークル柄のキルトジャガードが上品な表情を演出するキュロット。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 14300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "トップスと合わせるボトムスを探す人へ。丈・腰回り・インナーの仕様を比較できます。",
+    "for": "秋冬らしいボトムスを探す人へ。キルト柄のキュロットで、後ろウエストはゴム仕様。",
     "image": "assets/products/2257.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126239501-030_MAIN.jpg?v=1790852634&width=720",
     "imageLabel": "公式商品写真",
@@ -7508,10 +8686,10 @@ const catalogData = [
       "種類": "スカート・キュロット",
       "在庫のある掲載色サイズ": "00 / 0 / 1 / 2 / 3"
     },
-    "recommendationReason": "トップスと合わせるボトムスを探す人へ。丈・腰回り・インナーの仕様を比較できます。",
+    "recommendationReason": "秋冬らしいボトムスを探す人へ。キルト柄のキュロットで、後ろウエストはゴム仕様。",
     "recommendationRank": 188,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "7b6b9a016702c048831a4967346e3ca31457af271ba2111f86cc0d5c9525f7c8",
     "audience": "women",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -7523,8 +8701,13 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "0126239501",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126239501?variant=44365120340033"
+    }
   },
   {
     "id": 2030,
@@ -7532,17 +8715,17 @@ const catalogData = [
     "name": "編地切替モールハーフジップ長袖セーター",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014666/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "編地切替モールハーフジップ長袖セーター。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 14850,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "for": "柔らかな編み地で選びたい人へ。モール糸を使ったハーフジップニットで、胸下の柄の切り替えが特徴。",
     "image": "assets/products/2030.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014666_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7550,11 +8733,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6FST02M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "柔らかな編み地で選びたい人へ。モール糸を使ったハーフジップニットで、胸下の柄の切り替えが特徴。",
     "recommendationRank": 189,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014666/",
@@ -7565,9 +8749,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6FST02M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "f1e76f1a181e4d1866302dd4064d0361f70066b7d16b1930b256fc096d318ae7",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014666/"
+    }
   },
   {
     "id": 2121,
@@ -7575,17 +8765,17 @@ const catalogData = [
     "name": "防風モックネック長袖シャツ【UV】（ブラック（BK03））",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008603/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "防風モックネック長袖シャツ【UV】",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 29700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "風を防ぐ長袖を探す人へ。目の詰まったニット素材で、襟のひもとサイドの切り替えが特徴。",
     "image": "assets/products/2121.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LA/LA7956EW008603_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7594,11 +8784,12 @@ const catalogData = [
       "メーカー品番": "VG6FLS33L",
       "掲載商品コード": "LA7956EW008603",
       "カラー": "ブラック（BK03）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
+      "在庫のある掲載色サイズ": "36 / 38 / 40 / 42 / 44"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "風を防ぐ長袖を探す人へ。目の詰まったニット素材で、襟のひもとサイドの切り替えが特徴。",
     "recommendationRank": 190,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "cc05d6c9c2c98c79ea9077a7f25b3a9c176f11fe57aa47fb0145c6d04fa3b83f",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7610,8 +8801,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "VG6FLS33L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008603/"
+    }
   },
   {
     "id": 2208,
@@ -7619,17 +8816,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "4WAYストレッチ 裏起毛 ロングパンツ (MENS)",
     "source": "https://mix.tokyo/products/0126231004?variant=44097239810113",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "大人っぽいカラー展開が魅力の、上品な印象に仕上げたロングパンツ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 13200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "for": "寒い日のロングパンツを探す人へ。裏起毛・撥水・4WAYストレッチを備え、股下は76cm。",
     "image": "assets/products/2208.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126231004-181_MAIN.jpg?v=1791457370&width=720",
     "imageLabel": "公式商品写真",
@@ -7639,10 +8836,10 @@ const catalogData = [
       "種類": "パンツ",
       "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
     },
-    "recommendationReason": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "recommendationReason": "寒い日のロングパンツを探す人へ。裏起毛・撥水・4WAYストレッチを備え、股下は76cm。",
     "recommendationRank": 191,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "91ca2e4b012b06d7b5184e8a7723f9febb84a5eaf2a981d724d66171cfd53feb",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -7654,8 +8851,13 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "0126231004",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126231004?variant=44097239810113"
+    }
   },
   {
     "id": 2118,
@@ -7663,17 +8865,17 @@ const catalogData = [
     "name": "2WAYクルーネックブルゾン（ネイビー（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013798/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "2WAYクルーネックブルゾン",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 10780,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "for": "長袖と半袖を使い分けたい人へ。袖を外せるブルゾンで、襟のないハーフジップと裾のひもを備えます。",
     "image": "assets/products/2118.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW013798_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7682,11 +8884,12 @@ const catalogData = [
       "メーカー品番": "LG6SWB00L",
       "掲載商品コード": "LE1872EW013798",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "recommendationReason": "長袖と半袖を使い分けたい人へ。袖を外せるブルゾンで、襟のないハーフジップと裾のひもを備えます。",
     "recommendationRank": 192,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "b94450055052c63672268c437c5e35fb6ca7b3c22fe2848d61ed275a387c1b43",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7698,8 +8901,14 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6SWB00L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013798/"
+    }
   },
   {
     "id": 2012,
@@ -7707,17 +8916,17 @@ const catalogData = [
     "name": "【DAILY】ベーシック半袖シャツ（武井壮着用）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013547/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【DAILY】ベーシック半袖シャツ（武井壮着用）。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 6600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "合わせやすい半袖ポロを探す人へ。鹿の子素材に、ボタンやスリットの3色使いを添えたデザイン。",
     "image": "assets/products/2012.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM013547_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7725,11 +8934,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHS15M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "合わせやすい半袖ポロを探す人へ。鹿の子素材に、ボタンやスリットの3色使いを添えたデザイン。",
     "recommendationRank": 193,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013547/",
@@ -7740,9 +8950,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS15M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "ada8f8cfe1dcc7ca2c9f85f51703e62f3d28ca310c749ff685cb94357ce33c85",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013547/"
+    }
   },
   {
     "id": 2146,
@@ -7750,17 +8966,17 @@ const catalogData = [
     "name": "ストレッチ千鳥チェック柄9分丈ロングパンツ（グレー（GY00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015406/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ストレッチ千鳥チェック柄9分丈ロングパンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 17600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "足首が見える柄パンツを探す人へ。千鳥格子の9分丈で、後ろウエストのゴムとDカン付き。",
     "image": "assets/products/2146.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015406_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7769,11 +8985,12 @@ const catalogData = [
       "メーカー品番": "MG6FLP32L",
       "掲載商品コード": "M01871EW015406",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
+      "在庫のある掲載色サイズ": "7 / 9 / 11"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "足首が見える柄パンツを探す人へ。千鳥格子の9分丈で、後ろウエストのゴムとDカン付き。",
     "recommendationRank": 194,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "a8e4c4f655b55acfa7df2923b1b359169598cace15c120f60a06025981ec6593",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7785,8 +9002,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015406/"
+    }
   },
   {
     "id": 1101,
@@ -7794,17 +9017,17 @@ const catalogData = [
     "name": "防風ストレッチカットソーブルゾン",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015509/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "防風ストレッチカットソーブルゾン。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 26400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "風のある日の羽織りを探す人へ。防風・はっ水素材で、裾のひもで形を調整できます。",
     "image": "assets/products/2046.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015509_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7812,11 +9035,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6FSW35M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "L / LL / 3L"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "風のある日の羽織りを探す人へ。防風・はっ水素材で、裾のひもで形を調整できます。",
     "recommendationRank": 195,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015509/",
@@ -7827,9 +9051,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MG6FSW35M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "eb5fa49eb3e3889d9cec692bb4294925f101042f690efcbfb8110bcf787fcfdc",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015509/"
+    }
   },
   {
     "id": 2144,
@@ -7837,17 +9067,17 @@ const catalogData = [
     "name": "【ワイドシルエット】半袖モックシャツ（ホワイト（WH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014437/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【ワイドシルエット】半袖モックシャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 6600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "ゆったりした半袖を探す人へ。裾を出して着やすい切り替えと、前面のブランドマークが特徴。",
     "image": "assets/products/2144.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014437_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7856,11 +9086,12 @@ const catalogData = [
       "メーカー品番": "LG6FHS50L",
       "掲載商品コード": "LE1872EW014437",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "ゆったりした半袖を探す人へ。裾を出して着やすい切り替えと、前面のブランドマークが特徴。",
     "recommendationRank": 196,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "f0879983c418c570ab9eec0b442893815c3165ef45d3ad92910626eb134aef0f",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7872,8 +9103,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6FHS50L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014437/"
+    }
   },
   {
     "id": 2207,
@@ -7881,17 +9118,17 @@ const catalogData = [
     "brand": "New Balance Golf",
     "name": "スウェット テーパード ロングパンツ (MENS)",
     "source": "https://mix.tokyo/products/0126236004?variant=44188775612481",
-    "checked": "2026-10-23",
+    "checked": "2026-10-26",
     "fact": "暖かさと動きやすさを兼ね備えたスウェットロングパンツ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 15400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "for": "暖かいスウェットパンツを探す人へ。防風性のあるフリース素材を使ったテーパード型。",
     "image": "assets/products/2207.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0597/2567/6609/files/0126236004-020_MAIN.jpg?v=1792231362&width=720",
     "imageLabel": "公式商品写真",
@@ -7901,10 +9138,10 @@ const catalogData = [
       "種類": "パンツ",
       "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
     },
-    "recommendationReason": "動きやすさとシルエットでパンツを選びたい人へ。股下と腰回りの実寸を確認できます。",
+    "recommendationReason": "暖かいスウェットパンツを探す人へ。防風性のあるフリース素材を使ったテーパード型。",
     "recommendationRank": 197,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "d703dd9b35ce89878afa652c17f68a2a0b80b5a82170f394c00b5c4be7c75987",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -7916,8 +9153,13 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "0126236004",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://mix.tokyo/products/0126236004?variant=44188775612481"
+    }
   },
   {
     "id": 2115,
@@ -7925,17 +9167,17 @@ const catalogData = [
     "name": "はっ水ダンボールニットスカート（ホワイト（WH00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015202/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "はっ水ダンボールニットスカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "for": "腰回りが楽なスカートを探す人へ。ウエストゴムとDカン付き。はっ水性のあるダンボールニット素材。",
     "image": "assets/products/2115.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015202_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7944,11 +9186,12 @@ const catalogData = [
       "メーカー品番": "MG6FSK32L",
       "掲載商品コード": "M01871EW015202",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / L / LL"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "腰回りが楽なスカートを探す人へ。ウエストゴムとDカン付き。はっ水性のあるダンボールニット素材。",
     "recommendationRank": 198,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "424802b1c8ab334dc2846f4c43a805f5857164ff4f8ab18e6850e60ae8e4d774",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -7960,8 +9203,14 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "MG6FSK32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015202/"
+    }
   },
   {
     "id": 2031,
@@ -7969,17 +9218,17 @@ const catalogData = [
     "name": "SUNSCREEN鹿の子ハーフジップ半袖シャツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008157/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "SUNSCREEN鹿の子ハーフジップ半袖シャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 22000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "半袖のハーフジップを探す人へ。薄手の鹿の子素材で、袖下のマチに配色を添えたデザイン。",
     "image": "assets/products/2031.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008157_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -7987,11 +9236,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS22M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO",
+      "在庫のある掲載色サイズ": "S / M / L / O"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "半袖のハーフジップを探す人へ。薄手の鹿の子素材で、袖下のマチに配色を添えたデザイン。",
     "recommendationRank": 199,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008157/",
@@ -8002,9 +9252,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS22M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "a1291cd4cc5f8dfe885c3d172fd89cd6217af7d26f7724be7942f0a5a90d64e1",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008157/"
+    }
   },
   {
     "id": 2140,
@@ -8019,10 +9275,10 @@ const catalogData = [
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "裾幅の広いパンツを探す人へ。チェック柄と腰回りの2タックが特徴。購入前に実寸丈をご確認ください。",
     "image": "assets/products/2140.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015204_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8031,9 +9287,10 @@ const catalogData = [
       "メーカー品番": "MG6FHP33L",
       "掲載商品コード": "M01871EW015204",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
+      "在庫のある掲載色サイズ": "7 / 9 / 11"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "裾幅の広いパンツを探す人へ。チェック柄と腰回りの2タックが特徴。購入前に実寸丈をご確認ください。",
     "recommendationRank": 200,
     "recommendationReviewed": "2026-10-23",
     "imageSha256": "3c3077420305cd7f381543feb243b58dc29c8171791cf67737341d21f0a71138",
@@ -8047,8 +9304,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FHP33L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。 公式の丈説明は写真との整合未確認。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015204/"
+    }
   },
   {
     "id": 2010,
@@ -8056,17 +9319,17 @@ const catalogData = [
     "name": "【武井壮着用】ラベルデザイン半袖モックネックシャツ",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014540/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【武井壮着用】ラベルデザイン半袖モックネックシャツ。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 6600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "柄のある半袖を探す人へ。ワインラベルをモチーフにしたデザインと、首元を覆うモックネックが特徴。",
     "image": "assets/products/2010.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014540_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8074,11 +9337,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6FHS50M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "柄のある半袖を探す人へ。ワインラベルをモチーフにしたデザインと、首元を覆うモックネックが特徴。",
     "recommendationRank": 201,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014540/",
@@ -8089,9 +9353,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6FHS50M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "94f83966b278e787995293e5c1a779fce808774c665fd2e06ff2f858f8e97fef",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014540/"
+    }
   },
   {
     "id": 2141,
@@ -8099,17 +9369,17 @@ const catalogData = [
     "name": "【菅沼菜々プロ優勝時着用商品】【DAILY】ベーシック半袖シャツ（ホワイト（WH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013815/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【菅沼菜々プロ優勝時着用商品】【DAILY】ベーシック半袖シャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 6600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "普段にも合わせやすい半袖を探す人へ。鹿の子素材に、襟後ろの3色ボタンや裾のワッペンを添えたポロ。",
     "image": "assets/products/2141.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW013815_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8118,11 +9388,12 @@ const catalogData = [
       "メーカー品番": "LG6SHS12L",
       "掲載商品コード": "LE1872EW013815",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / L / LL / 3L"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "普段にも合わせやすい半袖を探す人へ。鹿の子素材に、襟後ろの3色ボタンや裾のワッペンを添えたポロ。",
     "recommendationRank": 202,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "ae2eef056736e4ca6c71d4f88be8369adbeab6e022e38747c3cde9740e18a1fc",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8134,8 +9405,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS12L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013815/"
+    }
   },
   {
     "id": 2053,
@@ -8143,17 +9420,17 @@ const catalogData = [
     "name": "HEAT NAVI はっ水ストレッチクルーネックブルゾン",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015464/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "HEAT NAVI はっ水ストレッチクルーネックブルゾン。掲載カラー：ブラウン（BW01）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 29700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "for": "かぶるタイプの防寒着を探す人へ。腹部ポケットと裾ファスナー、背中の換気部分を備えるブルゾン。",
     "image": "assets/products/2053.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015464_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8161,11 +9438,12 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6FJK33M",
       "カラー": "ブラウン（BW01）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "気温に合わせた羽織りを探す方へ。袖の長さと重ね着の余裕を試着で確認したい候補です。",
+    "recommendationReason": "かぶるタイプの防寒着を探す人へ。腹部ポケットと裾ファスナー、背中の換気部分を備えるブルゾン。",
     "recommendationRank": 203,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015464/",
@@ -8176,9 +9454,15 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MG6FJK33M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "dc341f345b18aed081ae310053fa8f7dc5ad4f0f21515ecadadaa31f0a948d7c",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015464/"
+    }
   },
   {
     "id": 2136,
@@ -8186,17 +9470,17 @@ const catalogData = [
     "name": "クルーネックセーター（ホワイト（WH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014432/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "クルーネックセーター",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 14300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "for": "淡い柄ニットを探す人へ。ウール混素材にエンブレム調の模様を配したクルーネック。手洗いできます。",
     "image": "assets/products/2136.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014432_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8205,11 +9489,12 @@ const catalogData = [
       "メーカー品番": "LG6FST02L",
       "掲載商品コード": "LE1872EW014432",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "recommendationReason": "淡い柄ニットを探す人へ。ウール混素材にエンブレム調の模様を配したクルーネック。手洗いできます。",
     "recommendationRank": 204,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "30d0dd9008e5853966b05758f8f9dfd35f4628fd2b58a6d379e13f501f2c003c",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8221,8 +9506,14 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6FST02L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014432/"
+    }
   },
   {
     "id": 2032,
@@ -8230,17 +9521,17 @@ const catalogData = [
     "name": "【武井壮着用】防風裏地付きヘリンボンハーフジップセーター",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014672/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【武井壮着用】防風裏地付きヘリンボンハーフジップセーター。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 18150,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。 防風裏地は身頃部分の仕様です。衣服全体に同じ防風性能があるという意味ではありません。",
+    "for": "風のある日のニットを探す人へ。身頃だけに防風裏地を備え、袖には裏地を付けていないセーター。",
     "image": "assets/products/2032.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014672_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8248,11 +9539,12 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6FST30M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "重ね着用のニットを探す方へ。厚みと身幅を確認し、手持ちのシャツとの合わせやすさで比較できます。",
+    "recommendationReason": "風のある日のニットを探す人へ。身頃だけに防風裏地を備え、袖には裏地を付けていないセーター。",
     "recommendationRank": 205,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014672/",
@@ -8263,9 +9555,15 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6FST30M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "fef355ea394e56703bf5fce512e5a04807b08447be0470882e9b974b87816a13",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014672/"
+    }
   },
   {
     "id": 2130,
@@ -8273,17 +9571,17 @@ const catalogData = [
     "name": "HEAT NAVI はっ水ストレッチフルレングスパンツ（ベージュ（BG00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015227/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "HEAT NAVI はっ水ストレッチフルレングスパンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "秋冬の長いパンツを探す人へ。はっ水性のある素材に、後ろウエストの配色ゴムとDカンを備えます。",
     "image": "assets/products/2130.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015227_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8292,11 +9590,12 @@ const catalogData = [
       "メーカー品番": "MG6FLP35L",
       "掲載商品コード": "M01871EW015227",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / LL"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "秋冬の長いパンツを探す人へ。はっ水性のある素材に、後ろウエストの配色ゴムとDカンを備えます。",
     "recommendationRank": 206,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "7b96b77735e3a832a6cfc89d50d3883dbd6d3cbc423f94b983cbaf2d1febc35b",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8308,8 +9607,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP35L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015227/"
+    }
   },
   {
     "id": 2204,
@@ -8317,17 +9622,17 @@ const catalogData = [
     "brand": "FootJoy",
     "name": "FJサーモシリーズ モックネック長袖シャツ",
     "source": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s09/FJ-F26-S09.html?dwvar_FJ-F26-S09_color=41815",
-    "checked": "2026-10-23",
-    "fact": "天候の変化に対応する、パフォーマンスレイヤー",
+    "checked": "2026-10-26",
+    "fact": "微起毛素材を使用した、配色切替のモックネック長袖シャツ。",
     "check": "サイズ表・掲載色・在庫とゴルフ場の服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込価格・送料別。色・サイズ・セールにより変動します。",
+    "priceNote": "2026年10月26日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。色・サイズ・販売時期により変動します。",
     "related": false,
     "note": "サイズや着用感には個人差があります。在庫と価格は公式サイトで最終確認してください。",
-    "for": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "for": "肌寒い日のモックネックを探す人へ。微起毛素材と落ち着いた配色の長袖。",
     "image": "assets/products/2204.png",
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw8b684160/FJ_41815_01.png?sw=520&sh=520&sm=fit",
     "imageLabel": "公式商品写真",
@@ -8335,12 +9640,12 @@ const catalogData = [
       "品番": "FJ-F26-S09",
       "掲載色": "チャコール/ブラック",
       "種類": "トップス",
-      "在庫のある掲載色サイズ": "3XL / L / M / S / XL / 2XL"
+      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
     },
-    "recommendationReason": "手持ちのボトムスに合わせるトップスを選びたい人へ。襟元・袖丈・サイズを比較できます。",
+    "recommendationReason": "肌寒い日のモックネックを探す人へ。微起毛素材と落ち着いた配色の長袖。",
     "recommendationRank": 207,
-    "recommendationReviewed": "2026-10-23",
-    "imageVerified": "2026-10-23",
+    "recommendationReviewed": "2026-10-26",
+    "imageVerified": "2026-10-26",
     "imageSha256": "e35ecaa1533679b29819e3d71434985c56f725f55049d391edb2b8ce4ad2e58a",
     "audience": "men",
     "audienceNote": "公式の商品名・カテゴリの男女分類に基づきます。",
@@ -8352,8 +9657,13 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "FJ-F26-S09",
     "availability": "in_stock",
-    "availabilityChecked": "2026-10-23",
-    "availabilityNote": "確認時点で公式サイトに在庫あり。色・サイズによって異なります。"
+    "availabilityChecked": "2026-10-26",
+    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-26",
+      "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
+      "source": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s09/FJ-F26-S09.html?dwvar_FJ-F26-S09_color=41815"
+    }
   },
   {
     "id": 2147,
@@ -8361,17 +9671,17 @@ const catalogData = [
     "name": "ロゴ襟長袖シャツ（ネイビー（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012735/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ロゴ襟長袖シャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 6600,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 KEEP CLEAN加工はWH00のみ。掲載色NV00の機能としては案内していません。",
+    "for": "襟のデザインで選びたい人へ。襟にロゴとラインを配した鹿の子の長袖ポロ。掲載色のサイズを要確認。",
     "image": "assets/products/2147.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW012735_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8380,11 +9690,12 @@ const catalogData = [
       "メーカー品番": "LG5FLS00L",
       "掲載商品コード": "LE1872EW012735",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "襟のデザインで選びたい人へ。襟にロゴとラインを配した鹿の子の長袖ポロ。掲載色のサイズを要確認。",
     "recommendationRank": 208,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "d2690f9990871bf025cd8b79a6c6335c705ae50ff02399034ae038e2b5160be6",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8396,8 +9707,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FLS00L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012735/"
+    }
   },
   {
     "id": 2040,
@@ -8405,17 +9722,17 @@ const catalogData = [
     "name": "HEAT NAVI はっ水ストレッチパンツ",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015455/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "HEAT NAVI はっ水ストレッチパンツ。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "秋冬の長いパンツを探す人へ。はっ水性と伸縮性を備えた、シンプルなフルレングス。",
     "image": "assets/products/2040.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015455_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8423,11 +9740,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MG6FLP35M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100",
+      "在庫のある掲載色サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "秋冬の長いパンツを探す人へ。はっ水性と伸縮性を備えた、シンプルなフルレングス。",
     "recommendationRank": 209,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015455/",
@@ -8438,9 +9756,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP35M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "34e93687c0715ba4f261fe239ba70669ab2f86b847299710906201192eb9a1e2",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015455/"
+    }
   },
   {
     "id": 2111,
@@ -8448,17 +9772,17 @@ const catalogData = [
     "name": "中わた半袖ブルゾン（ネイビー（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014392/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "中わた半袖ブルゾン",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 14300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "for": "腕まわりを重ねすぎず防寒したい人へ。スナップボタンで着脱する、中わた入りの半袖ブルゾン。",
     "image": "assets/products/2111.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014392_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8467,11 +9791,12 @@ const catalogData = [
       "メーカー品番": "LG6FWB80L",
       "掲載商品コード": "LE1872EW014392",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "recommendationReason": "腕まわりを重ねすぎず防寒したい人へ。スナップボタンで着脱する、中わた入りの半袖ブルゾン。",
     "recommendationRank": 210,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "d37dd3dbc307fbe0462e93a8a6ee065be127cd0837bcbc9b232ce5ba751374b7",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8483,8 +9808,14 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6FWB80L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014392/"
+    }
   },
   {
     "id": 2018,
@@ -8492,17 +9823,17 @@ const catalogData = [
     "name": "ポケット付き半袖モックネックシャツ",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013808/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ポケット付き半袖モックネックシャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 6930,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "裾を出して着たい人へ。短めの着丈と脇のスリット、ファスナー付き胸ポケットが特徴の半袖。",
     "image": "assets/products/2018.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM013808_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8510,11 +9841,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHS52M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "裾を出して着たい人へ。短めの着丈と脇のスリット、ファスナー付き胸ポケットが特徴の半袖。",
     "recommendationRank": 211,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013808/",
@@ -8525,9 +9857,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS52M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "e3549808f8adf7c490a0492d5ce270d888c326e6126b06605fab88e2a976d1be",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013808/"
+    }
   },
   {
     "id": 2143,
@@ -8535,17 +9873,17 @@ const catalogData = [
     "name": "美シルエットフルレングスパンツ（ネイビー（NV00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015348/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "美シルエットフルレングスパンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "裾に向かって細くなるパンツを探す人へ。伸縮性のあるドビーカルゼ素材で、小物を掛けるDカン付き。",
     "image": "assets/products/2143.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015348_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8554,11 +9892,12 @@ const catalogData = [
       "メーカー品番": "MG6FLP33L",
       "掲載商品コード": "M01871EW015348",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
+      "在庫のある掲載色サイズ": "7 / 9 / 11 / 13 / 15"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "裾に向かって細くなるパンツを探す人へ。伸縮性のあるドビーカルゼ素材で、小物を掛けるDカン付き。",
     "recommendationRank": 212,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "aa9d72e83238d83ff3ef69f6887e1d95dd04cb18a8ab30d743e9d34ba4fd21c9",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8570,8 +9909,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP33L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015348/"
+    }
   },
   {
     "id": 2042,
@@ -8579,17 +9924,17 @@ const catalogData = [
     "name": "ストレッチシアサッカーウエストフリーロングパンツ",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014209/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ストレッチシアサッカーウエストフリーロングパンツ。掲載カラー：ネイビー×ホワイト（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "夏用の長いパンツを探す人へ。表面に凹凸のあるシアサッカー素材と、表から見えにくいウエストゴム仕様。",
     "image": "assets/products/2042.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM014209_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8597,11 +9942,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MG6SLP35M",
       "カラー": "ネイビー×ホワイト（NV00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100",
+      "在庫のある掲載色サイズ": "76 / 82 / 85 / 88 / 92 / 96"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "夏用の長いパンツを探す人へ。表面に凹凸のあるシアサッカー素材と、表から見えにくいウエストゴム仕様。",
     "recommendationRank": 213,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014209/",
@@ -8612,9 +9958,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6SLP35M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "6581fdba1dce3993dde401895d2bb4120d831c9e5eaafd478d29d18ed172c84c",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014209/"
+    }
   },
   {
     "id": 2131,
@@ -8622,17 +9974,17 @@ const catalogData = [
     "name": "防風セーター（ネイビー（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014444/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "防風セーター",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 15400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 防風裏地は身頃部分の仕様です。衣服全体に同じ防風性能があるという意味ではありません。",
+    "for": "袖の柄を楽しみたい人へ。ノルディック柄のセーターで、防風裏地は身頃部分に使用。手洗いできます。",
     "image": "assets/products/2131.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014444_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8641,11 +9993,12 @@ const catalogData = [
       "メーカー品番": "LG6FST30L",
       "掲載商品コード": "LE1872EW014444",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL"
     },
-    "recommendationReason": "ニットの風合いと重ね着のしやすさを比べたい人へ。",
+    "recommendationReason": "袖の柄を楽しみたい人へ。ノルディック柄のセーターで、防風裏地は身頃部分に使用。手洗いできます。",
     "recommendationRank": 214,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "9acc5603d7887771f8fb322a48a23cdb59bc013125d9859238f783a6eed4aba7",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8657,8 +10010,14 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6FST30L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014444/"
+    }
   },
   {
     "id": 2007,
@@ -8666,17 +10025,17 @@ const catalogData = [
     "name": "ペンギンクルーネックシャツ",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001275/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ペンギンクルーネックシャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 14300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "綿素材の着心地で選びたい人へ。ポケット付きのクルーネックで、程よくゆとりのある形。",
     "image": "assets/products/2007.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001275_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8684,11 +10043,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FLT02M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / XL"
+      "掲載サイズ": "S / M / L / XL",
+      "在庫のある掲載色サイズ": "S / M / L / XL"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "綿素材の着心地で選びたい人へ。ポケット付きのクルーネックで、程よくゆとりのある形。",
     "recommendationRank": 215,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001275/",
@@ -8699,9 +10059,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MU6FLT02M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "b1ff3587f9394adec1a33aafc2c7ebdabc0add3fd779c45c1631099fea6c1f2b",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001275/"
+    }
   },
   {
     "id": 2123,
@@ -8709,17 +10075,17 @@ const catalogData = [
     "name": "チェックフルレングスブーツカットパンツ（ブラウン（BW00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015388/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "チェックフルレングスブーツカットパンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 26400,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "裾が少し広がるパンツを探す人へ。ストレッチ性のあるチェック柄で、長めのブーツカット。",
     "image": "assets/products/2123.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015388_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8728,11 +10094,12 @@ const catalogData = [
       "メーカー品番": "MG6FLP36L",
       "掲載商品コード": "M01871EW015388",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
+      "在庫のある掲載色サイズ": "7 / 9 / 13 / 15"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "裾が少し広がるパンツを探す人へ。ストレッチ性のあるチェック柄で、長めのブーツカット。",
     "recommendationRank": 216,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "0f85527fcbb2ca9c7eb27e81eba5dcbdaab318f69a8e38d4c0fcbfd49ebdee49",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8744,8 +10111,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP36L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015388/"
+    }
   },
   {
     "id": 2041,
@@ -8753,17 +10126,17 @@ const catalogData = [
     "name": "SUNSCREENベアスムース半袖シャツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008103/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "SUNSCREENベアスムース半袖シャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "なめらかな素材の半袖を探す人へ。薄手のベアスムース素材と、メッシュ調の襟が特徴。",
     "image": "assets/products/2041.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008103_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8771,11 +10144,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS24M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO",
+      "在庫のある掲載色サイズ": "M / O / XO"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "なめらかな素材の半袖を探す人へ。薄手のベアスムース素材と、メッシュ調の襟が特徴。",
     "recommendationRank": 217,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008103/",
@@ -8786,9 +10160,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS24M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "524739c77a451171bc227b7896a7351453e91044027aacbdd0cbf0ef42e2b152",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008103/"
+    }
   },
   {
     "id": 2149,
@@ -8796,17 +10176,17 @@ const catalogData = [
     "name": "モックネック長袖シャツ（ベージュ（BG00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012568/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "モックネック長袖シャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 6930,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "首元にアクセントがほしい人へ。波状の襟先と胸のグリッタープリントが特徴の長袖モックネック。",
     "image": "assets/products/2149.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW012568_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8815,11 +10195,12 @@ const catalogData = [
       "メーカー品番": "LG5FLS50L",
       "掲載商品コード": "LE1872EW012568",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "S / M / L / LL"
+      "掲載サイズ": "S / M / L / LL",
+      "在庫のある掲載色サイズ": "S / M / LL"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "首元にアクセントがほしい人へ。波状の襟先と胸のグリッタープリントが特徴の長袖モックネック。",
     "recommendationRank": 218,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "53690ad452d130f65500017e17035ddaddc0ccb6787955df8b0dc626ffe7b59a",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8831,8 +10212,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FLS50L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012568/"
+    }
   },
   {
     "id": 2014,
@@ -8840,17 +10227,17 @@ const catalogData = [
     "name": "マーキングデザイン半袖シャツ",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014644/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "マーキングデザイン半袖シャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 6930,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "ロゴがポイントの半袖を探す人へ。刺繍やワッペンを配し、肩まわりに立体的な裁断を採用。",
     "image": "assets/products/2014.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014644_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8858,11 +10245,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6FHS00M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "ロゴがポイントの半袖を探す人へ。刺繍やワッペンを配し、肩まわりに立体的な裁断を採用。",
     "recommendationRank": 219,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014644/",
@@ -8873,9 +10261,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6FHS00M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "4241f554085470e0d6eeec716d99347dc1377a167396d90ec06f5cd4b1fdea8d",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014644/"
+    }
   },
   {
     "id": 2125,
@@ -8883,17 +10277,17 @@ const catalogData = [
     "name": "中わたHybridブルゾン（ホワイト（WH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014391/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "中わたHybridブルゾン",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "for": "フード付きの防寒着を探す人へ。中わたと伸縮素材を組み合わせ、フードを留めるボタンを備えます。",
     "image": "assets/products/2125.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014391_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8902,11 +10296,12 @@ const catalogData = [
       "メーカー品番": "LG6FWB82L",
       "掲載商品コード": "LE1872EW014391",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "recommendationReason": "フード付きの防寒着を探す人へ。中わたと伸縮素材を組み合わせ、フードを留めるボタンを備えます。",
     "recommendationRank": 220,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "75ec7f94eae9093c0c06b3b9f76eec569e25c92913d8b431432fdf72ed63b9c4",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -8918,8 +10313,14 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6FWB82L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014391/"
+    }
   },
   {
     "id": 2011,
@@ -8927,17 +10328,17 @@ const catalogData = [
     "name": "吸汗速乾ドットメッシュハーフパンツ",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015655/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "吸汗速乾ドットメッシュハーフパンツ。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "for": "夏用の短いパンツを探す人へ。メッシュ素材と、後ろウエスト内側のゴムを採用。",
     "image": "assets/products/2011.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EM015655_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8945,11 +10346,12 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MG6FHP31M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100"
+      "掲載サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100",
+      "在庫のある掲載色サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100"
     },
-    "recommendationReason": "パンツのシルエットや丈を比べたい方へ。ウエスト・股下の実寸を確認して選べます。",
+    "recommendationReason": "夏用の短いパンツを探す人へ。メッシュ素材と、後ろウエスト内側のゴムを採用。",
     "recommendationRank": 221,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015655/",
@@ -8960,9 +10362,15 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FHP31M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "94b221a669911deff197d4cae402c3d3c1f02f1d7402897fcc10b52a38a27e52",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015655/"
+    }
   },
   {
     "id": 2150,
@@ -8970,17 +10378,17 @@ const catalogData = [
     "name": "フルボタン半袖シャツ（ネイビー（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013770/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "フルボタン半袖シャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 8140,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "前を全部開けられる半袖を探す人へ。ストライプ柄の布帛素材で、重ね着にも使えるフルボタン仕様。",
     "image": "assets/products/2150.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW013770_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -8989,11 +10397,12 @@ const catalogData = [
       "メーカー品番": "LG6SHS80L",
       "掲載商品コード": "LE1872EW013770",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "前を全部開けられる半袖を探す人へ。ストライプ柄の布帛素材で、重ね着にも使えるフルボタン仕様。",
     "recommendationRank": 222,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "8ea3ca615acae34d2f42832e13d6739c4bdc6596492b674b0b46c1b17433f8a4",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9005,8 +10414,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS80L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013770/"
+    }
   },
   {
     "id": 2033,
@@ -9014,17 +10429,17 @@ const catalogData = [
     "name": "ボギーマン ラガースウェットシャツ",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001337/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ボギーマン ラガースウェットシャツ。掲載カラー：レッド（RD00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 22000,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "カジュアルな長袖を探す人へ。裏起毛の厚手素材に、ラガーシャツ風の襟を合わせたスウェット。",
     "image": "assets/products/2033.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001337_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9032,11 +10447,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FSW04M",
       "カラー": "レッド（RD00）",
-      "掲載サイズ": "S / M / L / XL"
+      "掲載サイズ": "S / M / L / XL",
+      "在庫のある掲載色サイズ": "S / M / L"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "カジュアルな長袖を探す人へ。裏起毛の厚手素材に、ラガーシャツ風の襟を合わせたスウェット。",
     "recommendationRank": 223,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001337/",
@@ -9047,9 +10463,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MU6FSW04M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "fd0ce03ae6c1946c9c2431957dbaf03af618854f0ac454bddec94b964c6ecba6",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001337/"
+    }
   },
   {
     "id": 2135,
@@ -9057,17 +10479,17 @@ const catalogData = [
     "name": "防風ストレッチパンツ（ベージュ（BG00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015214/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "防風ストレッチパンツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "for": "冷える日の長いパンツを探す人へ。裏起毛と防風素材を使い、後ろウエストにゴムを配したストレート。",
     "image": "assets/products/2135.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015214_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9076,11 +10498,12 @@ const catalogData = [
       "メーカー品番": "MG6FLP39L",
       "掲載商品コード": "M01871EW015214",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
+      "在庫のある掲載色サイズ": "7 / 13"
     },
-    "recommendationReason": "パンツで動きやすさと着こなしを選びたい人へ。腰回りと裾丈をサイズ表で確認できます。",
+    "recommendationReason": "冷える日の長いパンツを探す人へ。裏起毛と防風素材を使い、後ろウエストにゴムを配したストレート。",
     "recommendationRank": 224,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "e802eefd3b882aaa06d5044f1169cec23071fad26a43136107177895412e514a",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9092,8 +10515,14 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP39L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015214/"
+    }
   },
   {
     "id": 2016,
@@ -9101,17 +10530,17 @@ const catalogData = [
     "name": "マーキングデザイン半袖シャツ（武井壮着用）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013828/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "マーキングデザイン半袖シャツ（武井壮着用）。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 6930,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "刺繍のアクセントで選びたい人へ。襟や胸にロゴを配した鹿の子ポロ。掲載色は購入可能サイズを要確認。",
     "image": "assets/products/2016.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM013828_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9119,11 +10548,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHS00M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "刺繍のアクセントで選びたい人へ。襟や胸にロゴを配した鹿の子ポロ。掲載色は購入可能サイズを要確認。",
     "recommendationRank": 225,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013828/",
@@ -9134,9 +10564,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS00M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "f67fd7723b4e444c41c9540789a992d3caa90d391ae86ac8d43dbf810581e68e",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013828/"
+    }
   },
   {
     "id": 2151,
@@ -9144,17 +10580,17 @@ const catalogData = [
     "name": "【ワイドシルエット】半袖シャツ（ネイビー（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013733/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "【ワイドシルエット】半袖シャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 8470,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "身幅にゆとりのある半袖を探す人へ。薄手の鹿の子素材と、折り返した袖口が特徴。",
     "image": "assets/products/2151.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW013733_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9163,11 +10599,12 @@ const catalogData = [
       "メーカー品番": "LG6SHS07L",
       "掲載商品コード": "LE1872EW013733",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / 3L"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "身幅にゆとりのある半袖を探す人へ。薄手の鹿の子素材と、折り返した袖口が特徴。",
     "recommendationRank": 226,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "7fd5bd7b3817b4f81bd65669e5307b2c4696005275fc751b3d056c87e0e4f23e",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9179,8 +10616,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS07L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013733/"
+    }
   },
   {
     "id": 2021,
@@ -9188,17 +10631,17 @@ const catalogData = [
     "name": "SUNSCREENハーフジップモックネック半袖シャツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008130/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "SUNSCREENハーフジップモックネック半袖シャツ。掲載カラー：グレー（GY00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "首元を調整できる半袖を探す人へ。ハーフジップと、肩のロゴ入りリブが特徴。",
     "image": "assets/products/2021.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008130_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9206,11 +10649,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS23M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "M / L / O / XO"
+      "掲載サイズ": "M / L / O / XO",
+      "在庫のある掲載色サイズ": "M / L / O / XO"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "首元を調整できる半袖を探す人へ。ハーフジップと、肩のロゴ入りリブが特徴。",
     "recommendationRank": 227,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008130/",
@@ -9221,9 +10665,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS23M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "a884e75a456375567afcdcdf2384935b0b88aeb3e749c65e7aab0b31716ce1b8",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008130/"
+    }
   },
   {
     "id": 2142,
@@ -9231,17 +10681,17 @@ const catalogData = [
     "name": "スカート（ホワイト（WH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014415/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "スカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 10450,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 公式説明でインナースパッツ付属を確認しています。",
+    "for": "プリーツが控えめなスカートを探す人へ。部分プリーツと、付属のインナースパッツが特徴。",
     "image": "assets/products/2142.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014415_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9250,11 +10700,12 @@ const catalogData = [
       "メーカー品番": "LG6FSK01L",
       "掲載商品コード": "LE1872EW014415",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "プリーツが控えめなスカートを探す人へ。部分プリーツと、付属のインナースパッツが特徴。",
     "recommendationRank": 228,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "0d95999a9e7ca542b257d8a5dcd62d5ae1204319ade2c1ef88df6048a8bcb887",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9266,8 +10717,14 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG6FSK01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014415/"
+    }
   },
   {
     "id": 2039,
@@ -9275,17 +10732,17 @@ const catalogData = [
     "name": "SUNSCREEN鹿の子半袖シャツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008105/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "SUNSCREEN鹿の子半袖シャツ。掲載カラー：カーキ（KH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 24200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "普段にも合わせやすい半袖を探す人へ。襟と前立ての配色ライン、背中の控えめなロゴが特徴。",
     "image": "assets/products/2039.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008105_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9293,11 +10750,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS12M",
       "カラー": "カーキ（KH00）",
-      "掲載サイズ": "S / M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO",
+      "在庫のある掲載色サイズ": "M / L / O / XO"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "普段にも合わせやすい半袖を探す人へ。襟と前立ての配色ライン、背中の控えめなロゴが特徴。",
     "recommendationRank": 229,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008105/",
@@ -9308,9 +10766,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS12M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "3cc15ef11e1158d7b2c7620869de97596b7ef8123e5299d71a68da25545ad491",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008105/"
+    }
   },
   {
     "id": 2132,
@@ -9318,17 +10782,17 @@ const catalogData = [
     "name": "中わたブルゾン（ピンク（PK00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014387/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "中わたブルゾン",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "for": "襟の高さを調整したい人へ。襟を内側に折り込んで留められる、中わた入りブルゾン。",
     "image": "assets/products/2132.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014387_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9337,11 +10801,12 @@ const catalogData = [
       "メーカー品番": "LG6FWB50L",
       "掲載商品コード": "LE1872EW014387",
       "カラー": "ピンク（PK00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "気温に合わせた重ね着を選びたい人へ。肩回りと身幅の余裕を確認してください。",
+    "recommendationReason": "襟の高さを調整したい人へ。襟を内側に折り込んで留められる、中わた入りブルゾン。",
     "recommendationRank": 230,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "11136b3abcb9f02edbad892a3ba8a05b17bc2f3b09b35fab8af4412b536d6d0b",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9353,8 +10818,14 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6FWB50L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014387/"
+    }
   },
   {
     "id": 2027,
@@ -9362,17 +10833,17 @@ const catalogData = [
     "name": "グランドスラム ボアフリース クルーネックシャツ",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001224/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "グランドスラム ボアフリース クルーネックシャツ。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "ゆったりした冬のトップスを探す人へ。ボアフリース素材のクルーネックで、胸のエンブレムがアクセント。",
     "image": "assets/products/2027.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001224_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9380,11 +10851,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FSW01M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / XL"
+      "掲載サイズ": "S / M / L / XL",
+      "在庫のある掲載色サイズ": "S / M / L / XL"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "ゆったりした冬のトップスを探す人へ。ボアフリース素材のクルーネックで、胸のエンブレムがアクセント。",
     "recommendationRank": 231,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001224/",
@@ -9395,9 +10867,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MU6FSW01M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "b6adec53f3a9dcabe8fe4f3b975a08480e9e4c46b94ebe55804fa5a8f17a6ed1",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001224/"
+    }
   },
   {
     "id": 2152,
@@ -9405,17 +10883,17 @@ const catalogData = [
     "name": "ハーフジップシャツ（ホワイト（WH00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012915/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ハーフジップシャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 8470,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "重ね着にも使える長袖を探す人へ。ロゴとニワトリ柄を織り込んだ、起毛のないハーフジップシャツ。",
     "image": "assets/products/2152.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW012915_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9424,11 +10902,12 @@ const catalogData = [
       "メーカー品番": "LG5FLS81L",
       "掲載商品コード": "LE1872EW012915",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "重ね着にも使える長袖を探す人へ。ロゴとニワトリ柄を織り込んだ、起毛のないハーフジップシャツ。",
     "recommendationRank": 232,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "e580d2daba0eb771dfcd1087de1a74367233ad361c44e17508b1c7388907e146",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9440,8 +10919,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FLS81L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012915/"
+    }
   },
   {
     "id": 2037,
@@ -9456,10 +10941,10 @@ const catalogData = [
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "シンプルな半袖を探す人へ。鹿の子調のピケ素材で、前をホックで開閉するシャツ。",
     "image": "assets/products/2037.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008144_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9467,9 +10952,10 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS19M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO",
+      "在庫のある掲載色サイズ": "M / L / O / XO"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "シンプルな半袖を探す人へ。鹿の子調のピケ素材で、前をホックで開閉するシャツ。",
     "recommendationRank": 233,
     "recommendationReviewed": "2026-10-23",
     "audience": "men",
@@ -9482,9 +10968,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS19M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "648897da6494af3075a957b8d30aedae295c8db409487386d1ae80c28f87b2a4",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。 UV数値は公式本文内不一致のため未解決。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008144/"
+    }
   },
   {
     "id": 2154,
@@ -9492,17 +10984,17 @@ const catalogData = [
     "name": "10年ポロシャツ（ネイビー（NV00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015330/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "10年ポロシャツ",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 18700,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。 「10年ポロシャツ」は商品名です。実際の寿命や10年間の保証を意味するものではありません。",
+    "for": "定番の長袖ポロを探す人へ。綿とポリエステルの混紡素材で、専用のランドリーネットが付きます。",
     "image": "assets/products/2154.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015330_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9511,11 +11003,12 @@ const catalogData = [
       "メーカー品番": "MG6FLS00L",
       "掲載商品コード": "M01871EW015330",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "定番の長袖ポロを探す人へ。綿とポリエステルの混紡素材で、専用のランドリーネットが付きます。",
     "recommendationRank": 234,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "54ac0fda6b6c707a3545b80fe90e849e4738ff49067b50613fac3677bea3f34e",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9527,8 +11020,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MG6FLS00L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015330/"
+    }
   },
   {
     "id": 2023,
@@ -9536,17 +11035,17 @@ const catalogData = [
     "name": "フリーススウェットシャツ",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001308/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "フリーススウェットシャツ。掲載カラー：ブラック（BK00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "普段にも使えるスウェットを探す人へ。ゆとりのある形と裏起毛、襟元の刺繍が特徴。",
     "image": "assets/products/2023.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001308_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9554,11 +11053,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FSW03M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / XL"
+      "掲載サイズ": "S / M / L / XL",
+      "在庫のある掲載色サイズ": "S / M / L / XL"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "普段にも使えるスウェットを探す人へ。ゆとりのある形と裏起毛、襟元の刺繍が特徴。",
     "recommendationRank": 235,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001308/",
@@ -9569,9 +11069,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MU6FSW03M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "d70276819ddc11897dfaa47f4737abff7c37d137dfcc9bd280f0a2bc7e9ce98c",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001308/"
+    }
   },
   {
     "id": 2134,
@@ -9579,17 +11085,17 @@ const catalogData = [
     "name": "スウェットスカート（ベージュ（BG00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014487/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "スウェットスカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 12100,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "for": "裾が広がるスカートを探す人へ。柔らかなスウェット素材とロゴ入りウエストゴムが特徴。",
     "image": "assets/products/2134.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014487_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9598,11 +11104,12 @@ const catalogData = [
       "メーカー品番": "LG6FSK02L",
       "掲載商品コード": "LE1872EW014487",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "裾が広がるスカートを探す人へ。柔らかなスウェット素材とロゴ入りウエストゴムが特徴。",
     "recommendationRank": 236,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "727979bc32a2203b7e89a30c0685664deb57e18fb34ca120603a0d8931a22095",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9614,8 +11121,14 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG6FSK02L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014487/"
+    }
   },
   {
     "id": 2049,
@@ -9623,17 +11136,17 @@ const catalogData = [
     "name": "ジャガード半袖シャツ",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008056/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ジャガード半袖シャツ。掲載カラー：ブラウン（BW00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 27500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "控えめな柄の半袖を探す人へ。アーガイル調のジャガードと襟の配色、ハーフジップが特徴。",
     "image": "assets/products/2049.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008056_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9641,11 +11154,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS18M",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "S / M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO",
+      "在庫のある掲載色サイズ": "S / M / L / O / XO"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "控えめな柄の半袖を探す人へ。アーガイル調のジャガードと襟の配色、ハーフジップが特徴。",
     "recommendationRank": 237,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008056/",
@@ -9656,9 +11170,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS18M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "b7ca65547518db1fc76068db0f0dc3e92ff73a67d8fbf03416caef189d0949d9",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008056/"
+    }
   },
   {
     "id": 2153,
@@ -9666,17 +11186,17 @@ const catalogData = [
     "name": "吸湿発熱スタンドカラー前開きミドラー（ピンク（PK00））",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015277/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "吸湿発熱スタンドカラー前開きミドラー",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "for": "脱ぎ着しやすい羽織りを探す人へ。吸湿発熱素材のニットを使った、立ち襟のフルジップ。",
     "image": "assets/products/2153.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015277_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9685,11 +11205,12 @@ const catalogData = [
       "メーカー品番": "MG6FSW34L",
       "掲載商品コード": "M01871EW015277",
       "カラー": "ピンク（PK00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "L / LL / 3L"
     },
-    "recommendationReason": "襟元や袖丈、手持ちのボトムスとの合わせやすさを比べたい人へ。",
+    "recommendationReason": "脱ぎ着しやすい羽織りを探す人へ。吸湿発熱素材のニットを使った、立ち襟のフルジップ。",
     "recommendationRank": 238,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "99c2917eaac0b1a05896dab35aaa78d94ee189135173823a6654a223ea7b62e9",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9701,8 +11222,14 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MG6FSW34L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015277/"
+    }
   },
   {
     "id": 2025,
@@ -9710,17 +11237,17 @@ const catalogData = [
     "name": "ラインラガーシャツ",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001256/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "ラインラガーシャツ。掲載カラー：ホワイト（WH00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 19800,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "for": "普段にも使える長袖を探す人へ。表は綿、肌側はポリエステルの鹿の子素材で、裾リブ付きのラガーシャツ。",
     "image": "assets/products/2025.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/AN/AN2931EM001256_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9728,11 +11255,12 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FLS02M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL",
+      "在庫のある掲載色サイズ": "M / L / XL"
     },
-    "recommendationReason": "トップスのデザインと袖丈を見比べたい方へ。サイズ表で身幅・着丈を確認して選べます。",
+    "recommendationReason": "普段にも使える長袖を探す人へ。表は綿、肌側はポリエステルの鹿の子素材で、裾リブ付きのラガーシャツ。",
     "recommendationRank": 239,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001256/",
@@ -9743,9 +11271,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MU6FLS02M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "23838cbf4989896b71621107e5537cf02c36437f52bfb87c9cc8c8ac841e5811",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001256/"
+    }
   },
   {
     "id": 2145,
@@ -9753,17 +11287,17 @@ const catalogData = [
     "name": "総柄スカート（ネイビー（NV00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014426/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "総柄スカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 13200,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "for": "秋冬の柄スカートを探す人へ。シェブロン柄と、保温性のある裏起毛素材を採用。",
     "image": "assets/products/2145.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014426_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9772,11 +11306,12 @@ const catalogData = [
       "メーカー品番": "LG6FSK03L",
       "掲載商品コード": "LE1872EW014426",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "秋冬の柄スカートを探す人へ。シェブロン柄と、保温性のある裏起毛素材を採用。",
     "recommendationRank": 240,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "9e60113470ca19be410845e17a0bfb07173a737bacece6671c729ece4c2f01ca",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9788,8 +11323,14 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG6FSK03L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014426/"
+    }
   },
   {
     "id": 2026,
@@ -9797,17 +11338,17 @@ const catalogData = [
     "name": "表起毛セーターライク長袖カットソー",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014662/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "表起毛セーターライク長袖カットソー。掲載カラー：グレー（GY00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
     "price": 11990,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズ、販売時期により変動します。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "セーターのような見た目のカットソーを探す方へ。身幅・着丈と素材の感触を確認して選べます。",
+    "for": "重ね着用の長袖を探す人へ。セーターのような編み地と、首元を開けられるハーフジップが特徴。",
     "image": "assets/products/2026.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM014662_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9815,11 +11356,12 @@ const catalogData = [
       "種類": "長袖カットソー",
       "品番": "LG6FSW01M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "セーターのような見た目のカットソーを探す方へ。身幅・着丈と素材の感触を確認して選べます。",
+    "recommendationReason": "重ね着用の長袖を探す人へ。セーターのような編み地と、首元を開けられるハーフジップが特徴。",
     "recommendationRank": 241,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
     "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014662/",
@@ -9830,9 +11372,15 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6FSW01M",
     "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-23",
+    "availabilityChecked": "2026-10-27",
     "imageSha256": "c35f3fd95a0efd687ff0cd4cd935b24280da3bbf2173f6a64c1a27afb16c7a9b",
-    "imageVerified": "2026-10-23"
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014662/"
+    }
   },
   {
     "id": 2139,
@@ -9840,17 +11388,17 @@ const catalogData = [
     "name": "中わたスカート（グレー（GY00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014478/",
-    "checked": "2026-10-23",
+    "checked": "2026-10-27",
     "fact": "中わたスカート",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 14300,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月23日確認の公式税込掲載価格・送料別。セール、色、サイズにより変更される場合があります。",
+    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "for": "冬用スカートを探す人へ。中わた入りの台形で、脇部分に伸縮素材を配置しています。",
     "image": "assets/products/2139.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EW014478_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9859,11 +11407,12 @@ const catalogData = [
       "メーカー品番": "LG6FSK04L",
       "掲載商品コード": "LE1872EW014478",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
     },
-    "recommendationReason": "スカートのシルエットや丈を見比べたい人へ。インナーパンツの有無も公式仕様で確認してください。",
+    "recommendationReason": "冬用スカートを探す人へ。中わた入りの台形で、脇部分に伸縮素材を配置しています。",
     "recommendationRank": 242,
-    "recommendationReviewed": "2026-10-23",
+    "recommendationReviewed": "2026-10-27",
     "imageSha256": "73332a2420c039fb821701043f649ead2a0d32106a0e7c27ef9a5fd015faa840",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
@@ -9875,7 +11424,13 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG6FSK04L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-23",
-    "imageVerified": "2026-10-23"
+    "availabilityChecked": "2026-10-27",
+    "imageVerified": "2026-10-27",
+    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "partialReview": {
+      "date": "2026-10-27",
+      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014478/"
+    }
   }
 ];
