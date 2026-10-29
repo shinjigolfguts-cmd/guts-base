@@ -55,6 +55,30 @@ for(const file of htmlFiles){
 }
 check(read('index.html').includes('data-site="town"'),'Analytics site ID');
 check(read('guts-analytics.js').includes("location.pathname.startsWith('/guts-base/')"),'Analytics path restriction');
-const result={passed:failures.length===0,records:data.length,counts,imagesChecked:data.length,htmlPages:htmlFiles.length,localReferences:refs,failures,limitations:'Does not verify live stock, price accuracy, image model/color visually, browser behavior or analytics receipt.'};
+// Guard the files needed for search discovery on every existing CI run.
+const base='https://shinjigolfguts-cmd.github.io/guts-base/';
+const indexable=htmlFiles.filter(file=>file!=='404.html');
+const sitemap=read('sitemap.xml');
+check(/<urlset\s[^>]*xmlns=["']http:\/\/www\.sitemaps\.org\/schemas\/sitemap\/0\.9["']/.test(sitemap),'Sitemap namespace');
+const locations=[...sitemap.matchAll(/<loc>\s*([^<]+)\s*<\/loc>/g)].map(m=>m[1].trim());
+const expected=indexable.map(file=>base+(file==='index.html'?'':file));
+check(locations.length===expected.length&&new Set(locations).size===expected.length&&expected.every(url=>locations.includes(url)),'Sitemap must contain each public page exactly once');
+const titles=new Set(), descriptions=new Set();
+for(const file of indexable){
+ const html=read(file), expectedUrl=base+(file==='index.html'?'':file);
+ const title=html.match(/<title>([^<]+)<\/title>/i)?.[1];
+ const description=html.match(/<meta\s+name=["']description["']\s+content=["']([^"']+)["']/i)?.[1];
+ check(!!title&&!titles.has(title),'Missing or duplicate title '+file);titles.add(title);
+ check(!!description&&!descriptions.has(description),'Missing or duplicate description '+file);descriptions.add(description);
+ check(html.includes('rel="canonical" href="'+expectedUrl+'"'),'Canonical URL '+file);
+ check(html.includes('property="og:url" content="'+expectedUrl+'"'),'Share URL '+file);
+ check(!/<meta[^>]+(?:name=["'](?:robots|googlebot)["'])[^>]+content=["'][^"']*noindex/i.test(html),'Unexpected noindex '+file);
+ for(const match of html.matchAll(/<script\s+type="application\/ld\+json">([\s\S]*?)<\/script>/g)){
+  try{JSON.parse(match[1])}catch{failures.push('Invalid structured data '+file)}
+ }
+}
+const verificationFile='google14f186523eca69b6.html';
+try{check(read(verificationFile).trim()==='google-site-verification: '+verificationFile,'Ownership verification content')}catch{failures.push('Missing ownership verification file')}
+const result={passed:failures.length===0,records:data.length,counts,imagesChecked:data.length,htmlPages:htmlFiles.length,localReferences:refs,searchPagesChecked:indexable.length,ownershipFileChecked:true,failures,limitations:'Does not verify live stock, price accuracy, image model/color visually, browser behavior or analytics receipt.'};
 console.log(JSON.stringify(result,null,2));
 if(failures.length)process.exitCode=1;
