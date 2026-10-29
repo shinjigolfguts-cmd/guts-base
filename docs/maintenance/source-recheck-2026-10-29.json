@@ -1,0 +1,135 @@
+{
+  "checkedAt": "2026-10-29T02:37:49.865569+00:00",
+  "scope": "HTTP reachability only; not price, stock, image or content verification",
+  "catalogModified": false,
+  "fullCatalog": false,
+  "totalUrls": 13,
+  "reachableUrls": 2,
+  "categories": {
+    "1": {
+      "entries": 12,
+      "reachable": 1,
+      "attempted": 3
+    },
+    "2": {
+      "entries": 11,
+      "reachable": 0,
+      "attempted": 1
+    },
+    "3": {
+      "entries": 20,
+      "reachable": 0,
+      "attempted": 0
+    },
+    "4": {
+      "entries": 19,
+      "reachable": 0,
+      "attempted": 1
+    },
+    "5": {
+      "entries": 140,
+      "reachable": 0,
+      "attempted": 0
+    },
+    "6": {
+      "entries": 10,
+      "reachable": 0,
+      "attempted": 1
+    },
+    "7": {
+      "entries": 10,
+      "reachable": 1,
+      "attempted": 4
+    },
+    "8": {
+      "entries": 10,
+      "reachable": 0,
+      "attempted": 0
+    },
+    "10": {
+      "entries": 10,
+      "reachable": 0,
+      "attempted": 3
+    }
+  },
+  "results": [
+    {
+      "url": "https://jpn.mizuno.com/ec/disp/attgrp/5KJBS38205/",
+      "status": 200,
+      "finalUrl": "https://jpn.mizuno.com/ec/g/g5KJBS38205SR/",
+      "reachable": true
+    },
+    {
+      "url": "https://takatakicc.co.jp/course/",
+      "status": 503,
+      "reachable": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/chofu/detail.php",
+      "status": 503,
+      "reachable": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/funabashi/",
+      "status": 503,
+      "reachable": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/kashiwa/",
+      "status": 503,
+      "reachable": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.metrogreen.jp/facility/",
+      "status": 200,
+      "finalUrl": "https://www.metrogreen.jp/facility/",
+      "reachable": true
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-ALL/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%B9-7.0-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96/DW-TL931.html?lang=ja_JP",
+      "status": null,
+      "reachable": false,
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-ALL/TM26-TP5-%E3%83%9C%E3%83%BC%E3%83%AB/DW-TH726.html",
+      "status": null,
+      "reachable": false,
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories-CaddieBags/TM%EF%BD%98UA-%E3%82%AD%E3%83%A3%E3%83%87%E3%82%A3%E3%83%90%E3%83%83%E3%82%B0/DW-UN809.html",
+      "status": null,
+      "reachable": false,
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories-smari/FENDER%C3%97TM-PRINT-TOWEL-SPAGHETTI-LOGO/DW-UN221.html",
+      "status": null,
+      "reachable": false,
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-UV-%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9/DW-TO217.html",
+      "status": 302,
+      "reachable": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-clubs/Qi4D-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC/DW-TH050.html",
+      "status": 302,
+      "reachable": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-newclub/Spider-ZT-STANDARD/DW-TE614.html",
+      "status": 302,
+      "reachable": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    }
+  ]
+}
