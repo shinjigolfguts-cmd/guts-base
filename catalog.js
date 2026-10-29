@@ -193,8 +193,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG5FHSD2M",
       "カラー": "サックス（SA00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "汗ばむ日の半袖を探す人へ。接触冷感素材を使った、小祝さくらプロ監修のハーフジップ。",
     "recommendationRank": 5,
@@ -208,8 +207,8 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG5FHSD2M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "badf7ab8a8d2d5d933c2a4660d310d65846f1a379d9eba5b0d9cadf615fc08dc",
     "imageVerified": "2026-10-27",
     "partialReview": {
@@ -217,7 +216,7 @@ const catalogData = [
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
       "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013130/"
     },
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。"
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。"
   },
   {
     "id": 1027,
@@ -580,8 +579,7 @@ const catalogData = [
       "種類": "アンダーウェア",
       "品番": "DG6SUD00M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / O / XO",
-      "在庫のある掲載色サイズ": "L"
+      "掲載サイズ": "M / L / O / XO"
     },
     "recommendationReason": "重ね着の蒸れが気になる人へ。身頃のメッシュとVネックが特徴の薄手インナー。",
     "recommendationRank": 14,
@@ -595,11 +593,11 @@ const catalogData = [
     },
     "apparelType": "inner",
     "modelCode": "DG6SUD00M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "8cee23727e9d4a3ec4e1fb6f499196ca7e4d3a23c3eb4f0cb7ed41fa18d2f967",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -991,8 +989,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "MG6FST39M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "柄を主役にしたい人へ。星条旗をモチーフにしたウール混のクルーネックニット。手洗いできます。",
     "recommendationRank": 23,
@@ -1006,11 +1003,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "MG6FST39M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "c8c30f8b152c817aa7512a3d026f8e19fc59f7b76406372596cf4678343c79b1",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -1799,8 +1796,7 @@ const catalogData = [
       "メーカー品番": "LG6SUD01L",
       "掲載商品コード": "LE1872EW013528",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "薄手のインナーを重ねたい人へ。身頃上部のメッシュとクルーネックが特徴。返品・交換条件を要確認。",
     "recommendationRank": 42,
@@ -1816,14 +1812,14 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "LG6SUD01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
       "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013528/"
     },
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。"
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。"
   },
   {
     "id": 1042,
@@ -2268,8 +2264,7 @@ const catalogData = [
     "specs": {
       "品番": "0126238001",
       "掲載色": "カーキ",
-      "種類": "パンツ",
-      "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
+      "種類": "パンツ"
     },
     "recommendationReason": "ゆったりした短パンを探す人へ。撥水素材と大きめのポケットを備えた一本。",
     "recommendationRank": 52,
@@ -2285,9 +2280,9 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "0126238001",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -2318,8 +2313,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MU6FVE02M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / XL",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL"
     },
     "recommendationReason": "着回しを楽しみたい人へ。チェック柄のボアフリースとタフタを、両面で使えるリバーシブルベスト。",
     "recommendationRank": 53,
@@ -2333,11 +2327,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MU6FVE02M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "8b57ad7f073298539402b082eb429e9ef473ec58218ef46ddb4ef584c846512c",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -2367,8 +2361,7 @@ const catalogData = [
     "specs": {
       "品番": "FJ-F26-S01",
       "掲載色": "ホワイト/ウィンドワードブルー/ラベンダーオーラ",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
+      "種類": "トップス"
     },
     "recommendationReason": "長袖でも首元をすっきり見せたい人へ。ストレッチ素材のモックネック。",
     "recommendationRank": 54,
@@ -2384,9 +2377,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "FJ-F26-S01",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -2396,51 +2389,52 @@ const catalogData = [
   {
     "id": 2008,
     "cat": 5,
-    "name": "【ストレッチフォーサー】ウエストアジャスター9分丈パンツ（武井壮着用）",
+    "name": "【ストレッチフォーサー】ウエストアジャスター保温パンツ（武井壮着用）（ネイビー（NV00））",
     "brand": "le coq sportif golf",
-    "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012755/",
-    "checked": "2026-10-27",
-    "fact": "【ストレッチフォーサー】ウエストアジャスター9分丈パンツ（武井壮着用）。掲載カラー：グレー（GY00）。",
+    "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012704/",
+    "checked": "2026-10-29",
+    "fact": "【ストレッチフォーサー】ウエストアジャスター保温パンツ（武井壮着用）。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・着用感・利用コースの服装規定を確認",
-    "price": 6600,
+    "price": 7260,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月27日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
+    "priceNote": "2026年10月29日確認の公式税込セール価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "腰回りを調整したい人へ。ウエストアジャスター付きの9分丈パンツ。購入可能サイズを確認してください。",
+    "note": "公式の掲載色・サイズ別在庫を購入前に確認してください。",
+    "for": "ウエストを調整したい人へ。アジャスター付きの9分丈テーパードパンツ。保温素材を使った秋冬向けモデル。",
     "image": "assets/products/2008.jpg",
-    "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM012755_1_l.jpg",
+    "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LE/LE1872EM012704_1_l.jpg",
     "imageLabel": "公式商品写真",
     "specs": {
       "種類": "パンツ",
-      "品番": "LG5FLP52M",
-      "カラー": "グレー（GY00）",
+      "メーカー品番": "LG5FLP53M",
+      "掲載商品コード": "LE1872EM012704",
+      "カラー": "ネイビー（NV00）",
       "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96",
-      "在庫のある掲載色サイズ": "85"
+      "在庫のある掲載色サイズ": "76 / 79 / 82 / 88"
     },
-    "recommendationReason": "腰回りを調整したい人へ。ウエストアジャスター付きの9分丈パンツ。購入可能サイズを確認してください。",
+    "recommendationReason": "ウエストを調整したい人へ。アジャスター付きの9分丈テーパードパンツ。保温素材を使った秋冬向けモデル。",
     "recommendationRank": 55,
-    "recommendationReviewed": "2026-10-27",
+    "recommendationReviewed": "2026-10-29",
     "audience": "men",
     "audienceNote": "公式商品ページでメンズとして掲載。サイズと着用感には個人差があります。",
-    "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012755/",
+    "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012704/",
     "recommendationRanks": {
       "men": 48,
       "women": null
     },
     "apparelType": "pants",
-    "modelCode": "LG5FLP52M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
-    "imageSha256": "0010ec7210babcc344653fe72ee1b1632c96620f62eac4da4d557551554f8c9a",
-    "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "modelCode": "LG5FLP53M",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "imageSha256": "3f6eb70f26fe313c31a6f4f9897155c7d6cd7ff665e0d07b41f0e84308461bd3",
+    "imageVerified": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式サイズ表で掲載色の購入可能サイズを確認。最新在庫は公式サイトでご確認ください。",
     "partialReview": {
-      "date": "2026-10-27",
-      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
-      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012755/"
+      "date": "2026-10-29",
+      "scope": "全サイズ欠品の旧候補から異なる実在モデルへ入替。公式税込一般価格・在庫表・性別・品番・画像の色と形状を照合。既存IDと表示位置を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012704/"
     }
   },
   {
@@ -2466,8 +2460,7 @@ const catalogData = [
     "specs": {
       "品番": "0126220001",
       "掲載色": "ブラック",
-      "種類": "アウター",
-      "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
+      "種類": "アウター"
     },
     "recommendationReason": "軽い羽織りを探す人へ。撥水タフタとメッシュ裏地、上下から開くファスナーが特徴。",
     "recommendationRank": 56,
@@ -2483,9 +2476,9 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "0126220001",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -2516,8 +2509,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "MG6FST32M",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "小さな柄のニットを探す人へ。星条旗の刺繍を散らしたウール混セーター。自宅で手洗いできます。",
     "recommendationRank": 57,
@@ -2531,11 +2523,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "MG6FST32M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "c60036acf4469e96e384dc75fbf296e75e7d793a36b50a9d4d4f6d3065fc81c8",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -2566,8 +2558,7 @@ const catalogData = [
       "種類": "アンダーウェア",
       "品番": "MG6SUD31M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "首元まで覆うインナーを探す人へ。ハイネックと伸縮性のある素材が特徴。",
     "recommendationRank": 58,
@@ -2581,11 +2572,11 @@ const catalogData = [
     },
     "apparelType": "inner",
     "modelCode": "MG6SUD31M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "09e7b52c350efd86838dcc28175ecf64e144299b871375f24bb9ada0a6fd74ce",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -2615,8 +2606,7 @@ const catalogData = [
     "specs": {
       "品番": "FJW-S26-BES01",
       "掲載色": "ブラック",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "S / XL"
+      "種類": "トップス"
     },
     "recommendationReason": "無地の半袖ポロを揃えたい人へ。伸縮性のある鹿の子素材で、手持ちのボトムスに合わせやすい一枚。",
     "recommendationRank": 59,
@@ -2632,9 +2622,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "FJW-S26-BES01",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -2666,8 +2656,7 @@ const catalogData = [
       "メーカー品番": "MG6FSK31L",
       "掲載商品コード": "M01871EW015373",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
-      "在庫のある掲載色サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
     },
     "recommendationReason": "台形スカートを探す人へ。ストレッチ素材と後ろウエストのゴムで、腰回りにゆとりを持たせた仕様。",
     "recommendationRank": 60,
@@ -2683,9 +2672,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "MG6FSK31L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -2715,8 +2704,7 @@ const catalogData = [
     "specs": {
       "品番": "0126231502",
       "掲載色": "ブラック",
-      "種類": "パンツ",
-      "在庫のある掲載色サイズ": "00 / 0 / 1 / 2 / 3"
+      "種類": "パンツ"
     },
     "recommendationReason": "細すぎないロングパンツを探す人へ。撥水素材のストレート型で、股下は72cm。",
     "recommendationRank": 61,
@@ -2732,9 +2720,9 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "0126231502",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -2766,8 +2754,7 @@ const catalogData = [
       "メーカー品番": "DG6SHS56L",
       "掲載商品コード": "DE2188EW008100",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / O",
-      "在庫のある掲載色サイズ": "S / L / O"
+      "掲載サイズ": "S / M / L / O"
     },
     "recommendationReason": "一枚で重ね着風に見せたい人へ。鹿の子とニットを組み合わせた半袖ハーフジップ。",
     "recommendationRank": 62,
@@ -2783,9 +2770,9 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "DG6SHS56L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -2817,8 +2804,7 @@ const catalogData = [
       "メーカー品番": "LG5FVE80L",
       "掲載商品コード": "LE1872EW013063",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "着回せるベストを探す人へ。布帛とニットの両面を使えるリバーシブル。掲載色の裏面はネイビー。",
     "recommendationRank": 63,
@@ -2834,9 +2820,9 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG5FVE80L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -2868,8 +2854,7 @@ const catalogData = [
       "メーカー品番": "MG6FOP32L",
       "掲載商品コード": "M01871EW015246",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "ゆったりしたワンピースを探す人へ。伸縮性のある生地と4つのポケットを備えた長袖。",
     "recommendationRank": 64,
@@ -2885,9 +2870,9 @@ const catalogData = [
     "apparelType": "dress",
     "modelCode": "MG6FOP32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -2917,8 +2902,7 @@ const catalogData = [
     "specs": {
       "品番": "0126266501",
       "掲載色": "ブラック",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "0 / 1 / 2 / 3"
+      "種類": "トップス"
     },
     "recommendationReason": "花柄をさりげなく取り入れたい人へ。半袖モックネックで、裾のひもでシルエットを調整できます。",
     "recommendationRank": 65,
@@ -2934,9 +2918,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "0126266501",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -2968,8 +2952,7 @@ const catalogData = [
       "メーカー品番": "VG5FAZ11L",
       "掲載商品コード": "LA7956DW007211",
       "カラー": "ブラック（BK03）",
-      "掲載サイズ": "S / M / L",
-      "在庫のある掲載色サイズ": "S / M"
+      "掲載サイズ": "S / M / L"
     },
     "recommendationReason": "冷える日の重ね着用レギンスを探す人へ。裏起毛と防風素材を採用。返品・交換条件の確認が必要です。",
     "recommendationRank": 66,
@@ -2985,9 +2968,9 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "VG5FAZ11L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -3019,8 +3002,7 @@ const catalogData = [
       "メーカー品番": "MU6SSK01L",
       "掲載商品コード": "AN2931EW001173",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "9 / 11 / 13",
-      "在庫のある掲載色サイズ": "9 / 11 / 13"
+      "掲載サイズ": "9 / 11 / 13"
     },
     "recommendationReason": "夏用のプリーツスカートを探す人へ。表面に凹凸があるメッシュサッカー素材を使用。",
     "recommendationRank": 67,
@@ -3036,9 +3018,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "MU6SSK01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -5439,8 +5421,7 @@ const catalogData = [
     "specs": {
       "品番": "FJ-F26-S04",
       "掲載色": "ホワイト",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
+      "種類": "トップス"
     },
     "recommendationReason": "柄の半袖ポロを楽しみたい人へ。マルシェを描いた総柄とストレッチ素材が特徴。",
     "recommendationRank": 123,
@@ -5456,9 +5437,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "FJ-F26-S04",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -5490,8 +5471,7 @@ const catalogData = [
       "メーカー品番": "DG6SHP51L",
       "掲載商品コード": "DE2188EW007920",
       "カラー": "イエロー（YL00）",
-      "掲載サイズ": "S / M / L",
-      "在庫のある掲載色サイズ": "S / M / L"
+      "掲載サイズ": "S / M / L"
     },
     "recommendationReason": "スカート風のパンツを探す人へ。ファスナーでスリットを調整できる、一体型のスカパン。",
     "recommendationRank": 124,
@@ -5507,9 +5487,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "DG6SHP51L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -5540,8 +5520,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "DG6SLP04M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92",
-      "在庫のある掲載色サイズ": "76 / 79 / 82 / 88 / 92"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92"
     },
     "recommendationReason": "すっきりした長いパンツを探す人へ。ストレートの形と、腰裏の滑り止め・メッシュが特徴。",
     "recommendationRank": 125,
@@ -5555,11 +5534,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "DG6SLP04M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "3ae00cebeb665d778eea72e2d30c9be0410bace13b5d0a0c803526b6a6600d0c",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -5591,8 +5570,7 @@ const catalogData = [
       "メーカー品番": "LG5FHS03L",
       "掲載商品コード": "LE1872EW012653",
       "カラー": "ライム（LM00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "明るい柄の半袖を探す人へ。手書き風ロゴとリブ袖口が特徴。掲載色は購入可能サイズをご確認ください。",
     "recommendationRank": 126,
@@ -5608,9 +5586,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FHS03L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -5641,8 +5619,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MU6FJK09M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / XL",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL"
     },
     "recommendationReason": "季節に合わせて重ね着したい人へ。ゆとりのある形のフルジップジャケットで、冬はアウターの内側にも。",
     "recommendationRank": 127,
@@ -5656,11 +5633,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MU6FJK09M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "e4a809929ef9f5ee09b7ff4f0bb07730daa72e599a2125a841e7e6b76f51281c",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -5690,8 +5667,7 @@ const catalogData = [
     "specs": {
       "品番": "FJW-S26-BEM01",
       "掲載色": "ライトベージュヘザー",
-      "種類": "アウター",
-      "在庫のある掲載色サイズ": "M / XL / 2XL"
+      "種類": "アウター"
     },
     "recommendationReason": "重ね着用のフーディーを探す人へ。ダブルニット素材で、吸湿速乾・抗菌機能を備えます。",
     "recommendationRank": 128,
@@ -5707,9 +5683,9 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "FJW-S26-BEM01",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -5740,8 +5716,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6SST00M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "柄ニットを手軽に使いたい人へ。タイル風の幾何学柄で、自宅で洗えるポリエステル製セーター。",
     "recommendationRank": 129,
@@ -5755,11 +5730,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "LG6SST00M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "c83e1e62ea9d20e72dfd7538cee5993001de93352595fc0cec0dd0b4b065e01d",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -5791,8 +5766,7 @@ const catalogData = [
       "メーカー品番": "MG6FST32L",
       "掲載商品コード": "M01871EW015368",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "首元まで覆うニットを探す人へ。ウール混素材のハイネックで、太めのリブ柄とポケットが特徴。",
     "recommendationRank": 130,
@@ -5808,9 +5782,9 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -5840,8 +5814,7 @@ const catalogData = [
     "specs": {
       "品番": "0126266001",
       "掲載色": "ホワイト",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
+      "種類": "トップス"
     },
     "recommendationReason": "汗ばむ日の半袖を探す人へ。ダブルメッシュ素材と、ゆとりのあるシルエットが特徴。",
     "recommendationRank": 131,
@@ -5857,9 +5830,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "0126266001",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -5889,8 +5862,7 @@ const catalogData = [
     "specs": {
       "品番": "0126234501",
       "掲載色": "カーキ",
-      "種類": "スカート・キュロット",
-      "在庫のある掲載色サイズ": "00 / 0 / 1 / 2"
+      "種類": "スカート・キュロット"
     },
     "recommendationReason": "ポケット付きのスカートを探す人へ。撥水素材のカーゴ型で、後ろウエストはゴム仕様。",
     "recommendationRank": 132,
@@ -5906,9 +5878,9 @@ const catalogData = [
     },
     "apparelType": "skirt",
     "modelCode": "0126234501",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -5939,8 +5911,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MU6FLP05M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "M / L / XL",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL"
     },
     "recommendationReason": "普段にも着られるパンツを探す人へ。ウエストゴムと裾のひも、携帯用ポケットを備えます。",
     "recommendationRank": 133,
@@ -5954,11 +5925,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "MU6FLP05M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "0d4d68578d490064b3e87f5441bfe3ff431dde8789341cf00972d0f992fd04ec",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -5968,11 +5939,11 @@ const catalogData = [
   {
     "id": 2119,
     "cat": 5,
-    "name": "【耐水圧20，000mm 透湿性30，000g/24h】ワンピースレインウェア（ブルー（BL00））",
+    "name": "ワンピースレインウェア（ブルー（BL00））",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014458/",
     "checked": "2026-10-27",
-    "fact": "【耐水圧20，000mm 透湿性30，000g/24h】ワンピースレインウェア",
+    "fact": "袖・フードを取り外せるワンピース型レインウェア。",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
     "price": 25300,
     "unit": "1着",
@@ -5990,8 +5961,7 @@ const catalogData = [
       "メーカー品番": "LG6FRW01L",
       "掲載商品コード": "LE1872EW014458",
       "カラー": "ブルー（BL00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "雨の日のワンピース型を探す人へ。袖とフードを取り外せるレインウェアで、前は上下から開くファスナー。",
     "recommendationRank": 134,
@@ -6007,12 +5977,12 @@ const catalogData = [
     "apparelType": "dress",
     "modelCode": "LG6FRW01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
-      "date": "2026-10-27",
-      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
+      "date": "2026-10-29",
+      "scope": "公式ページ内の透湿性の単位表記が一致しないため、掲載名・説明から性能数値を除去。モデル・価格・画像・順位は変更していません。",
       "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014458/"
     }
   },
@@ -6040,8 +6010,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "LG6SVE00M",
       "カラー": "グリーン（GR00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "L / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "薄手の重ね着用ベストを探す人へ。メッシュ裏地付きで、花粉が付きにくい加工とはっ水加工を施した素材。",
     "recommendationRank": 135,
@@ -6055,11 +6024,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "LG6SVE00M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "547efa28c2a945eb4039a76935a4a2c0b7c5ed058dd53a252d57d79735bf85d4",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -6091,8 +6060,7 @@ const catalogData = [
       "メーカー品番": "VG6SUD02L",
       "掲載商品コード": "LA7956EW007947",
       "カラー": "ブラック（BK03）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
-      "在庫のある掲載色サイズ": "38 / 40 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
     },
     "recommendationReason": "首元から見えにくいインナーを探す人へ。クルーネックの長袖で、UV機能は本体生地のみに適用。",
     "recommendationRank": 136,
@@ -6108,9 +6076,9 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "VG6SUD02L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -6141,8 +6109,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "MG6FST36M",
       "カラー": "エメラルド（EM00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "裏地付きのニットを探す人へ。防風裏地とウール混素材を組み合わせた、星条旗モチーフのセーター。",
     "recommendationRank": 137,
@@ -6156,11 +6123,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "MG6FST36M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "e553dbd4f56bb5f628042e5b2c24fab125179dbdd97231e1694425e9e60db7c0",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -6192,8 +6159,7 @@ const catalogData = [
       "メーカー品番": "LG5FLP50L",
       "掲載商品コード": "LE1872EW012601",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "腰回りにゆとりのあるパンツを探す人へ。2タック入りの9分丈で、裾に向かって細くなる形。",
     "recommendationRank": 138,
@@ -6209,9 +6175,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "LG5FLP50L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -6241,8 +6207,7 @@ const catalogData = [
     "specs": {
       "品番": "FJ-F26-S05",
       "掲載色": "ミントジュレップ/ウィンドワードブルー",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
+      "種類": "トップス"
     },
     "recommendationReason": "長袖ポロで柄を楽しみたい人へ。ベガスマーカーの総柄とストレッチ素材が特徴。",
     "recommendationRank": 139,
@@ -6258,9 +6223,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "FJ-F26-S05",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -6292,8 +6257,7 @@ const catalogData = [
       "メーカー品番": "MG6FST31L",
       "掲載商品コード": "M01871EW015300",
       "カラー": "エメラルド（EM00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "柄や編み地を楽しみたい人へ。前面のロゴと、袖・背中のケーブル編みが特徴。手洗いできるセーター。",
     "recommendationRank": 140,
@@ -6309,9 +6273,9 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST31L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -6342,8 +6306,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "DG6SHP05M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96",
-      "在庫のある掲載色サイズ": "85 / 96"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96"
     },
     "recommendationReason": "白のショートパンツを探す人へ。公式の商品名・写真に対応した掲載モデル。購入可能サイズをご確認ください。",
     "recommendationRank": 141,
@@ -6357,11 +6320,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "DG6SHP05M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "6ffccc8112ff91e46dfc5e21881afd29300f78c245d321f3f9acbc28f1032f79",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。 ただし公式本文の丈表記不一致は未解決。総合確認日は据え置き。",
@@ -6391,8 +6354,7 @@ const catalogData = [
     "specs": {
       "品番": "0126268501",
       "掲載色": "ライトグリーン",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "0 / 1 / 2"
+      "種類": "トップス"
     },
     "recommendationReason": "シンプルすぎない半袖シャツを探す人へ。前後のロゴと、ゆとりのある袖が特徴。",
     "recommendationRank": 142,
@@ -6408,9 +6370,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "0126268501",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -6440,8 +6402,7 @@ const catalogData = [
     "specs": {
       "品番": "0126270002",
       "掲載色": "ホワイト",
-      "種類": "ニット",
-      "在庫のある掲載色サイズ": "4 / 5 / 6 / 7"
+      "種類": "ニット"
     },
     "recommendationReason": "クルーネックのニットを探す人へ。胸のロゴと表情のある編み地が、着こなしのアクセントに。",
     "recommendationRank": 143,
@@ -6457,9 +6418,9 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "0126270002",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -6489,8 +6450,7 @@ const catalogData = [
     "specs": {
       "品番": "FJW-F26-B01",
       "掲載色": "ネイビー",
-      "種類": "インナー",
-      "在庫のある掲載色サイズ": "S / M / L / XL"
+      "種類": "インナー"
     },
     "recommendationReason": "肌寒い日のインナーを探す人へ。裏面がフリースタッチの長袖で、縫い目を平らにした仕様。",
     "recommendationRank": 144,
@@ -6506,9 +6466,9 @@ const catalogData = [
     },
     "apparelType": "inner",
     "modelCode": "FJW-F26-B01",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -6539,8 +6499,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MU6FJK08M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / XL",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL"
     },
     "recommendationReason": "ゆったり羽織れる防寒着を探す人へ。保温裏地のオクタCPCPと、光沢のあるポリエステル表地を採用。",
     "recommendationRank": 145,
@@ -6554,11 +6513,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MU6FJK08M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "3103977f650ca0152592ba2949cbe2589f350498c6af437fecc941ee8f6f5508",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -6590,8 +6549,7 @@ const catalogData = [
       "メーカー品番": "MG6FVE32L",
       "掲載商品コード": "M01871EW015392",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "L / LL"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "気温に合わせて羽織りたい人へ。防風・はっ水素材のベストで、フードを取り外せます。",
     "recommendationRank": 146,
@@ -6607,9 +6565,9 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "MG6FVE32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -6654,10 +6612,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "MG6FLS01M",
-    "availability": "確認時点でM・L・LL・3Lに在庫あり",
-    "availabilityChecked": "2026-10-26",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "9d9f7386436d00f3e895abc8955e6f851e5a2d35ccdafe3f4f543d8f6051caa8",
-    "imageVerified": "2026-10-26"
+    "imageVerified": "2026-10-26",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。"
   },
   {
     "id": 2260,
@@ -6682,8 +6641,7 @@ const catalogData = [
     "specs": {
       "品番": "0126234507",
       "掲載色": "ホワイト",
-      "種類": "スカート・キュロット",
-      "在庫のある掲載色サイズ": "00 / 0 / 1 / 2 / 3"
+      "種類": "スカート・キュロット"
     },
     "recommendationReason": "柔らかな素材のスカートを探す人へ。ストレッチ性のあるスウェット生地で、総丈は42cm。",
     "recommendationRank": 148,
@@ -6699,9 +6657,9 @@ const catalogData = [
     },
     "apparelType": "skirt",
     "modelCode": "0126234507",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -6732,8 +6690,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "DG6SLP01M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96",
-      "在庫のある掲載色サイズ": "76 / 79 / 82 / 85 / 88 / 92"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96"
     },
     "recommendationReason": "普段にも使える長いパンツを探す人へ。ナイロン系の伸縮素材で、腰裏に滑り止めを備えたストレート。",
     "recommendationRank": 149,
@@ -6747,11 +6704,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "DG6SLP01M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "e6e0449cd4b1b3198f969c5bce25e330009af29fd55c1f2d1566ad4bc17dd9e1",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -6781,8 +6738,7 @@ const catalogData = [
     "specs": {
       "品番": "FJW-S26-BEP01",
       "掲載色": "ベージュ",
-      "種類": "パンツ",
-      "在庫のある掲載色サイズ": "S / M / L / XL / XXL"
+      "種類": "パンツ"
     },
     "recommendationReason": "伸縮性を重視した短パンを探す人へ。トリコット素材で、UVカットと吸汗速乾機能を備えます。",
     "recommendationRank": 150,
@@ -6798,9 +6754,9 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "FJW-S26-BEP01",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -6831,8 +6787,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "MG6FVE35M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "ポロシャツに重ねるベストを探す人へ。ニットと布帛を組み合わせたVネック。",
     "recommendationRank": 151,
@@ -6846,11 +6801,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "MG6FVE35M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "c688e8e6e975eca5e7ba766ab121f0c23c815acb3fe30c1f5639c72c9e16d0cd",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -6882,8 +6837,7 @@ const catalogData = [
       "メーカー品番": "DG6SHS54L",
       "掲載商品コード": "DE2188EW007936",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / O",
-      "在庫のある掲載色サイズ": "S / M / L / O"
+      "掲載サイズ": "S / M / L / O"
     },
     "recommendationReason": "すっきりした半袖ポロを探す人へ。背面の立体ロゴと、接触冷感素材が特徴。",
     "recommendationRank": 152,
@@ -6899,9 +6853,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS54L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -6931,8 +6885,7 @@ const catalogData = [
     "specs": {
       "品番": "0126268001",
       "掲載色": "ブラック",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
+      "種類": "トップス"
     },
     "recommendationReason": "柄と涼しげな素材感で選びたい人へ。ロゴ総柄のダブルメッシュ半袖シャツ。",
     "recommendationRank": 153,
@@ -6948,9 +6901,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "0126268001",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -6982,8 +6935,7 @@ const catalogData = [
       "メーカー品番": "QGWXJF00W",
       "掲載商品コード": "LE1872EW008727",
       "カラー": "(NV00)（NV00）",
-      "掲載サイズ": "S / M / L / LL",
-      "在庫のある掲載色サイズ": "S / M / L / LL"
+      "掲載サイズ": "S / M / L / LL"
     },
     "recommendationReason": "雨の日のワンピース型を探す人へ。袖を取り外せ、フードを襟に収納できるレインウェア。",
     "recommendationRank": 154,
@@ -6999,9 +6951,9 @@ const catalogData = [
     "apparelType": "dress",
     "modelCode": "QGWXJF00W",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7032,8 +6984,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MU6FJK07M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / XL",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL"
     },
     "recommendationReason": "襟のない防寒着を探す人へ。伸縮性のある表地と保温裏地を組み合わせた、クルーネックのプルオーバー。",
     "recommendationRank": 155,
@@ -7047,11 +6998,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MU6FJK07M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "75fed7f90f6c850bb59c785de50dd338ee7f4a4bd87d851c36d77ed73746b380",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -7061,52 +7012,52 @@ const catalogData = [
   {
     "id": 2133,
     "cat": 5,
-    "name": "ドットプリントハイネック長袖シャツ【蓄熱保温】（ホワイト（WH00））",
-    "brand": "LANVIN SPORT",
-    "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008694/",
-    "checked": "2026-10-27",
-    "fact": "ドットプリントハイネック長袖シャツ【蓄熱保温】",
+    "name": "ペンギンプリントハイネック長袖シャツ（ネイビー（NV00））",
+    "brand": "MUNSINGWEAR",
+    "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015324/",
+    "checked": "2026-10-29",
+    "fact": "ペンギンプリントハイネック長袖シャツ。掲載カラー：ネイビー（NV00）。",
     "check": "サイズ表・素材・動きやすさ・利用するゴルフ場の服装規定を確認",
-    "price": 29700,
+    "price": 16500,
     "unit": "1着",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
+    "priceNote": "2026年10月29日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
-    "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "重ね着から柄を見せたい人へ。ロゴを織り交ぜたドットプリントのハイネック長袖。掲載サイズを要確認。",
+    "note": "公式の掲載色・サイズ別在庫を購入前に確認してください。",
+    "for": "重ね着にも使いたい人へ。胸元のペンギンプリントがアクセントのハイネック長袖。袖がすっきりしたレギュラーシルエット。",
     "image": "assets/products/2133.jpg",
-    "imageSource": "https://sc3.locondo.jp/contents/commodity_image/LA/LA7956EW008694_1_l.jpg",
+    "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015324_1_l.jpg",
     "imageLabel": "公式商品写真",
     "specs": {
       "種類": "トップス",
-      "メーカー品番": "VG6FLS31L",
-      "掲載商品コード": "LA7956EW008694",
-      "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
-      "在庫のある掲載色サイズ": "40"
+      "メーカー品番": "MG6FLS36L",
+      "掲載商品コード": "M01871EW015324",
+      "カラー": "ネイビー（NV00）",
+      "掲載サイズ": "M / L / LL / 3L",
+      "在庫のある掲載色サイズ": "M / L / LL / 3L"
     },
-    "recommendationReason": "重ね着から柄を見せたい人へ。ロゴを織り交ぜたドットプリントのハイネック長袖。掲載サイズを要確認。",
+    "recommendationReason": "重ね着にも使いたい人へ。胸元のペンギンプリントがアクセントのハイネック長袖。袖がすっきりしたレギュラーシルエット。",
     "recommendationRank": 156,
-    "recommendationReviewed": "2026-10-27",
-    "imageSha256": "e5ebca4061d31c628c47311f326ea0892369a99db6558c458e2ca8601f9d4603",
+    "recommendationReviewed": "2026-10-29",
+    "imageSha256": "8e4ed07c26d20fb6ba729ba0c31c100871ada65975a9e09a408e40d775ceffe6",
     "audience": "women",
     "audienceNote": "公式商品ページのレディース分類・女性向けサイズに基づくモデルです。",
-    "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008694/",
+    "audienceSource": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015324/",
     "recommendationRanks": {
       "men": null,
       "women": 110
     },
     "apparelType": "tops",
-    "modelCode": "VG6FLS31L",
+    "modelCode": "MG6FLS36L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
-    "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityChecked": "2026-10-29",
+    "imageVerified": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式サイズ表で掲載色の購入可能サイズを確認。最新在庫は公式サイトでご確認ください。",
     "partialReview": {
-      "date": "2026-10-27",
-      "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
-      "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008694/"
+      "date": "2026-10-29",
+      "scope": "全サイズ欠品の旧候補から異なる実在モデルへ入替。公式税込一般価格・在庫表・性別・品番・画像の色と形状を照合。既存IDと表示位置を維持。",
+      "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015324/"
     }
   },
   {
@@ -7132,8 +7083,7 @@ const catalogData = [
     "specs": {
       "品番": "FJ-F26-S08",
       "掲載色": "ブラック",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
+      "種類": "トップス"
     },
     "recommendationReason": "肌寒い日の長袖ポロを探す人へ。裏起毛のストレッチ素材で、重ね着にも使える一枚。",
     "recommendationRank": 157,
@@ -7149,9 +7099,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "FJ-F26-S08",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -7183,8 +7133,7 @@ const catalogData = [
       "メーカー品番": "QGWXJM00",
       "掲載商品コード": "LE1872EW008816",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / LL",
-      "在庫のある掲載色サイズ": "S"
+      "掲載サイズ": "S / M / L / LL"
     },
     "recommendationReason": "首元まで覆うインナーを探す人へ。伸縮性のある長袖ハイネック。掲載色のサイズと返品条件を要確認。",
     "recommendationRank": 158,
@@ -7200,9 +7149,9 @@ const catalogData = [
     "apparelType": "inner",
     "modelCode": "QGWXJM00",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7233,8 +7182,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "DG6SLP00M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96",
-      "在庫のある掲載色サイズ": "79 / 82 / 85 / 88 / 92"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96"
     },
     "recommendationReason": "白の長いパンツを探す人へ。腰裏の滑り止めと立体的な裁断が特徴。色によって素材・機能が異なります。",
     "recommendationRank": 159,
@@ -7248,11 +7196,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "DG6SLP00M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "9923b95ec03f578567c0266d7aba754767c0635cb7ac999f252019737cccd480",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -7282,8 +7230,7 @@ const catalogData = [
     "specs": {
       "品番": "0126270502",
       "掲載色": "ベージュ",
-      "種類": "ニット",
-      "在庫のある掲載色サイズ": "0 / 1 / 2"
+      "種類": "ニット"
     },
     "recommendationReason": "ニットを着こなしの主役にしたい人へ。ロゴとジャカードの編み地が特徴。",
     "recommendationRank": 160,
@@ -7299,9 +7246,9 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "0126270502",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -7332,8 +7279,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6FVE50M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "シャツに重ねるニットを探す人へ。ケーブル編みのVネックベストで、自宅で手洗いできます。",
     "recommendationRank": 161,
@@ -7347,11 +7293,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "LG6FVE50M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "f05bcf63166b3397135a24719f13fb900bb035e373a1f1630a014029fda119d8",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7383,8 +7329,7 @@ const catalogData = [
       "メーカー品番": "MG6FOP31L",
       "掲載商品コード": "M01871EW015200",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "一枚で装いをまとめたい人へ。ペンギン柄のジャガードと、高めのウエスト位置が特徴のワンピース。",
     "recommendationRank": 162,
@@ -7400,9 +7345,9 @@ const catalogData = [
     "apparelType": "dress",
     "modelCode": "MG6FOP31L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7432,8 +7377,7 @@ const catalogData = [
     "specs": {
       "品番": "0126264001",
       "掲載色": "ブラック",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
+      "種類": "トップス"
     },
     "recommendationReason": "ゆったり着られる半袖を探す人へ。吸汗速乾・UVカット機能付きのクルーネック。",
     "recommendationRank": 163,
@@ -7449,9 +7393,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "0126264001",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -7481,8 +7425,7 @@ const catalogData = [
     "specs": {
       "品番": "FJW-S26-BEP02",
       "掲載色": "ネイビー",
-      "種類": "パンツ",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "種類": "パンツ"
     },
     "recommendationReason": "すっきりしたロングパンツを探す人へ。4方向に伸びるツイル素材と吸湿速乾機能が特徴。",
     "recommendationRank": 164,
@@ -7498,9 +7441,9 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "FJW-S26-BEP02",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -7531,8 +7474,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6SJK33M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "気温に合わせて着方を変えたい人へ。袖を取り外せる2WAYブルゾン。伸縮性とはっ水性のある素材。",
     "recommendationRank": 165,
@@ -7546,11 +7488,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MG6SJK33M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "bbe64531f67eb4dc7abafb3b7c54041a5272123513bf236403a1aca4bae32b1c",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7582,8 +7524,7 @@ const catalogData = [
       "メーカー品番": "LG5FSK00L",
       "掲載商品コード": "LE1872EW012924",
       "カラー": "カーキ（KH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "控えめなプリーツで選びたい人へ。裾のサイドにプリーツを配置。インナースパッツは付属しません。",
     "recommendationRank": 166,
@@ -7599,9 +7540,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG5FSK00L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7632,8 +7573,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MU6FLP03M",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "M / L / XL",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL"
     },
     "recommendationReason": "腰回りにゆとりのあるパンツを探す人へ。2タック入りのチェック柄で、裾に向かって細くなる形。",
     "recommendationRank": 167,
@@ -7647,11 +7587,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "MU6FLP03M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "81c46dde6a61d430bd7b599c0691da4a2338a734c32324e5d1838219e462e1f8",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7683,8 +7623,7 @@ const catalogData = [
       "メーカー品番": "DG6SHS60L",
       "掲載商品コード": "DE2188EW008114",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / O",
-      "在庫のある掲載色サイズ": "S / M / L"
+      "掲載サイズ": "S / M / L / O"
     },
     "recommendationReason": "ゆとりのある柄トップスを探す人へ。タイダイ柄の半袖で、裾のボタンでスリットを変えられます。",
     "recommendationRank": 168,
@@ -7700,9 +7639,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "DG6SHS60L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7733,8 +7672,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHSD3M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "無地の半袖ポロを揃えたい人へ。薄手の鹿の子素材と、胸の刺繍が特徴。",
     "recommendationRank": 169,
@@ -7748,11 +7686,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG6SHSD3M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "7dfe28a56786abbfe9f083f2ab08ca9f223956fc6526066fae8642937a36fcb2",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7782,8 +7720,7 @@ const catalogData = [
     "specs": {
       "品番": "0126272501",
       "掲載色": "ライトグリーン",
-      "種類": "アウター",
-      "在庫のある掲載色サイズ": "0 / 1 / 2"
+      "種類": "アウター"
     },
     "recommendationReason": "襟付きのニット羽織りを探す人へ。フルジップと前ポケットで、脱ぎ着や小物の収納にも配慮。",
     "recommendationRank": 170,
@@ -7799,9 +7736,9 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "0126272501",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -7831,8 +7768,7 @@ const catalogData = [
     "specs": {
       "品番": "0126272001",
       "掲載色": "ベージュ",
-      "種類": "アウター",
-      "在庫のある掲載色サイズ": "4 / 5 / 6 / 7"
+      "種類": "アウター"
     },
     "recommendationReason": "ニットをブルゾン感覚で着たい人へ。立ち襟・フルジップと胸の配色切替が特徴。",
     "recommendationRank": 171,
@@ -7848,9 +7784,9 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "0126272001",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -7882,8 +7818,7 @@ const catalogData = [
       "メーカー品番": "MG6FST33L",
       "掲載商品コード": "M01871EW015186",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "風のある日のニットを探す人へ。身頃に防風裏地を備えたフード付きセーター。手洗いも可能。",
     "recommendationRank": 172,
@@ -7899,9 +7834,9 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "MG6FST33L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7932,8 +7867,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MG6FLP33M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100",
-      "在庫のある掲載色サイズ": "74-78 / 79-83 / 84-88 / 95-100"
+      "掲載サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100"
     },
     "recommendationReason": "腰回りの仕様で選びたい人へ。後ろウエストのゴムと、左脇の隠しポケットを備えた長いパンツ。",
     "recommendationRank": 173,
@@ -7947,11 +7881,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "MG6FLP33M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "722bd6b9b7585c91ae18f18555fef15896ec174820f557c652a346f84db41543",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -7983,8 +7917,7 @@ const catalogData = [
       "メーカー品番": "LG6SLP51L",
       "掲載商品コード": "LE1872EW013839",
       "カラー": "グリーン（GR00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "L / LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "足首が見えるパンツを探す人へ。裾に向かって細くなる9分丈で、収納できるDカン付き。",
     "recommendationRank": 174,
@@ -8000,9 +7933,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "LG6SLP51L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8033,8 +7966,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6FSTA0MB",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "ロゴ入りニットを探す人へ。ウール混のVネックに、異なる書体のマークを配置。手洗いできます。",
     "recommendationRank": 175,
@@ -8048,11 +7980,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "LG6FSTA0MB",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "2e4129ebd356f4fc7c1645e27280196389e7223a668450bd03f29a0afd87afb7",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8082,8 +8014,7 @@ const catalogData = [
     "specs": {
       "品番": "FJW-F26-B02",
       "掲載色": "ヴィンテージブルー",
-      "種類": "インナー",
-      "在庫のある掲載色サイズ": "S / M / L / XL"
+      "種類": "インナー"
     },
     "recommendationReason": "寒い日の脚の重ね着を探す人へ。裏起毛のストレッチ素材を使ったレギンス。",
     "recommendationRank": 176,
@@ -8099,9 +8030,9 @@ const catalogData = [
     },
     "apparelType": "inner",
     "modelCode": "FJW-F26-B02",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -8132,8 +8063,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6FVE32M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "肌寒い日に羽織るベストを探す人へ。前開きで、防風・はっ水性と縦横の伸縮性を備えた素材。",
     "recommendationRank": 177,
@@ -8147,11 +8077,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MG6FVE32M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "b9f06169f7bb3f4c0dba88c29ad1691d2a64e77bce60e512572a6912c859901f",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8183,8 +8113,7 @@ const catalogData = [
       "メーカー品番": "VG6FLS12L",
       "掲載商品コード": "LA7956EW008222",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
-      "在庫のある掲載色サイズ": "36 / 38 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
     },
     "recommendationReason": "控えめな総柄で選びたい人へ。同色のロゴを編み込んだ、縦横に伸びるハーフジップ長袖。",
     "recommendationRank": 178,
@@ -8200,9 +8129,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "VG6FLS12L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8232,8 +8161,7 @@ const catalogData = [
     "specs": {
       "品番": "FJ-F26-S06",
       "掲載色": "ブラック",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
+      "種類": "トップス"
     },
     "recommendationReason": "首元まで覆う長袖を探す人へ。ピーチ加工の表面とカラーブロックが特徴。",
     "recommendationRank": 179,
@@ -8249,9 +8177,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "FJ-F26-S06",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -8281,8 +8209,7 @@ const catalogData = [
     "specs": {
       "品番": "0126220503",
       "掲載色": "ベージュ",
-      "種類": "アウター",
-      "在庫のある掲載色サイズ": "1 / 2 / 3"
+      "種類": "アウター"
     },
     "recommendationReason": "軽く羽織れるパーカーを探す人へ。一重仕立てのソフトシェルで、撥水性も備えます。",
     "recommendationRank": 180,
@@ -8298,9 +8225,9 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "0126220503",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -8331,8 +8258,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHSD0M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "SS / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / LL / 3L"
+      "掲載サイズ": "SS / M / L / LL / 3L"
     },
     "recommendationReason": "練習用のTシャツを探す人へ。ゴルフの動きに合わせた立体設計と、背中のプリントが特徴。",
     "recommendationRank": 181,
@@ -8346,11 +8272,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG6SHSD0M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "94a581db446f6df0568cfc095718677c0dc5a6ddd6137c12370e7b97e3cf6fe4",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8382,8 +8308,7 @@ const catalogData = [
       "メーカー品番": "LG5FLP01L",
       "掲載商品コード": "LE1872EW012737",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "普段にも使える秋冬パンツを探す人へ。5ポケット仕様と腰裏の滑り止めが特徴の、長いストレート。",
     "recommendationRank": 182,
@@ -8399,9 +8324,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "LG5FLP01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -8432,8 +8357,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MU6FLP07M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / XL",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL"
     },
     "recommendationReason": "冷える日のゆったりしたパンツを探す人へ。保温性のある裏地と、ウエストゴム・裾のひもを備えます。",
     "recommendationRank": 183,
@@ -8447,11 +8371,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "MU6FLP07M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "a8edb51e5bddedd5064279b511a03720f11e56c1d1f63e9369ca124ae42664e0",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8483,8 +8407,7 @@ const catalogData = [
       "メーカー品番": "MG6FSK36L",
       "掲載商品コード": "M01871EW015194",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
-      "在庫のある掲載色サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
     },
     "recommendationReason": "秋冬らしいスカートを探す人へ。防風性のあるコーデュロイニットで、後ろウエストにゴムを配した台形。",
     "recommendationRank": 184,
@@ -8500,9 +8423,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "MG6FSK36L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8533,8 +8456,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6SJK21M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "シンプルな羽織りを探す人へ。はっ水性のあるソロテックス素材と、ラグラン袖が特徴。",
     "recommendationRank": 185,
@@ -8548,11 +8470,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MG6SJK21M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "9eda9277e0159b0d81a879472277e4bb9e2aa47441e3e158c048447a86ae9a7a",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -8584,8 +8506,7 @@ const catalogData = [
       "メーカー品番": "VG6FLS23L",
       "掲載商品コード": "LA7956EW008685",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
-      "在庫のある掲載色サイズ": "36 / 38 / 40 / 42 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
     },
     "recommendationReason": "配色のアクセントで選びたい人へ。襟から袖へ続く切り替えと、伸縮性のある素材が特徴。",
     "recommendationRank": 186,
@@ -8601,9 +8522,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "VG6FLS23L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8634,8 +8555,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS10M",
       "カラー": "グリーン（GR00）",
-      "掲載サイズ": "S / M / L / O / XO",
-      "在庫のある掲載色サイズ": "M / O"
+      "掲載サイズ": "S / M / L / O / XO"
     },
     "recommendationReason": "首元を調整できる半袖を探す人へ。薄手の鹿の子素材とハーフジップ、前面のテープ使いが特徴。",
     "recommendationRank": 187,
@@ -8649,11 +8569,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "DG6SHS10M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "a9f0f07d4d7619c0c860789e2487d343afd91849df62cdf096e3222206e1bdde",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8683,8 +8603,7 @@ const catalogData = [
     "specs": {
       "品番": "0126239501",
       "掲載色": "ホワイト",
-      "種類": "スカート・キュロット",
-      "在庫のある掲載色サイズ": "00 / 0 / 1 / 2 / 3"
+      "種類": "スカート・キュロット"
     },
     "recommendationReason": "秋冬らしいボトムスを探す人へ。キルト柄のキュロットで、後ろウエストはゴム仕様。",
     "recommendationRank": 188,
@@ -8700,9 +8619,9 @@ const catalogData = [
     },
     "apparelType": "skirt",
     "modelCode": "0126239501",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -8733,8 +8652,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6FST02M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "柔らかな編み地で選びたい人へ。モール糸を使ったハーフジップニットで、胸下の柄の切り替えが特徴。",
     "recommendationRank": 189,
@@ -8748,11 +8666,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "LG6FST02M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "f1e76f1a181e4d1866302dd4064d0361f70066b7d16b1930b256fc096d318ae7",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8784,8 +8702,7 @@ const catalogData = [
       "メーカー品番": "VG6FLS33L",
       "掲載商品コード": "LA7956EW008603",
       "カラー": "ブラック（BK03）",
-      "掲載サイズ": "36 / 38 / 40 / 42 / 44",
-      "在庫のある掲載色サイズ": "36 / 38 / 40 / 42 / 44"
+      "掲載サイズ": "36 / 38 / 40 / 42 / 44"
     },
     "recommendationReason": "風を防ぐ長袖を探す人へ。目の詰まったニット素材で、襟のひもとサイドの切り替えが特徴。",
     "recommendationRank": 190,
@@ -8801,9 +8718,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "VG6FLS33L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8833,8 +8750,7 @@ const catalogData = [
     "specs": {
       "品番": "0126231004",
       "掲載色": "カーキ",
-      "種類": "パンツ",
-      "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
+      "種類": "パンツ"
     },
     "recommendationReason": "寒い日のロングパンツを探す人へ。裏起毛・撥水・4WAYストレッチを備え、股下は76cm。",
     "recommendationRank": 191,
@@ -8850,9 +8766,9 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "0126231004",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -8884,8 +8800,7 @@ const catalogData = [
       "メーカー品番": "LG6SWB00L",
       "掲載商品コード": "LE1872EW013798",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "長袖と半袖を使い分けたい人へ。袖を外せるブルゾンで、襟のないハーフジップと裾のひもを備えます。",
     "recommendationRank": 192,
@@ -8901,9 +8816,9 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6SWB00L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8934,8 +8849,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHS15M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "合わせやすい半袖ポロを探す人へ。鹿の子素材に、ボタンやスリットの3色使いを添えたデザイン。",
     "recommendationRank": 193,
@@ -8949,11 +8863,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG6SHS15M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "ada8f8cfe1dcc7ca2c9f85f51703e62f3d28ca310c749ff685cb94357ce33c85",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -8985,8 +8899,7 @@ const catalogData = [
       "メーカー品番": "MG6FLP32L",
       "掲載商品コード": "M01871EW015406",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
-      "在庫のある掲載色サイズ": "7 / 9 / 11"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
     },
     "recommendationReason": "足首が見える柄パンツを探す人へ。千鳥格子の9分丈で、後ろウエストのゴムとDカン付き。",
     "recommendationRank": 194,
@@ -9002,9 +8915,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -9035,8 +8948,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6FSW35M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "風のある日の羽織りを探す人へ。防風・はっ水素材で、裾のひもで形を調整できます。",
     "recommendationRank": 195,
@@ -9050,11 +8962,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MG6FSW35M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "eb5fa49eb3e3889d9cec692bb4294925f101042f690efcbfb8110bcf787fcfdc",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9086,8 +8998,7 @@ const catalogData = [
       "メーカー品番": "LG6FHS50L",
       "掲載商品コード": "LE1872EW014437",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "ゆったりした半袖を探す人へ。裾を出して着やすい切り替えと、前面のブランドマークが特徴。",
     "recommendationRank": 196,
@@ -9103,9 +9014,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6FHS50L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -9135,8 +9046,7 @@ const catalogData = [
     "specs": {
       "品番": "0126236004",
       "掲載色": "グレー",
-      "種類": "パンツ",
-      "在庫のある掲載色サイズ": "3 / 4 / 5 / 6 / 7"
+      "種類": "パンツ"
     },
     "recommendationReason": "暖かいスウェットパンツを探す人へ。防風性のあるフリース素材を使ったテーパード型。",
     "recommendationRank": 197,
@@ -9152,9 +9062,9 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "0126236004",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -9186,8 +9096,7 @@ const catalogData = [
       "メーカー品番": "MG6FSK32L",
       "掲載商品コード": "M01871EW015202",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / L / LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "腰回りが楽なスカートを探す人へ。ウエストゴムとDカン付き。はっ水性のあるダンボールニット素材。",
     "recommendationRank": 198,
@@ -9203,9 +9112,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "MG6FSK32L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9236,8 +9145,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS22M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / O / XO",
-      "在庫のある掲載色サイズ": "S / M / L / O"
+      "掲載サイズ": "S / M / L / O / XO"
     },
     "recommendationReason": "半袖のハーフジップを探す人へ。薄手の鹿の子素材で、袖下のマチに配色を添えたデザイン。",
     "recommendationRank": 199,
@@ -9251,11 +9159,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "DG6SHS22M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "a1291cd4cc5f8dfe885c3d172fd89cd6217af7d26f7724be7942f0a5a90d64e1",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9287,8 +9195,7 @@ const catalogData = [
       "メーカー品番": "MG6FHP33L",
       "掲載商品コード": "M01871EW015204",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
-      "在庫のある掲載色サイズ": "7 / 9 / 11"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
     },
     "recommendationReason": "裾幅の広いパンツを探す人へ。チェック柄と腰回りの2タックが特徴。購入前に実寸丈をご確認ください。",
     "recommendationRank": 200,
@@ -9304,9 +9211,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FHP33L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。 公式の丈説明は写真との整合未確認。",
@@ -9337,8 +9244,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6FHS50M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "柄のある半袖を探す人へ。ワインラベルをモチーフにしたデザインと、首元を覆うモックネックが特徴。",
     "recommendationRank": 201,
@@ -9352,11 +9258,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG6FHS50M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "94f83966b278e787995293e5c1a779fce808774c665fd2e06ff2f858f8e97fef",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9388,8 +9294,7 @@ const catalogData = [
       "メーカー品番": "LG6SHS12L",
       "掲載商品コード": "LE1872EW013815",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "普段にも合わせやすい半袖を探す人へ。鹿の子素材に、襟後ろの3色ボタンや裾のワッペンを添えたポロ。",
     "recommendationRank": 202,
@@ -9405,9 +9310,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS12L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -9438,8 +9343,7 @@ const catalogData = [
       "種類": "アウター",
       "品番": "MG6FJK33M",
       "カラー": "ブラウン（BW01）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "かぶるタイプの防寒着を探す人へ。腹部ポケットと裾ファスナー、背中の換気部分を備えるブルゾン。",
     "recommendationRank": 203,
@@ -9453,11 +9357,11 @@ const catalogData = [
     },
     "apparelType": "outer",
     "modelCode": "MG6FJK33M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "dc341f345b18aed081ae310053fa8f7dc5ad4f0f21515ecadadaa31f0a948d7c",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -9489,8 +9393,7 @@ const catalogData = [
       "メーカー品番": "LG6FST02L",
       "掲載商品コード": "LE1872EW014432",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "淡い柄ニットを探す人へ。ウール混素材にエンブレム調の模様を配したクルーネック。手洗いできます。",
     "recommendationRank": 204,
@@ -9506,9 +9409,9 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6FST02L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9539,8 +9442,7 @@ const catalogData = [
       "種類": "ニット",
       "品番": "LG6FST30M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "風のある日のニットを探す人へ。身頃だけに防風裏地を備え、袖には裏地を付けていないセーター。",
     "recommendationRank": 205,
@@ -9554,11 +9456,11 @@ const catalogData = [
     },
     "apparelType": "knit",
     "modelCode": "LG6FST30M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "fef355ea394e56703bf5fce512e5a04807b08447be0470882e9b974b87816a13",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9590,8 +9492,7 @@ const catalogData = [
       "メーカー品番": "MG6FLP35L",
       "掲載商品コード": "M01871EW015227",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "秋冬の長いパンツを探す人へ。はっ水性のある素材に、後ろウエストの配色ゴムとDカンを備えます。",
     "recommendationRank": 206,
@@ -9607,9 +9508,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP35L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9639,8 +9540,7 @@ const catalogData = [
     "specs": {
       "品番": "FJ-F26-S09",
       "掲載色": "チャコール/ブラック",
-      "種類": "トップス",
-      "在庫のある掲載色サイズ": "S / M / L / XL / 2XL / 3XL"
+      "種類": "トップス"
     },
     "recommendationReason": "肌寒い日のモックネックを探す人へ。微起毛素材と落ち着いた配色の長袖。",
     "recommendationRank": 207,
@@ -9656,9 +9556,9 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "FJ-F26-S09",
-    "availability": "in_stock",
-    "availabilityChecked": "2026-10-26",
-    "availabilityNote": "2026年10月26日、掲載色で購入可能なサイズを確認。全サイズの在庫を保証するものではありません。最新状況は公式サイトでご確認ください。",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-26",
       "scope": "公式税込一般販売価格・掲載色の購入可能サイズ・品番・男女分類・掲載画像と選ぶ理由を照合。価格数値と順位は維持。",
@@ -9690,8 +9590,7 @@ const catalogData = [
       "メーカー品番": "LG5FLS00L",
       "掲載商品コード": "LE1872EW012735",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "襟のデザインで選びたい人へ。襟にロゴとラインを配した鹿の子の長袖ポロ。掲載色のサイズを要確認。",
     "recommendationRank": 208,
@@ -9707,9 +9606,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FLS00L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -9740,8 +9639,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MG6FLP35M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100",
-      "在庫のある掲載色サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100"
     },
     "recommendationReason": "秋冬の長いパンツを探す人へ。はっ水性と伸縮性を備えた、シンプルなフルレングス。",
     "recommendationRank": 209,
@@ -9755,11 +9653,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "MG6FLP35M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "34e93687c0715ba4f261fe239ba70669ab2f86b847299710906201192eb9a1e2",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -9791,8 +9689,7 @@ const catalogData = [
       "メーカー品番": "LG6FWB80L",
       "掲載商品コード": "LE1872EW014392",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "腕まわりを重ねすぎず防寒したい人へ。スナップボタンで着脱する、中わた入りの半袖ブルゾン。",
     "recommendationRank": 210,
@@ -9808,9 +9705,9 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6FWB80L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9841,8 +9738,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHS52M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "裾を出して着たい人へ。短めの着丈と脇のスリット、ファスナー付き胸ポケットが特徴の半袖。",
     "recommendationRank": 211,
@@ -9856,11 +9752,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG6SHS52M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "e3549808f8adf7c490a0492d5ce270d888c326e6126b06605fab88e2a976d1be",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -9892,8 +9788,7 @@ const catalogData = [
       "メーカー品番": "MG6FLP33L",
       "掲載商品コード": "M01871EW015348",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
-      "在庫のある掲載色サイズ": "7 / 9 / 11 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
     },
     "recommendationReason": "裾に向かって細くなるパンツを探す人へ。伸縮性のあるドビーカルゼ素材で、小物を掛けるDカン付き。",
     "recommendationRank": 212,
@@ -9909,9 +9804,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP33L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -9942,8 +9837,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MG6SLP35M",
       "カラー": "ネイビー×ホワイト（NV00）",
-      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100",
-      "在庫のある掲載色サイズ": "76 / 82 / 85 / 88 / 92 / 96"
+      "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96 / 100"
     },
     "recommendationReason": "夏用の長いパンツを探す人へ。表面に凹凸のあるシアサッカー素材と、表から見えにくいウエストゴム仕様。",
     "recommendationRank": 213,
@@ -9957,11 +9851,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "MG6SLP35M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "6581fdba1dce3993dde401895d2bb4120d831c9e5eaafd478d29d18ed172c84c",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -9993,8 +9887,7 @@ const catalogData = [
       "メーカー品番": "LG6FST30L",
       "掲載商品コード": "LE1872EW014444",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "袖の柄を楽しみたい人へ。ノルディック柄のセーターで、防風裏地は身頃部分に使用。手洗いできます。",
     "recommendationRank": 214,
@@ -10010,9 +9903,9 @@ const catalogData = [
     "apparelType": "knit",
     "modelCode": "LG6FST30L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10043,8 +9936,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FLT02M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / XL",
-      "在庫のある掲載色サイズ": "S / M / L / XL"
+      "掲載サイズ": "S / M / L / XL"
     },
     "recommendationReason": "綿素材の着心地で選びたい人へ。ポケット付きのクルーネックで、程よくゆとりのある形。",
     "recommendationRank": 215,
@@ -10058,11 +9950,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "MU6FLT02M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "b1ff3587f9394adec1a33aafc2c7ebdabc0add3fd779c45c1631099fea6c1f2b",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10094,8 +9986,7 @@ const catalogData = [
       "メーカー品番": "MG6FLP36L",
       "掲載商品コード": "M01871EW015388",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
-      "在庫のある掲載色サイズ": "7 / 9 / 13 / 15"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
     },
     "recommendationReason": "裾が少し広がるパンツを探す人へ。ストレッチ性のあるチェック柄で、長めのブーツカット。",
     "recommendationRank": 216,
@@ -10111,9 +10002,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP36L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10144,8 +10035,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS24M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / O / XO",
-      "在庫のある掲載色サイズ": "M / O / XO"
+      "掲載サイズ": "S / M / L / O / XO"
     },
     "recommendationReason": "なめらかな素材の半袖を探す人へ。薄手のベアスムース素材と、メッシュ調の襟が特徴。",
     "recommendationRank": 217,
@@ -10159,11 +10049,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "DG6SHS24M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "524739c77a451171bc227b7896a7351453e91044027aacbdd0cbf0ef42e2b152",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -10195,8 +10085,7 @@ const catalogData = [
       "メーカー品番": "LG5FLS50L",
       "掲載商品コード": "LE1872EW012568",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "S / M / L / LL",
-      "在庫のある掲載色サイズ": "S / M / LL"
+      "掲載サイズ": "S / M / L / LL"
     },
     "recommendationReason": "首元にアクセントがほしい人へ。波状の襟先と胸のグリッタープリントが特徴の長袖モックネック。",
     "recommendationRank": 218,
@@ -10212,9 +10101,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FLS50L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -10245,8 +10134,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6FHS00M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "ロゴがポイントの半袖を探す人へ。刺繍やワッペンを配し、肩まわりに立体的な裁断を採用。",
     "recommendationRank": 219,
@@ -10260,11 +10148,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG6FHS00M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "4241f554085470e0d6eeec716d99347dc1377a167396d90ec06f5cd4b1fdea8d",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10296,8 +10184,7 @@ const catalogData = [
       "メーカー品番": "LG6FWB82L",
       "掲載商品コード": "LE1872EW014391",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "フード付きの防寒着を探す人へ。中わたと伸縮素材を組み合わせ、フードを留めるボタンを備えます。",
     "recommendationRank": 220,
@@ -10313,9 +10200,9 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6FWB82L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10346,8 +10233,7 @@ const catalogData = [
       "種類": "パンツ",
       "品番": "MG6FHP31M",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100",
-      "在庫のある掲載色サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100"
+      "掲載サイズ": "74-78 / 79-83 / 84-88 / 89-94 / 95-100"
     },
     "recommendationReason": "夏用の短いパンツを探す人へ。メッシュ素材と、後ろウエスト内側のゴムを採用。",
     "recommendationRank": 221,
@@ -10361,11 +10247,11 @@ const catalogData = [
     },
     "apparelType": "pants",
     "modelCode": "MG6FHP31M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "94b221a669911deff197d4cae402c3d3c1f02f1d7402897fcc10b52a38a27e52",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10397,8 +10283,7 @@ const catalogData = [
       "メーカー品番": "LG6SHS80L",
       "掲載商品コード": "LE1872EW013770",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "前を全部開けられる半袖を探す人へ。ストライプ柄の布帛素材で、重ね着にも使えるフルボタン仕様。",
     "recommendationRank": 222,
@@ -10414,9 +10299,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS80L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -10447,8 +10332,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FSW04M",
       "カラー": "レッド（RD00）",
-      "掲載サイズ": "S / M / L / XL",
-      "在庫のある掲載色サイズ": "S / M / L"
+      "掲載サイズ": "S / M / L / XL"
     },
     "recommendationReason": "カジュアルな長袖を探す人へ。裏起毛の厚手素材に、ラガーシャツ風の襟を合わせたスウェット。",
     "recommendationRank": 223,
@@ -10462,11 +10346,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "MU6FSW04M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "fd0ce03ae6c1946c9c2431957dbaf03af618854f0ac454bddec94b964c6ecba6",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10498,8 +10382,7 @@ const catalogData = [
       "メーカー品番": "MG6FLP39L",
       "掲載商品コード": "M01871EW015214",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "7 / 9 / 11 / 13 / 15",
-      "在庫のある掲載色サイズ": "7 / 13"
+      "掲載サイズ": "7 / 9 / 11 / 13 / 15"
     },
     "recommendationReason": "冷える日の長いパンツを探す人へ。裏起毛と防風素材を使い、後ろウエストにゴムを配したストレート。",
     "recommendationRank": 224,
@@ -10515,9 +10398,9 @@ const catalogData = [
     "apparelType": "pants",
     "modelCode": "MG6FLP39L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10548,8 +10431,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "LG6SHS00M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "刺繍のアクセントで選びたい人へ。襟や胸にロゴを配した鹿の子ポロ。掲載色は購入可能サイズを要確認。",
     "recommendationRank": 225,
@@ -10563,11 +10445,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG6SHS00M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "f67fd7723b4e444c41c9540789a992d3caa90d391ae86ac8d43dbf810581e68e",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10599,8 +10481,7 @@ const catalogData = [
       "メーカー品番": "LG6SHS07L",
       "掲載商品コード": "LE1872EW013733",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "身幅にゆとりのある半袖を探す人へ。薄手の鹿の子素材と、折り返した袖口が特徴。",
     "recommendationRank": 226,
@@ -10616,9 +10497,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG6SHS07L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -10649,8 +10530,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS23M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "M / L / O / XO",
-      "在庫のある掲載色サイズ": "M / L / O / XO"
+      "掲載サイズ": "M / L / O / XO"
     },
     "recommendationReason": "首元を調整できる半袖を探す人へ。ハーフジップと、肩のロゴ入りリブが特徴。",
     "recommendationRank": 227,
@@ -10664,11 +10544,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "DG6SHS23M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "a884e75a456375567afcdcdf2384935b0b88aeb3e749c65e7aab0b31716ce1b8",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10700,8 +10580,7 @@ const catalogData = [
       "メーカー品番": "LG6FSK01L",
       "掲載商品コード": "LE1872EW014415",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "プリーツが控えめなスカートを探す人へ。部分プリーツと、付属のインナースパッツが特徴。",
     "recommendationRank": 228,
@@ -10717,9 +10596,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG6FSK01L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -10750,8 +10629,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS12M",
       "カラー": "カーキ（KH00）",
-      "掲載サイズ": "S / M / L / O / XO",
-      "在庫のある掲載色サイズ": "M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO"
     },
     "recommendationReason": "普段にも合わせやすい半袖を探す人へ。襟と前立ての配色ライン、背中の控えめなロゴが特徴。",
     "recommendationRank": 229,
@@ -10765,11 +10643,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "DG6SHS12M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "3cc15ef11e1158d7b2c7620869de97596b7ef8123e5299d71a68da25545ad491",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10801,8 +10679,7 @@ const catalogData = [
       "メーカー品番": "LG6FWB50L",
       "掲載商品コード": "LE1872EW014387",
       "カラー": "ピンク（PK00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "襟の高さを調整したい人へ。襟を内側に折り込んで留められる、中わた入りブルゾン。",
     "recommendationRank": 230,
@@ -10818,9 +10695,9 @@ const catalogData = [
     "apparelType": "outer",
     "modelCode": "LG6FWB50L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10851,8 +10728,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FSW01M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / XL",
-      "在庫のある掲載色サイズ": "S / M / L / XL"
+      "掲載サイズ": "S / M / L / XL"
     },
     "recommendationReason": "ゆったりした冬のトップスを探す人へ。ボアフリース素材のクルーネックで、胸のエンブレムがアクセント。",
     "recommendationRank": 231,
@@ -10866,11 +10742,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "MU6FSW01M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "b6adec53f3a9dcabe8fe4f3b975a08480e9e4c46b94ebe55804fa5a8f17a6ed1",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -10902,8 +10778,7 @@ const catalogData = [
       "メーカー品番": "LG5FLS81L",
       "掲載商品コード": "LE1872EW012915",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "重ね着にも使える長袖を探す人へ。ロゴとニワトリ柄を織り込んだ、起毛のないハーフジップシャツ。",
     "recommendationRank": 232,
@@ -10919,9 +10794,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "LG5FLS81L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -10952,8 +10827,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS19M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / O / XO",
-      "在庫のある掲載色サイズ": "M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO"
     },
     "recommendationReason": "シンプルな半袖を探す人へ。鹿の子調のピケ素材で、前をホックで開閉するシャツ。",
     "recommendationRank": 233,
@@ -10967,11 +10841,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "DG6SHS19M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "648897da6494af3075a957b8d30aedae295c8db409487386d1ae80c28f87b2a4",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。 UV数値は公式本文内不一致のため未解決。",
@@ -11003,8 +10877,7 @@ const catalogData = [
       "メーカー品番": "MG6FLS00L",
       "掲載商品コード": "M01871EW015330",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "定番の長袖ポロを探す人へ。綿とポリエステルの混紡素材で、専用のランドリーネットが付きます。",
     "recommendationRank": 234,
@@ -11020,9 +10893,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MG6FLS00L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -11053,8 +10926,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FSW03M",
       "カラー": "ブラック（BK00）",
-      "掲載サイズ": "S / M / L / XL",
-      "在庫のある掲載色サイズ": "S / M / L / XL"
+      "掲載サイズ": "S / M / L / XL"
     },
     "recommendationReason": "普段にも使えるスウェットを探す人へ。ゆとりのある形と裏起毛、襟元の刺繍が特徴。",
     "recommendationRank": 235,
@@ -11068,11 +10940,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "MU6FSW03M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "d70276819ddc11897dfaa47f4737abff7c37d137dfcc9bd280f0a2bc7e9ce98c",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -11104,8 +10976,7 @@ const catalogData = [
       "メーカー品番": "LG6FSK02L",
       "掲載商品コード": "LE1872EW014487",
       "カラー": "ベージュ（BG00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "裾が広がるスカートを探す人へ。柔らかなスウェット素材とロゴ入りウエストゴムが特徴。",
     "recommendationRank": 236,
@@ -11121,9 +10992,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG6FSK02L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -11154,8 +11025,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "DG6SHS18M",
       "カラー": "ブラウン（BW00）",
-      "掲載サイズ": "S / M / L / O / XO",
-      "在庫のある掲載色サイズ": "S / M / L / O / XO"
+      "掲載サイズ": "S / M / L / O / XO"
     },
     "recommendationReason": "控えめな柄の半袖を探す人へ。アーガイル調のジャガードと襟の配色、ハーフジップが特徴。",
     "recommendationRank": 237,
@@ -11169,11 +11039,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "DG6SHS18M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "b7ca65547518db1fc76068db0f0dc3e92ff73a67d8fbf03416caef189d0949d9",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -11205,8 +11075,7 @@ const catalogData = [
       "メーカー品番": "MG6FSW34L",
       "掲載商品コード": "M01871EW015277",
       "カラー": "ピンク（PK00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "脱ぎ着しやすい羽織りを探す人へ。吸湿発熱素材のニットを使った、立ち襟のフルジップ。",
     "recommendationRank": 238,
@@ -11222,9 +11091,9 @@ const catalogData = [
     "apparelType": "tops",
     "modelCode": "MG6FSW34L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -11255,8 +11124,7 @@ const catalogData = [
       "種類": "トップス",
       "品番": "MU6FLS02M",
       "カラー": "ホワイト（WH00）",
-      "掲載サイズ": "M / L / XL",
-      "在庫のある掲載色サイズ": "M / L / XL"
+      "掲載サイズ": "M / L / XL"
     },
     "recommendationReason": "普段にも使える長袖を探す人へ。表は綿、肌側はポリエステルの鹿の子素材で、裾リブ付きのラガーシャツ。",
     "recommendationRank": 239,
@@ -11270,11 +11138,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "MU6FLS02M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "23838cbf4989896b71621107e5537cf02c36437f52bfb87c9cc8c8ac841e5811",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -11306,8 +11174,7 @@ const catalogData = [
       "メーカー品番": "LG6FSK03L",
       "掲載商品コード": "LE1872EW014426",
       "カラー": "ネイビー（NV00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "秋冬の柄スカートを探す人へ。シェブロン柄と、保温性のある裏起毛素材を採用。",
     "recommendationRank": 240,
@@ -11323,9 +11190,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG6FSK03L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色サイズ在庫・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位維持。",
@@ -11356,8 +11223,7 @@ const catalogData = [
       "種類": "長袖カットソー",
       "品番": "LG6FSW01M",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "M / L / LL / 3L"
+      "掲載サイズ": "M / L / LL / 3L"
     },
     "recommendationReason": "重ね着用の長袖を探す人へ。セーターのような編み地と、首元を開けられるハーフジップが特徴。",
     "recommendationRank": 241,
@@ -11371,11 +11237,11 @@ const catalogData = [
     },
     "apparelType": "tops",
     "modelCode": "LG6FSW01M",
-    "availability": "確認時点で一部サイズに在庫あり",
-    "availabilityChecked": "2026-10-27",
+    "availability": "InStock",
+    "availabilityChecked": "2026-10-29",
     "imageSha256": "c35f3fd95a0efd687ff0cd4cd935b24280da3bbf2173f6a64c1a27afb16c7a9b",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
@@ -11407,8 +11273,7 @@ const catalogData = [
       "メーカー品番": "LG6FSK04L",
       "掲載商品コード": "LE1872EW014478",
       "カラー": "グレー（GY00）",
-      "掲載サイズ": "S / M / L / LL / 3L",
-      "在庫のある掲載色サイズ": "S / M / L / LL / 3L"
+      "掲載サイズ": "S / M / L / LL / 3L"
     },
     "recommendationReason": "冬用スカートを探す人へ。中わた入りの台形で、脇部分に伸縮素材を配置しています。",
     "recommendationRank": 242,
@@ -11424,9 +11289,9 @@ const catalogData = [
     "apparelType": "skirt",
     "modelCode": "LG6FSK04L",
     "availability": "InStock",
-    "availabilityChecked": "2026-10-27",
+    "availabilityChecked": "2026-10-29",
     "imageVerified": "2026-10-27",
-    "availabilityNote": "2026年10月27日、掲載色で購入可能なサイズを確認。サイズ一覧の全サイズに在庫があるとは限りません。最新状況は公式サイトでご確認ください。",
+    "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
       "date": "2026-10-27",
       "scope": "公式一般税込価格・掲載色の購入可能サイズ・品番/性別/シーズン・公式写真を照合。説明を個別化。価格数値と順位を維持。",
