@@ -1,0 +1,71 @@
+{
+  "catalogModified": false,
+  "results": [
+    {
+      "url": "https://takatakicc.co.jp/course/",
+      "browserResult": "official_maintenance_notice",
+      "date": "2026-10-29",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/chofu/detail.php",
+      "browserResult": "official_maintenance_notice",
+      "date": "2026-10-29",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/funabashi/",
+      "browserResult": "official_maintenance_notice",
+      "date": "2026-10-29",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/kashiwa/",
+      "browserResult": "official_maintenance_notice",
+      "date": "2026-10-29",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-ALL/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%B9-7.0-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96/DW-TL931.html?lang=ja_JP",
+      "browserResult": "product_page_displayed",
+      "date": "2026-10-29",
+      "scope": "Page/title displayed; not current price or all-size stock verification"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-ALL/TM26-TP5-%E3%83%9C%E3%83%BC%E3%83%AB/DW-TH726.html",
+      "browserResult": "product_page_displayed",
+      "date": "2026-10-29",
+      "scope": "Page/title displayed; not current price or all-size stock verification"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories-CaddieBags/TM%EF%BD%98UA-%E3%82%AD%E3%83%A3%E3%83%87%E3%82%A3%E3%83%90%E3%83%83%E3%82%B0/DW-UN809.html",
+      "browserResult": "product_page_displayed",
+      "date": "2026-10-29",
+      "scope": "Page/title displayed; not current price or all-size stock verification"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories-smari/FENDER%C3%97TM-PRINT-TOWEL-SPAGHETTI-LOGO/DW-UN221.html",
+      "browserResult": "product_page_displayed",
+      "date": "2026-10-29",
+      "scope": "Page/title displayed; not current price or all-size stock verification"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-UV-%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9/DW-TO217.html",
+      "browserResult": "product_page_displayed",
+      "date": "2026-10-29",
+      "scope": "Page/title displayed; not current price or all-size stock verification"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-clubs/Qi4D-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC/DW-TH050.html",
+      "browserResult": "product_page_displayed",
+      "date": "2026-10-29",
+      "scope": "Page/title displayed; not current price or all-size stock verification"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-newclub/Spider-ZT-STANDARD/DW-TE614.html",
+      "browserResult": "product_page_displayed",
+      "date": "2026-10-29",
+      "scope": "Page/title displayed; not current price or all-size stock verification"
+    }
+  ]
+}
