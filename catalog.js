@@ -3037,7 +3037,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dwa220a8c3/FJ_54558_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1140.png",
     "imageSha256": "4b745e8e028adf126f9e006e62ff638377df1527c35d25bc74a88f0e991f9e2c",
-    "price": 48400.0,
+    "price": 48400,
     "specs": {
       "掲載カラー": "ホワイト",
       "選択時の確認": "防水フルグレインレザー。鋲はパルサーLP（FTS3.0）。"
@@ -3079,7 +3079,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw8e37daad/FJ_56949_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1141.png",
     "imageSha256": "00f709c90ca80994b6455077e7d236fdee855b891bd2d2b01434d08cbd1876c0",
-    "price": 26400.0,
+    "price": 26400,
     "specs": {
       "掲載カラー": "ホワイト/ブルー",
       "選択時の確認": "掲載色はM 25〜28cm、W 24.5〜29・30cm、XW 24.5〜28cm。防水人工皮革。"
@@ -3121,7 +3121,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dwa4ff8d94/FJ_55476_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1142.png",
     "imageSha256": "2cca42387383fe6b611fa767554db2bce421d60b000512f8ebc5d2e0bcec774f",
-    "price": 29700.0,
+    "price": 29700,
     "specs": {
       "掲載カラー": "ホワイト/ブラック",
       "選択時の確認": "掲載色はM/XW 25〜28cm、W 25〜29cm。防水合成繊維、パルサーLP（FTS3.0）。"
@@ -3252,7 +3252,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw5eb831ce/FJ_97841_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1145.png",
     "imageSha256": "7e740cfa3ce6c5906a7b01f73ca374b2a77407b05e701456f80ef000225a539f",
-    "price": 25300.0,
+    "price": 25300,
     "specs": {
       "掲載カラー": "グレー/ホワイト",
       "選択時の確認": "掲載色グレー/ホワイトはWide幅。選択欄22.0〜25.0cm。"
@@ -3294,7 +3294,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dwda4557f1/FJ_99090_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1146.png",
     "imageSha256": "7948812dca8faa47efd571efcc5f04449775730c79912f42e8a6dc3a39d9fda8",
-    "price": 39600.0,
+    "price": 39600,
     "specs": {
       "掲載カラー": "ホワイト/ネイビー",
       "選択時の確認": "防水フルグレインレザー。Wide幅、鋲はパルサーLP（FTS3.0）。"
@@ -3336,7 +3336,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw27ef9eba/FJ_98240_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1147.png",
     "imageSha256": "b7d8f8f7796ad7826bd713bec852883bc9588c05f90f14b018762998b8085ccb",
-    "price": 29700.0,
+    "price": 29700,
     "specs": {
       "掲載カラー": "98240",
       "選択時の確認": "掲載色はM 23〜25cm、W 22.5〜25cm。防水人工皮革・BOA。選択欄と特徴欄のサイズ差は購入時確認。"
@@ -3378,7 +3378,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dwd61f731e/FJ_90798_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1148.png",
     "imageSha256": "9be92faebbb5002dbf17054458a5fcf4d0f670d371876d00340c7c7864570a83",
-    "price": 18700.0,
+    "price": 18700,
     "specs": {
       "掲載カラー": "ホワイト/ホワイト",
       "選択時の確認": "防水人工皮革のスパイクレス。掲載色はWide幅。"
@@ -3465,7 +3465,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dwc9eb27f0/FJ_FGNT24WT_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1150.png",
     "imageSha256": "976a44ad7d8dd6f059a06b3aea4a1b8d456a37585491ad765d5d5b89aaeffec1",
-    "price": 2200.0,
+    "price": 2200,
     "specs": {
       "掲載カラー": "ホワイト",
       "着用する手": "左手用",
@@ -3508,7 +3508,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dw80531b23/FJ_FGWI26BG_00.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1151.png",
     "imageSha256": "a41a0a1272391308ba6052a36d4f76d4dab02bb5a84765097d4c03596f03d96f",
-    "price": 4620.0,
+    "price": 4620,
     "specs": {
       "掲載カラー": "ブラック/グレー",
       "着用する手": "両手用",
@@ -3551,7 +3551,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dwb4af652e/FJ_FGRG26BK_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1152.png",
     "imageSha256": "1a7906159b513fe2a3434247199297956a236024f41318e703755755ea1e5feb",
-    "price": 2200.0,
+    "price": 2200,
     "specs": {
       "掲載カラー": "ブラック",
       "着用する手": "左手用",
@@ -3721,7 +3721,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/default/dw80c58ec6/FJ_FGWFW26WB_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1156.png",
     "imageSha256": "53179f2d22baa0616d65a0688560eac42b018a01d1b2b42f54f82f41ee86f2e3",
-    "price": 1870.0,
+    "price": 1870,
     "specs": {
       "掲載カラー": "ホワイト/ブルー",
       "着用する手": "左手用",
@@ -3764,7 +3764,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dw2dd593ac/FJ_FGWWI26BG_00.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1157.png",
     "imageSha256": "a41a0a1272391308ba6052a36d4f76d4dab02bb5a84765097d4c03596f03d96f",
-    "price": 4620.0,
+    "price": 4620,
     "specs": {
       "掲載カラー": "ブラック/グレー",
       "着用する手": "両手用",
@@ -3807,7 +3807,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dw30b2305e/FJ_FGNL24WT_01.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1158.png",
     "imageSha256": "726492b395b22ac302ccdb1e0751e3e33c08ec858c58a8a5cea345c004e50d42",
-    "price": 2200.0,
+    "price": 2200,
     "specs": {
       "掲載カラー": "ホワイト",
       "着用する手": "左手用",
@@ -3850,7 +3850,7 @@ const catalogData = [
     "imageSource": "https://www.footjoy.jp/dw/image/v2/AAZW_PRD/on/demandware.static/-/Sites-footjoy-master/ja_JP/dw1ab231f6/FJ_FGLE25WB_02.png?sw=650&sh=650&sm=fit&sfrm=png",
     "image": "assets/products/1159.png",
     "imageSha256": "bb01670f6495ad38a0d5731795dcb49658e5ae68b79120f990f7d753db31ac8c",
-    "price": 1980.0,
+    "price": 1980,
     "specs": {
       "掲載カラー": "ホワイト/ベージュ",
       "着用する手": "左手用",
@@ -6289,8 +6289,8 @@ const catalogData = [
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008095/",
     "checked": "2026-10-23",
-    "fact": "DESCENTE 神白ショートパンツ。掲載カラー：ホワイト（WH00）。",
-    "check": "公式ページの商品名・写真と本文で丈の説明が異なります。購入前に品番DG6SHP05Mの実寸丈を販売元へ確認してください。",
+    "fact": "ホワイト（WH00）の「神白ショートパンツ」。メーカー品番はDG6SHP05Mです。",
+    "check": "丈はサイズにより異なります。公式本文には商品名と異なる丈の記載があるため、股下・総丈は品番DG6SHP05Mを販売元に伝えてご確認ください。",
     "price": 22000,
     "unit": "1着",
     "area": "",
@@ -6298,7 +6298,7 @@ const catalogData = [
     "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "白のショートパンツを探す人へ。公式の商品名・写真に対応した掲載モデル。購入可能サイズをご確認ください。",
+    "for": "白のショートパンツを探している方に。お手持ちのパンツと実寸を比べてサイズを選んでください。",
     "image": "assets/products/2017.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008095_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -6308,7 +6308,7 @@ const catalogData = [
       "カラー": "ホワイト（WH00）",
       "掲載サイズ": "76 / 79 / 82 / 85 / 88 / 92 / 96"
     },
-    "recommendationReason": "白のショートパンツを探す人へ。公式の商品名・写真に対応した掲載モデル。購入可能サイズをご確認ください。",
+    "recommendationReason": "白のショートパンツを探している方に。お手持ちのパンツと実寸を比べてサイズを選んでください。",
     "recommendationRank": 141,
     "recommendationReviewed": "2026-10-23",
     "audience": "men",
@@ -6326,8 +6326,8 @@ const catalogData = [
     "imageVerified": "2026-10-27",
     "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
-      "date": "2026-10-29",
-      "scope": "公式商品ページを再確認。掲載価格・在庫表示と既存データを照合。丈またはUV性能の不一致・未確定事項は解消しておらず、購入前の確認欄に明記。商品・画像・順位・総合確認日は維持。",
+      "date": "2026-10-30",
+      "scope": "公式商品名・説明を再確認し、確認できる特徴だけで説明を編集。丈の断定と不一致のUPF値を掲載しない。メーカー記載の不一致解消や全実寸の確認を意味しない。価格・在庫確認日・画像・順位・総合確認日は変更なし。",
       "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008095/"
     }
   },
@@ -9177,8 +9177,8 @@ const catalogData = [
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015204/",
     "checked": "2026-10-23",
-    "fact": "チェックガウチョパンツ",
-    "check": "公式の丈説明と写真だけでは着用時の丈を確定できません。購入前に品番MG6FHP33Lの実寸丈を販売元へ確認してください。",
+    "fact": "チェック柄のガウチョパンツ。腰まわりの2タックと広がる裾が特徴で、綿・ポリエステル混紡の2WAYストレッチ素材を使用。掲載色はブラウン（BW00）。",
+    "check": "着用時の丈は身長やサイズにより異なります。購入前に品番MG6FHP33Lの股下・総丈を販売元に確認し、お手持ちのパンツと比べてお選びください。",
     "price": 23100,
     "unit": "1着",
     "area": "",
@@ -9186,7 +9186,7 @@ const catalogData = [
     "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時に一部サイズの在庫あり。最新のサイズ別在庫・価格は公式サイトで確認してください。",
-    "for": "裾幅の広いパンツを探す人へ。チェック柄と腰回りの2タックが特徴。購入前に実寸丈をご確認ください。",
+    "for": "チェック柄で、裾幅にゆとりのあるパンツを探している方に。腰まわりに2タックを入れたデザインです。",
     "image": "assets/products/2140.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/M0/M01871EW015204_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -9197,7 +9197,7 @@ const catalogData = [
       "カラー": "ブラウン（BW00）",
       "掲載サイズ": "7 / 9 / 11 / 13 / 15"
     },
-    "recommendationReason": "裾幅の広いパンツを探す人へ。チェック柄と腰回りの2タックが特徴。購入前に実寸丈をご確認ください。",
+    "recommendationReason": "チェック柄で、裾幅にゆとりのあるパンツを探している方に。腰まわりに2タックを入れたデザインです。",
     "recommendationRank": 200,
     "recommendationReviewed": "2026-10-23",
     "imageSha256": "3c3077420305cd7f381543feb243b58dc29c8171791cf67737341d21f0a71138",
@@ -9215,8 +9215,8 @@ const catalogData = [
     "imageVerified": "2026-10-27",
     "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
-      "date": "2026-10-29",
-      "scope": "公式商品ページを再確認。掲載価格・在庫表示と既存データを照合。丈またはUV性能の不一致・未確定事項は解消しておらず、購入前の確認欄に明記。商品・画像・順位・総合確認日は維持。",
+      "date": "2026-10-30",
+      "scope": "公式商品名・説明を再確認し、確認できる特徴だけで説明を編集。丈の断定と不一致のUPF値を掲載しない。メーカー記載の不一致解消や全実寸の確認を意味しない。価格・在庫確認日・画像・順位・総合確認日は変更なし。",
       "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015204/"
     }
   },
@@ -10810,8 +10810,8 @@ const catalogData = [
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008144/",
     "checked": "2026-10-23",
-    "fact": "トリコットピケ半袖シャツ。掲載カラー：ブラック（BK00）。",
-    "check": "公式ページ内でUV性能の数値が一致しないため、本サイトではUPF値を掲載していません。UV性能を重視する場合は品番DG6SHS19Mを販売元へ確認してください。",
+    "fact": "鹿の子調のトリコットピケ素材を使った半袖シャツ。前はプラホックで開閉でき、程よいゆとりのレギュラーフィットです。掲載色はブラック（BK00）。",
+    "check": "購入前にサイズと在庫をご確認ください。公式ページ内でUV性能の数値が異なるため、UPF値は掲載していません。UV性能を重視する場合は品番DG6SHS19Mを販売元にご確認ください。",
     "price": 24200,
     "unit": "1着",
     "area": "",
@@ -10819,7 +10819,7 @@ const catalogData = [
     "priceNote": "2026年10月27日確認の公式税込販売価格・送料別。会員限定・クーポン適用価格ではありません。最新価格は公式サイトでご確認ください。",
     "related": false,
     "note": "確認時点で在庫のあるサイズを含みます。すべてのサイズの在庫を保証するものではありません。購入前に公式サイトで価格・サイズ・在庫を確認してください。",
-    "for": "シンプルな半袖を探す人へ。鹿の子調のピケ素材で、前をホックで開閉するシャツ。",
+    "for": "シンプルな半袖シャツを探している方に。前開き仕様で、裾を出す着方にも対応したデザインです。",
     "image": "assets/products/2037.jpg",
     "imageSource": "https://sc3.locondo.jp/contents/commodity_image/DE/DE2188EM008144_1_l.jpg",
     "imageLabel": "公式商品写真",
@@ -10829,7 +10829,7 @@ const catalogData = [
       "カラー": "ブラック（BK00）",
       "掲載サイズ": "S / M / L / O / XO"
     },
-    "recommendationReason": "シンプルな半袖を探す人へ。鹿の子調のピケ素材で、前をホックで開閉するシャツ。",
+    "recommendationReason": "シンプルな半袖シャツを探している方に。前開き仕様で、裾を出す着方にも対応したデザインです。",
     "recommendationRank": 233,
     "recommendationReviewed": "2026-10-23",
     "audience": "men",
@@ -10847,8 +10847,8 @@ const catalogData = [
     "imageVerified": "2026-10-27",
     "availabilityNote": "2026年10月29日、公式商品データで掲載色の一部サイズに在庫あり。購入時のサイズ別在庫は公式サイトでご確認ください。",
     "partialReview": {
-      "date": "2026-10-29",
-      "scope": "公式商品ページを再確認。掲載価格・在庫表示と既存データを照合。丈またはUV性能の不一致・未確定事項は解消しておらず、購入前の確認欄に明記。商品・画像・順位・総合確認日は維持。",
+      "date": "2026-10-30",
+      "scope": "公式商品名・説明を再確認し、確認できる特徴だけで説明を編集。丈の断定と不一致のUPF値を掲載しない。メーカー記載の不一致解消や全実寸の確認を意味しない。価格・在庫確認日・画像・順位・総合確認日は変更なし。",
       "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008144/"
     }
   },
