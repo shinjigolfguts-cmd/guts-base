@@ -29,7 +29,7 @@ def check(url):
         except Exception: body=''
         state=classify(exc.code,body,exc.url)
         if exc.code in (301,302,303,307,308): state='redirect_error'
-        return {'url':url,'status':exc.code,'reachable':False,'state':state,'brokenLink':exc.code in (404,410),'error':str(exc)[:250]}
+        return {'url':url,'status':exc.code,'reachable':False,'state':state,'brokenLink':state=='not_found','error':str(exc)[:250]}
     except Exception as exc:
         return {'url':url,'status':None,'reachable':False,'state':'transport_error','brokenLink':False,'error':str(exc)[:250]}
 

@@ -23,6 +23,8 @@ jobs:
           node-version: '22'
       - name: Check catalog counts, image hashes, links and tracking configuration
         run: node scripts/check-static.mjs
+      - name: Test source audit classification and failure handling offline
+        run: python3 -m unittest discover -s tests -p test_source_health.py
       - name: Test modal keyboard focus restoration
         run: node --test scripts/test-modal-focus.mjs
       - name: Check JavaScript syntax
