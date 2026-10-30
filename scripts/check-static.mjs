@@ -73,7 +73,7 @@ for(const file of htmlFiles){
 }
 const app=read('app.js');
 const fallbackIds=[...app.matchAll(/^\s*(\d+):\{number:/gm)].map(m=>Number(m[1])).sort((a,b)=>a-b);
-check(JSON.stringify(fallbackIds)===JSON.stringify([1017,1194,1202,1203]),'Facility phone fallback ID set');
+check(JSON.stringify(fallbackIds)===JSON.stringify([1017,1190,1193,1194,1197,1202,1203]),'Facility phone fallback ID set');
 check(app.includes('公式サイトが開かない場合は、営業・料金・予約についてお電話でご確認ください。'),'Facility fallback guidance');
 check(read('index.html').includes('data-site="town"'),'Analytics site ID');
 check(read('index.html').includes('<dialog id="modal" aria-modal="true">'),'Modal semantics');

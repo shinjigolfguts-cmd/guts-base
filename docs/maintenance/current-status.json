@@ -31,7 +31,17 @@
   ],
   "officialLinkStatus": {
     "browserVisibleAutomationLimited": 7,
-    "facilityFetchUnstableWithPhoneFallback": 4
+    "facilityFetchUnstableWithPhoneFallback": 7,
+    "latestTransportAudit": {
+      "date": "2026-10-30",
+      "uniqueUrls": 239,
+      "httpReachableAfterRetry": 225,
+      "maintenance": 6,
+      "redirectErrors": 7,
+      "httpErrors": 1,
+      "notFound": 0,
+      "scope": "HTTP availability only; not current price, stock, or product accuracy"
+    }
   },
   "protectedDiscrepancyIds": [
     2017,

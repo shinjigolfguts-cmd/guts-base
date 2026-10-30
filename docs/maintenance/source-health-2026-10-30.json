@@ -1,0 +1,1969 @@
+{
+  "checkedAt": "2026-10-30T11:39:00.114196+00:00",
+  "scope": "Transport and maintenance/challenge classification only; browser evidence is separate. Not price, stock, image or full content verification",
+  "catalogModified": false,
+  "fullCatalog": true,
+  "totalUrls": 239,
+  "reachableUrls": 210,
+  "categories": {
+    "1": {
+      "entries": 12,
+      "reachable": 6,
+      "attempted": 12
+    },
+    "2": {
+      "entries": 11,
+      "reachable": 5,
+      "attempted": 11
+    },
+    "3": {
+      "entries": 20,
+      "reachable": 20,
+      "attempted": 20
+    },
+    "4": {
+      "entries": 19,
+      "reachable": 18,
+      "attempted": 19
+    },
+    "5": {
+      "entries": 140,
+      "reachable": 140,
+      "attempted": 140
+    },
+    "6": {
+      "entries": 10,
+      "reachable": 7,
+      "attempted": 10
+    },
+    "7": {
+      "entries": 10,
+      "reachable": 4,
+      "attempted": 10
+    },
+    "8": {
+      "entries": 10,
+      "reachable": 9,
+      "attempted": 10
+    },
+    "10": {
+      "entries": 10,
+      "reachable": 4,
+      "attempted": 10
+    }
+  },
+  "results": [
+    {
+      "url": "https://booking.pacificgolf.co.jp/guide/150.html",
+      "status": 200,
+      "finalUrl": "https://booking.pacificgolf.co.jp/guide/150.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://booking.pacificgolf.co.jp/guide/159.html",
+      "status": 200,
+      "finalUrl": "https://booking.pacificgolf.co.jp/guide/159.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://chibaisumi.jp/club.html",
+      "status": 200,
+      "finalUrl": "https://chibaisumi.jp/club.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://chicken-golf.com/schools/tokyo-shinjuku/",
+      "status": 200,
+      "finalUrl": "https://chicken-golf.com/schools/tokyo-shinjuku/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://colton.nk-ls.com/",
+      "status": 200,
+      "finalUrl": "https://colton.nk-ls.com/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://d-sports-online.dunlop.co.jp/category/100030070/10369799.html",
+      "status": 200,
+      "finalUrl": "https://d-sports-online.dunlop.co.jp/category/100030070/10369799.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://d-sports-online.dunlop.co.jp/item/10317504.html",
+      "status": 200,
+      "finalUrl": "https://d-sports-online.dunlop.co.jp/item/10317504.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://d-sports-online.dunlop.co.jp/item/10373246.html",
+      "status": 200,
+      "finalUrl": "https://d-sports-online.dunlop.co.jp/item/10373246.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://d-sports-online.dunlop.co.jp/item/10373410.html",
+      "status": 200,
+      "finalUrl": "https://d-sports-online.dunlop.co.jp/item/10373410.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://golf-guts.co.jp/swingdock/",
+      "status": 200,
+      "finalUrl": "https://golf-guts.co.jp/swingdock/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://golfperformance.jp/school/higashiazabu/",
+      "status": 200,
+      "finalUrl": "https://golfperformance.jp/school/higashiazabu/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://golftec.golfdigest.co.jp/studio/tokyo/ebisu/",
+      "status": 200,
+      "finalUrl": "https://golftec.golfdigest.co.jp/studio/tokyo/ebisu/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jp.ecco.com/product/ecco-golf-biom-c5-men/132604/60611",
+      "status": 200,
+      "finalUrl": "https://jp.ecco.com/product/ecco-golf-biom-c5-men/132604/60611",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jp.ecco.com/product/ecco-golf-biom-h5-hybrid-men/138014/61109",
+      "status": 200,
+      "finalUrl": "https://jp.ecco.com/product/ecco-golf-biom-h5-hybrid-men/138014/61109",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jp.ecco.com/product/ecco-golf-lt1-boa-women/132763/01007",
+      "status": 200,
+      "finalUrl": "https://jp.ecco.com/product/ecco-golf-lt1-boa-women/132763/01007",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jp.ecco.com/product/ecco-golf-street-720-women/110703/61037",
+      "status": 200,
+      "finalUrl": "https://jp.ecco.com/product/ecco-golf-street-720-women/110703/61037",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jp.ecco.com/product/ecco-lt1-golf-lace-men/132264/51293",
+      "status": 200,
+      "finalUrl": "https://jp.ecco.com/product/ecco-lt1-golf-lace-men/132264/51293",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jp.ecco.com/product/ecco-womens-golf-biom-h5/115023/61593",
+      "status": 200,
+      "finalUrl": "https://jp.ecco.com/product/ecco-womens-golf-biom-h5/115023/61593",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jp.ecco.com/product/ecco-womens-golf-biom-tour-shoe/132913/01007",
+      "status": 200,
+      "finalUrl": "https://jp.ecco.com/product/ecco-womens-golf-biom-tour-shoe/132913/01007",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jp.golf.bridgestone/bs-products/ball/bsg/xxs",
+      "status": 200,
+      "finalUrl": "https://jp.golf.bridgestone/bs-products/ball/bsg/xxs",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://jpn.mizuno.com/ec/disp/attgrp/5KJBS38205/",
+      "status": 200,
+      "finalUrl": "https://jpn.mizuno.com/ec/g/g5KJBS38205SR/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126220001?variant=44187563262017",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126220001?variant=44187563262017",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126220503?variant=44294948651073",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126220503?variant=44294948651073",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126231004?variant=44097239810113",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126231004?variant=44097239810113",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126231502?variant=44270367834177",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126231502?variant=44270367834177",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126234501?variant=44002730508353",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126234501?variant=44002730508353",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126234507?variant=44187528757313",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126234507?variant=44187528757313",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126236004?variant=44188775612481",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126236004?variant=44188775612481",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126238001?variant=44016719102017",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126238001?variant=44016719102017",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126239501?variant=44365120340033",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126239501?variant=44365120340033",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126264001?variant=44063804031041",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126264001?variant=44063804031041",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126266001?variant=44026980106305",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126266001?variant=44026980106305",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126266501?variant=44002731130945",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126266501?variant=44002731130945",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126268001?variant=44016764747841",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126268001?variant=44016764747841",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126268501?variant=44002730213441",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126268501?variant=44002730213441",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126270002?variant=44391822262337",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126270002?variant=44391822262337",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126270502?variant=44365136756801",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126270502?variant=44365136756801",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126272001?variant=44188777381953",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126272001?variant=44188777381953",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://mix.tokyo/products/0126272501?variant=44195945119809",
+      "status": 200,
+      "finalUrl": "https://mix.tokyo/products/0126272501?variant=44195945119809",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://range.sanctuarygolf.jp/locations/shibuya/",
+      "status": 200,
+      "finalUrl": "https://range.sanctuarygolf.jp/locations/shibuya/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001224/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001224/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001244/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001244/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001249/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001249/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001256/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001256/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001258/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001258/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001275/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001275/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001285/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001285/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001308/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001308/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001319/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001319/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001322/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001322/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001337/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001337/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001343/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EM001343/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EW001173/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EW001173/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007834/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007834/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007852/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007852/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007924/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007924/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008053/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008053/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008056/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008056/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008095/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008095/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008103/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008103/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008105/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008105/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008130/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008130/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008144/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008144/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008157/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008157/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008160/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008160/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007920/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007920/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007936/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007936/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008100/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008100/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008114/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008114/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956DW007211/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956DW007211/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW007947/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW007947/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008222/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008222/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008603/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008603/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008685/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008685/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012704/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012704/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013130/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013130/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013512/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013512/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013547/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013547/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013651/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013651/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013808/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013808/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013828/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM013828/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014123/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014123/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014167/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014167/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014365/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014365/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014540/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014540/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014644/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014644/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014662/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014662/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014666/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014666/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014672/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014672/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014706/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM014706/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008727/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008727/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008816/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008816/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012568/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012568/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012601/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012601/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012653/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012653/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012735/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012735/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012737/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012737/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012915/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012915/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012924/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012924/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013063/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013063/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013528/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013528/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013733/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013733/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013770/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013770/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013798/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013798/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013815/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013815/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013839/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013839/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014387/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014387/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014391/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014391/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014392/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014392/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014415/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014415/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014426/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014426/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014432/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014432/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014437/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014437/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014444/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014444/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014458/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014458/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014478/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014478/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014487/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014487/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014209/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014209/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014212/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014212/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014521/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM014521/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015438/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015438/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015455/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015455/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015464/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015464/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015478/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015478/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015501/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015501/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015509/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015509/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015523/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015523/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015578/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015578/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015613/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015613/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015655/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015655/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015687/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015687/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015712/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EM015712/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015186/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015186/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015194/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015194/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015200/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015200/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015202/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015202/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015204/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015204/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015214/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015214/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015227/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015227/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015246/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015246/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015277/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015277/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015300/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015300/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015324/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015324/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015330/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015330/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015348/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015348/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015368/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015368/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015373/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015373/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015388/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015388/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015392/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015392/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015406/",
+      "status": 200,
+      "finalUrl": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015406/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://takatakicc.co.jp/course/",
+      "status": 503,
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://tokyo-jumbo.co.jp/facilities",
+      "status": 200,
+      "finalUrl": "https://tokyo-jumbo.co.jp/facilities",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://wakasu.golftk.com/",
+      "status": 200,
+      "finalUrl": "https://wakasu.golftk.com/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://watashino-golf.com/takadanobaba",
+      "status": 200,
+      "finalUrl": "https://watashino-golf.com/takadanobaba",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/chofu/detail.php",
+      "status": 503,
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/funabashi/",
+      "status": 503,
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/kashiwa/",
+      "status": 503,
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.adidas.jp/%E3%80%90%E3%82%B4%E3%83%AB%E3%83%95%E3%80%91%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AB%E3%82%AA%E3%82%B9-%E3%83%9C%E3%82%A2-25-codechaos-boa-25/IG8705.html",
+      "status": 200,
+      "finalUrl": "https://www.adidas.jp/%E3%80%90%E3%82%B4%E3%83%AB%E3%83%95%E3%80%91%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AB%E3%82%AA%E3%82%B9-%E3%83%9C%E3%82%A2-25-codechaos-boa-25/IG8705.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.ag-tokyobay.com/facility/",
+      "status": 200,
+      "finalUrl": "https://www.ag-tokyobay.com/facility/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.ag-tokyobay.com/school/",
+      "status": 200,
+      "finalUrl": "https://www.ag-tokyobay.com/school/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.asics.com/jp/ja-jp/gel-kayano-ace-3/p/1112A057-100.html",
+      "status": 200,
+      "finalUrl": "https://www.asics.com/jp/ja-jp/gel-kayano-ace-3/p/1112A057-100.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.asics.com/jp/ja-jp/japan-s-golf/p/1111A260-103.html",
+      "status": 200,
+      "finalUrl": "https://www.asics.com/jp/ja-jp/japan-s-golf/p/1111A260-103.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.asics.com/jp/ja-jp/japan-s-golf/p/1112A055-102.html",
+      "status": 200,
+      "finalUrl": "https://www.asics.com/jp/ja-jp/japan-s-golf/p/1112A055-102.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.callawaygolf.jp/accessories/mengloves/BP_010466.html",
+      "status": 200,
+      "finalUrl": "https://www.callawaygolf.jp/accessories/mengloves/BP_010466.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.callawaygolf.jp/accessories/mengloves/BP_011827.html",
+      "status": 200,
+      "finalUrl": "https://www.callawaygolf.jp/accessories/mengloves/BP_011827.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010463.html",
+      "status": 200,
+      "finalUrl": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010463.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010476.html",
+      "status": 200,
+      "finalUrl": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010476.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010478.html",
+      "status": 200,
+      "finalUrl": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010478.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.callawaygolf.jp/accessories/women/gloves/BP_011828.html",
+      "status": 200,
+      "finalUrl": "https://www.callawaygolf.jp/accessories/women/gloves/BP_011828.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.callawaygolf.jp/clubs/drivers/BP_011674.html?pid=4N279089J300",
+      "status": 200,
+      "finalUrl": "https://www.callawaygolf.jp/clubs/drivers/BP_011674.html?pid=4N279089J300",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.camelliahills.com/",
+      "status": 200,
+      "finalUrl": "https://www.camelliahills.com/",
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.clubping.jp/product/product2025_g440_d_max.html",
+      "status": 200,
+      "finalUrl": "https://www.clubping.jp/product/product2025_g440_d_max.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.clubping.jp/product/product2025_g440_f_max.html",
+      "status": 200,
+      "finalUrl": "https://www.clubping.jp/product/product2025_g440_f_max.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s06/FJ-F26-S06.html?dwvar_FJ-F26-S06_color=41806",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s06/FJ-F26-S06.html?dwvar_FJ-F26-S06_color=41806",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s08/FJ-F26-S08.html?dwvar_FJ-F26-S08_color=41814",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s08/FJ-F26-S08.html?dwvar_FJ-F26-S08_color=41814",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s09/FJ-F26-S09.html?dwvar_FJ-F26-S09_color=41815",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/fj/fj-thermoseries/fj-f26-s09/FJ-F26-S09.html?dwvar_FJ-F26-S09_color=41815",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/fj/fj-thermoseries/fjw-f26-b01/FJW-F26-B01.html?dwvar_FJW-F26-B01_color=41884",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/fj/fj-thermoseries/fjw-f26-b01/FJW-F26-B01.html?dwvar_FJW-F26-B01_color=41884",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/fj/fj-thermoseries/fjw-f26-b02/FJW-F26-B02.html?dwvar_FJW-F26-B02_color=41885",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/fj/fj-thermoseries/fjw-f26-b02/FJW-F26-B02.html?dwvar_FJW-F26-B02_color=41885",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s01/FJ-F26-S01.html?dwvar_FJ-F26-S01_color=41797",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s01/FJ-F26-S01.html?dwvar_FJ-F26-S01_color=41797",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s04/FJ-F26-S04.html?dwvar_FJ-F26-S04_color=41803",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s04/FJ-F26-S04.html?dwvar_FJ-F26-S04_color=41803",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s05/FJ-F26-S05.html?dwvar_FJ-F26-S05_color=41804",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-apparelshirts/fj-f26-s05/FJ-F26-S05.html?dwvar_FJ-F26-S05_color=41804",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-gloves/0093jp/0093JP.html?dwvar_0093JP_color=FGSS23WT",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-gloves/0093jp/0093JP.html?dwvar_0093JP_color=FGSS23WT",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-gloves/fgnt24/FGNT24.html?dwvar_FGNT24_color=FGNT24WT&dwvar_FGNT24_hand=Reg%20Lef&dwvar_FGNT24_size=21",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-gloves/fgnt24/FGNT24.html?dwvar_FGNT24_color=FGNT24WT&dwvar_FGNT24_hand=Reg%20Lef&dwvar_FGNT24_size=21",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-gloves/fgpu/FGPU.html?dwvar_FGPU_color=FGPUWT",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-gloves/fgpu/FGPU.html?dwvar_FGPU_color=FGPUWT",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-gloves/fgrg26/FGRG26.html?dwvar_FGRG26_color=FGRG26BK&dwvar_FGRG26_hand=Reg%20Lef&dwvar_FGRG26_size=21",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-gloves/fgrg26/FGRG26.html?dwvar_FGRG26_color=FGRG26BK&dwvar_FGRG26_hand=Reg%20Lef&dwvar_FGRG26_size=21",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-gloves/fgwi26/FGWI26.html?dwvar_FGWI26_color=FGWI26BG&dwvar_FGWI26_hand=Reg%20Par&dwvar_FGWI26_size=L",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-gloves/fgwi26/FGWI26.html?dwvar_FGWI26_color=FGWI26BG&dwvar_FGWI26_hand=Reg%20Par&dwvar_FGWI26_size=L",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-shoesspiked/002qal/002QAL.html?dwvar_002QAL_color=57223",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-shoesspiked/002qal/002QAL.html?dwvar_002QAL_color=57223",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-shoesspiked/021dps/021DPS.html?dwvar_021DPS_color=54558&dwvar_021DPS_size=10&dwvar_021DPS_width=Wide",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-shoesspiked/021dps/021DPS.html?dwvar_021DPS_color=54558&dwvar_021DPS_size=10&dwvar_021DPS_width=Wide",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-shoesspiked/js25hfb/JS25HFB.html?dwvar_JS25HFB_color=55476&dwvar_JS25HFB_size=7.5&dwvar_JS25HFB_width=Medium",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-shoesspiked/js25hfb/JS25HFB.html?dwvar_JS25HFB_color=55476&dwvar_JS25HFB_size=7.5&dwvar_JS25HFB_width=Medium",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-shoesspikeless/004qtm/004QTM.html?dwvar_004QTM_color=57064",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-shoesspikeless/004qtm/004QTM.html?dwvar_004QTM_color=57064",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/mengolf-shoesspikeless/017psl/017PSL.html?dwvar_017PSL_color=56949&dwvar_017PSL_size=7&dwvar_017PSL_width=Medium",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/mengolf-shoesspikeless/017psl/017PSL.html?dwvar_017PSL_color=56949&dwvar_017PSL_size=7&dwvar_017PSL_width=Medium",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-apparelbottoms/fjw-s26-bep01/FJW-S26-BEP01.html?dwvar_FJW-S26-BEP01_color=40620",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-apparelbottoms/fjw-s26-bep01/FJW-S26-BEP01.html?dwvar_FJW-S26-BEP01_color=40620",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-apparelbottoms/fjw-s26-bep02/FJW-S26-BEP02.html?dwvar_FJW-S26-BEP02_color=40623",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-apparelbottoms/fjw-s26-bep02/FJW-S26-BEP02.html?dwvar_FJW-S26-BEP02_color=40623",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-apparelouter-layers/fjw-s26-bem01/FJW-S26-BEM01.html?dwvar_FJW-S26-BEM01_color=40633",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-apparelouter-layers/fjw-s26-bem01/FJW-S26-BEM01.html?dwvar_FJW-S26-BEM01_color=40633",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-apparelshirts/fjw-s26-bes01/FJW-S26-BES01.html?dwvar_FJW-S26-BES01_color=40625",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-apparelshirts/fjw-s26-bes01/FJW-S26-BES01.html?dwvar_FJW-S26-BES01_color=40625",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-gloves/fgle25/FGLE25.html?dwvar_FGLE25_color=FGLE25WB&dwvar_FGLE25_hand=Reg%20Lef&dwvar_FGLE25_size=18",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-gloves/fgle25/FGLE25.html?dwvar_FGLE25_color=FGLE25WB&dwvar_FGLE25_hand=Reg%20Lef&dwvar_FGLE25_size=18",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-gloves/fgnl24/FGNL24.html?dwvar_FGNL24_color=FGNL24WT&dwvar_FGNL24_hand=Reg%20Lef&dwvar_FGNL24_size=18",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-gloves/fgnl24/FGNL24.html?dwvar_FGNL24_color=FGNL24WT&dwvar_FGNL24_hand=Reg%20Lef&dwvar_FGNL24_size=18",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-gloves/fgwfw26/FGWFW26.html?dwvar_FGWFW26_color=FGWFW26WB&dwvar_FGWFW26_hand=Reg%20Lef&dwvar_FGWFW26_size=18",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-gloves/fgwfw26/FGWFW26.html?dwvar_FGWFW26_color=FGWFW26WB&dwvar_FGWFW26_hand=Reg%20Lef&dwvar_FGWFW26_size=18",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-gloves/fgwss2/FGWSS2.html?dwvar_FGWSS2_color=FGWSS25WT&dwvar_FGWSS2_hand=Reg%20Lef&dwvar_FGWSS2_size=18",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-gloves/fgwss2/FGWSS2.html?dwvar_FGWSS2_color=FGWSS25WT&dwvar_FGWSS2_hand=Reg%20Lef&dwvar_FGWSS2_size=18",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-gloves/fgwwi26/FGWWI26.html?dwvar_FGWWI26_color=FGWWI26BG&dwvar_FGWWI26_hand=Reg%20Par&dwvar_FGWWI26_size=M",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-gloves/fgwwi26/FGWWI26.html?dwvar_FGWWI26_color=FGWWI26BG&dwvar_FGWWI26_hand=Reg%20Par&dwvar_FGWWI26_size=M",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-shoesspiked/023dps/023DPS.html?dwvar_023DPS_color=99090&dwvar_023DPS_width=Wide",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-shoesspiked/023dps/023DPS.html?dwvar_023DPS_color=99090&dwvar_023DPS_width=Wide",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-shoesspikeless/005qtm/005QTM.html?dwvar_005QTM_color=97841&dwvar_005QTM_width=Wide",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-shoesspikeless/005qtm/005QTM.html?dwvar_005QTM_color=97841&dwvar_005QTM_width=Wide",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-shoesspikeless/009fjf/009FJF.html?dwvar_009FJF_color=90798&dwvar_009FJF_width=Wide",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-shoesspikeless/009fjf/009FJF.html?dwvar_009FJF_color=90798&dwvar_009FJF_width=Wide",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.footjoy.jp/womengolf-shoesspikeless/019psl/019PSL.html?dwvar_019PSL_color=98240&dwvar_019PSL_size=6&dwvar_019PSL_width=Medium",
+      "status": 200,
+      "finalUrl": "https://www.footjoy.jp/womengolf-shoesspikeless/019psl/019PSL.html?dwvar_019PSL_color=98240&dwvar_019PSL_size=6&dwvar_019PSL_width=Medium",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.garmin.co.jp/news/pressroom/news2024-0620-garmin-approach-z30/",
+      "status": 200,
+      "finalUrl": "https://www.garmin.co.jp/news/pressroom/news2024-0620-garmin-approach-z30/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.garmin.co.jp/products/intosports/approach-ct10/",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://www.garmin.co.jp/products/intosports/approach-g20/",
+      "status": 200,
+      "finalUrl": "https://www.garmin.co.jp/products/intosports/approach-g20/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.garmin.co.jp/products/intosports/approach-s50-black/",
+      "status": 200,
+      "finalUrl": "https://www.garmin.co.jp/products/intosports/approach-s50-black/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.garmin.co.jp/products/intosports/approach-z10/",
+      "status": 200,
+      "finalUrl": "https://www.garmin.co.jp/products/intosports/approach-z10/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.ichinomiya.co.jp/",
+      "status": 200,
+      "finalUrl": "https://www.ichinomiya.co.jp/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.kazusamonarch.com/",
+      "status": 200,
+      "finalUrl": "https://www.kazusamonarch.com/",
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.kisarazugolfclub.jp/",
+      "status": 200,
+      "finalUrl": "https://www.kisarazugolfclub.jp/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.lottekasaigolf.com/facilities/",
+      "status": 200,
+      "finalUrl": "https://www.lottekasaigolf.com/facilities/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.metrogreen.jp/facility/",
+      "status": 503,
+      "reachable": false,
+      "state": "http_error",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.rizap-golf.jp/golfschool/5",
+      "status": 200,
+      "finalUrl": "https://www.rizap-golf.jp/golfschool/5",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.srigroup.co.jp/newsrelease/2024/sp/2024_sp71.html",
+      "status": 200,
+      "finalUrl": "https://www.srigroup.co.jp/newsrelease/2024/sp/2024_sp71.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.stepgolf.co.jp/store/higashiazabu_top",
+      "status": 200,
+      "finalUrl": "https://www.stepgolf.co.jp/store/higashiazabu_top",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.taiei.cc/courses",
+      "status": 200,
+      "finalUrl": "https://www.taiei.cc/courses",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-ALL/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%B9-7.0-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96/DW-TL931.html?lang=ja_JP",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-ALL/TM26-TP5-%E3%83%9C%E3%83%BC%E3%83%AB/DW-TH726.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories-CaddieBags/TM%EF%BD%98UA-%E3%82%AD%E3%83%A3%E3%83%87%E3%82%A3%E3%83%90%E3%83%83%E3%82%B0/DW-UN809.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories-smari/FENDER%C3%97TM-PRINT-TOWEL-SPAGHETTI-LOGO/DW-UN221.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-UV-%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9/DW-TO217.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-clubs/Qi4D-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC/DW-TH050.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-newclub/Spider-ZT-STANDARD/DW-TE614.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/avx/26AVX-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/gts2-driver/678C-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/hybrid-14-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0/25TH14A.html?dwvar_25TH14A_color=BLKBLKRED",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/players-s4-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0/26TGBP4.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/pro-v1/005PV1T-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/pro-v1x/005PVXT-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/t150/560C-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/t250/561C-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/tour-soft/26TSOFT-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/velocity/26VEL-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/vokey-sm11/MASTER-SM11-J.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.tokyu-sports.com/golf/himonya.html",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://www.west-tokyo.co.jp/timezips/",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "url": "https://zengolf.jp/ebisu/",
+      "status": null,
+      "reachable": false,
+      "state": "transport_error",
+      "brokenLink": false,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ]
+}

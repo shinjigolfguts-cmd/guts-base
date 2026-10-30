@@ -5,14 +5,17 @@ const data=catalogData;
 
 const facilityPhoneContacts={
 1017:{number:'042-487-0821',label:'施設へ電話で確認'},
+1190:{number:'0438-75-4111',label:'施設へ電話で確認'},
+1193:{number:'0439-29-3100',label:'施設へ電話で確認'},
 1194:{number:'0436-96-1351',label:'予約窓口へ電話'},
+1197:{number:'03-5683-0052',label:'フロントへ電話で確認'},
 1202:{number:'047-410-8500',label:'施設へ電話で確認'},
 1203:{number:'04-7191-0180',label:'施設へ電話で確認'}
 };
 function facilityContactHtml(id){
  const contact=facilityPhoneContacts[id];
  if(!contact)return '';
- return '<section class="facilityContact"><h3>公式サイトが開けない場合</h3><p>2026年10月30日の再確認でも、公式サイトを自動取得できない状態がありました。施設の休業を示すものではありません。公式サイトが開かない場合は、営業・料金・予約についてお電話でご確認ください。</p><a class="primary" href="tel:'+contact.number.replaceAll('-','')+'">'+contact.label+'：'+contact.number+'</a><p class="sourceMeta">公式掲載の電話番号です。営業時間外はつながらない場合があります。</p></section>';
+ return '<section class="facilityContact"><h3>公式サイトが開けない場合</h3><p>2026年10月30日確認：公式サイトのメンテナンスや取得制限により、通常の案内を確認できない場合があります。施設の休業を示すものではありません。公式サイトが開かない場合は、営業・料金・予約についてお電話でご確認ください。</p><a class="primary" href="tel:'+contact.number.replaceAll('-','')+'">'+contact.label+'：'+contact.number+'</a><p class="sourceMeta">公式掲載の電話番号です。営業時間外はつながらない場合があります。</p></section>';
 }
 
 let state={cat:0,mode:'all',saved:false,audience:'men'};const initialQuery=new URLSearchParams(location.search);const initialCategory=Number(initialQuery.get('category'));if([1,2,3,4,5,6,7,8,10].includes(initialCategory)){state.cat=initialCategory;state.mode=initialCategory>=6&&initialCategory<=8?'places':'goods'}if(['men','women'].includes(initialQuery.get('audience')))state.audience=initialQuery.get('audience');let fav=[];try{fav=JSON.parse(localStorage.getItem('golf-guts-real-favs-v1')||'[]');if(!Array.isArray(fav))fav=[];fav=fav.filter(id=>data.some(d=>d.id===id))}catch{}let compare=[];const money=n=>'¥'+n.toLocaleString('ja-JP');const priceText=d=>d.price===null?'価格・料金は詳細へ':money(d.price)+' / '+d.unit;const escape=s=>s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

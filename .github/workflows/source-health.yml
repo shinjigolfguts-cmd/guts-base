@@ -1,0 +1,50 @@
+name: Official source link review
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 1'
+permissions:
+  contents: read
+concurrency:
+  group: official-source-review
+  cancel-in-progress: false
+jobs:
+  sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check all catalog source URLs
+        shell: bash
+        run: |
+          result=0
+          python scripts/check_sources.py --output "$RUNNER_TEMP/source-health.json" || result=$?
+          if [ "$result" -eq 2 ]; then
+            echo "::warning::Some official URLs require review. See report; this does not prove broken links or closure."
+          elif [ "$result" -ne 0 ]; then
+            exit "$result"
+          fi
+      - name: Summarize evidence and limitations
+        shell: bash
+        run: |
+          python - <<'PYCODE'
+          import collections, json, os, pathlib
+          r=json.loads((pathlib.Path(os.environ['RUNNER_TEMP'])/'source-health.json').read_text())
+          counts=collections.Counter(x['state'] for x in r['results'])
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:
+              f.write('## Official source URL review\n\n')
+              f.write(f"Checked {r['totalUrls']} unique URLs; HTTP reachable: {r['reachableUrls']}.\n\n")
+              for state,count in sorted(counts.items()): f.write(f'- {state}: {count}\n')
+              f.write('\nJob completion is not a declaration that all URLs are healthy. Price, stock, image accuracy and Google indexing are not verified. No catalog data is rewritten.\n')
+          PYCODE
+      - name: Save complete source report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: official-source-health-${{ github.run_id }}
+          path: ${{ runner.temp }}/source-health.json
+          if-no-files-found: error
+          retention-days: 30

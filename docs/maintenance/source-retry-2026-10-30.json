@@ -1,0 +1,289 @@
+{
+  "checkedAt": "2026-10-30T11:41:55.060971+00:00",
+  "scope": "Transport and maintenance/challenge classification only; browser evidence is separate. Not price, stock, image or full content verification",
+  "catalogModified": false,
+  "fullCatalog": false,
+  "totalUrls": 29,
+  "reachableUrls": 15,
+  "categories": {
+    "1": {
+      "entries": 12,
+      "reachable": 4,
+      "attempted": 6
+    },
+    "2": {
+      "entries": 11,
+      "reachable": 5,
+      "attempted": 6
+    },
+    "3": {
+      "entries": 20,
+      "reachable": 0,
+      "attempted": 0
+    },
+    "4": {
+      "entries": 19,
+      "reachable": 0,
+      "attempted": 1
+    },
+    "5": {
+      "entries": 140,
+      "reachable": 0,
+      "attempted": 0
+    },
+    "6": {
+      "entries": 10,
+      "reachable": 0,
+      "attempted": 3
+    },
+    "7": {
+      "entries": 10,
+      "reachable": 2,
+      "attempted": 6
+    },
+    "8": {
+      "entries": 10,
+      "reachable": 1,
+      "attempted": 1
+    },
+    "10": {
+      "entries": 10,
+      "reachable": 3,
+      "attempted": 6
+    }
+  },
+  "results": [
+    {
+      "url": "https://takatakicc.co.jp/course/",
+      "status": 503,
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/chofu/detail.php",
+      "status": 503,
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/funabashi/",
+      "status": 503,
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.accordiagolf.com/practice/kashiwa/",
+      "status": 503,
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.camelliahills.com/",
+      "status": 200,
+      "finalUrl": "https://www.camelliahills.com/",
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.garmin.co.jp/products/intosports/approach-ct10/",
+      "status": 200,
+      "finalUrl": "https://www.garmin.co.jp/products/intosports/approach-ct10/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.kazusamonarch.com/",
+      "status": 200,
+      "finalUrl": "https://www.kazusamonarch.com/",
+      "reachable": false,
+      "state": "maintenance",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.metrogreen.jp/facility/",
+      "status": 503,
+      "reachable": false,
+      "state": "http_error",
+      "brokenLink": false,
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-ALL/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%B9-7.0-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96/DW-TL931.html?lang=ja_JP",
+      "status": 302,
+      "reachable": false,
+      "state": "redirect_error",
+      "brokenLink": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-ALL/TM26-TP5-%E3%83%9C%E3%83%BC%E3%83%AB/DW-TH726.html",
+      "status": 302,
+      "reachable": false,
+      "state": "redirect_error",
+      "brokenLink": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories-CaddieBags/TM%EF%BD%98UA-%E3%82%AD%E3%83%A3%E3%83%87%E3%82%A3%E3%83%90%E3%83%83%E3%82%B0/DW-UN809.html",
+      "status": 302,
+      "reachable": false,
+      "state": "redirect_error",
+      "brokenLink": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories-smari/FENDER%C3%97TM-PRINT-TOWEL-SPAGHETTI-LOGO/DW-UN221.html",
+      "status": 302,
+      "reachable": false,
+      "state": "redirect_error",
+      "brokenLink": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-accessories/%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0-UV-%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9/DW-TO217.html",
+      "status": 302,
+      "reachable": false,
+      "state": "redirect_error",
+      "brokenLink": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-clubs/Qi4D-%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC/DW-TH050.html",
+      "status": 302,
+      "reachable": false,
+      "state": "redirect_error",
+      "brokenLink": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.taylormadegolf.jp/taylormade-newclub/Spider-ZT-STANDARD/DW-TE614.html",
+      "status": 302,
+      "reachable": false,
+      "state": "redirect_error",
+      "brokenLink": false,
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/avx/26AVX-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/avx/26AVX-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/gts2-driver/678C-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/gts2-driver/678C-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/hybrid-14-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0/25TH14A.html?dwvar_25TH14A_color=BLKBLKRED",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/hybrid-14-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0/25TH14A.html?dwvar_25TH14A_color=BLKBLKRED",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/players-s4-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0/26TGBP4.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/players-s4-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%B0/26TGBP4.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/pro-v1/005PV1T-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/pro-v1/005PV1T-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/pro-v1x/005PVXT-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/pro-v1x/005PVXT-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/t150/560C-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/t150/560C-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/t250/561C-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/t250/561C-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/tour-soft/26TSOFT-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/tour-soft/26TSOFT-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/velocity/26VEL-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/velocity/26VEL-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.titleist.co.jp/product/vokey-sm11/MASTER-SM11-J.html",
+      "status": 200,
+      "finalUrl": "https://www.titleist.co.jp/product/vokey-sm11/MASTER-SM11-J.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.tokyu-sports.com/golf/himonya.html",
+      "status": 200,
+      "finalUrl": "https://www.tokyu-sports.com/golf/himonya.html",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://www.west-tokyo.co.jp/timezips/",
+      "status": 200,
+      "finalUrl": "https://www.west-tokyo.co.jp/timezips/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    },
+    {
+      "url": "https://zengolf.jp/ebisu/",
+      "status": 200,
+      "finalUrl": "https://zengolf.jp/ebisu/",
+      "reachable": true,
+      "state": "http_ok_content_unverified",
+      "brokenLink": false
+    }
+  ]
+}
