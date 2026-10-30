@@ -58,3 +58,17 @@ nav{scrollbar-width:none}nav::-webkit-scrollbar{display:none}
 /* Focused clothing filters, using the established beige palette. */
 .apparelFilters{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:20px 0}.apparelFilters label{font-size:13px;display:grid;gap:6px}.apparelFilters select{width:100%;min-height:46px;font-size:14px;border-color:var(--card);background:var(--cream)}
 @media(max-width:600px){.apparelFilters{gap:10px;margin:16px 0}.apparelFilters label{font-size:13px}.apparelFilters select{font-size:14px;padding:10px 6px}}
+
+
+/* Favorites: keep the existing palette, make save and revisit discoverable. */
+.savehead{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:8px 13px;border:1px solid var(--green);border-radius:999px;color:var(--ink);white-space:nowrap}
+.savehead span{margin:0}.savehead .saveheadIcon{font-size:21px;line-height:1}.savehead .saveheadLabel{font-size:12px;font-weight:650}.savehead b{min-width:20px;text-align:center;font-size:12px}.savehead .saveheadUnit{font-size:11px;margin-left:-5px}
+.savehead[aria-pressed="true"]{background:var(--green);color:#fff}
+.favoritesGuide{display:flex;align-items:center;gap:14px;margin:18px 0 20px;padding:16px 18px;border:1px solid #4f6b5738;border-left:3px solid var(--green);border-radius:8px;background:#ffffff26}
+.favoritesGuideIcon{flex:none;display:grid;place-items:center;width:38px;height:38px;border:1px solid #4f6b5755;border-radius:50%;font-size:25px;color:var(--green)}
+.favoritesGuide p{margin:0;font-size:12px;line-height:1.8}.favoritesGuide .favoritesGuideTitle{font-size:14px;font-weight:650;letter-spacing:.04em}.favoritesGuide small{display:block;font-size:11px;color:#625d56;margin-top:3px}
+.heart{width:auto;min-width:70px;height:44px;display:inline-flex;align-items:center;justify-content:center;gap:5px;padding:0 10px;border-radius:999px;border:1px solid #4f6b574d;background:var(--cream);color:var(--ink);font-size:21px;line-height:1;box-shadow:0 2px 8px #3f3a3612}
+.heart .favoriteLabel{font-size:11px;font-weight:650;white-space:nowrap}.heart.on{background:var(--green);color:#fff;border-color:var(--green)}
+.favoriteEmpty{padding:46px 18px}.favoriteEmptyIcon{display:block;color:var(--green);font-size:36px;line-height:1.2;margin-bottom:12px}.favoriteEmpty h3{font-size:18px;letter-spacing:.04em;margin:0 0 10px}.favoriteEmpty p{font-size:13px;margin:0 0 20px}.favoriteEmpty .primary{display:inline-block;border-radius:4px;padding:10px 20px;text-decoration:none}.favoriteEmpty small{display:block;color:#625d56;font-size:11px;margin-top:15px}
+@media(max-width:600px){header{gap:10px}.savehead{gap:5px;padding:7px 9px}.savehead .saveheadLabel{font-size:10px}.savehead .saveheadIcon{font-size:18px}.savehead b{min-width:12px;font-size:11px}.savehead .saveheadUnit{font-size:10px;margin-left:-3px}.favoritesGuide{gap:10px;padding:13px 12px}.favoritesGuideIcon{width:30px;height:30px;font-size:21px}.favoritesGuide .favoritesGuideTitle{font-size:13px}.favoritesGuide p{font-size:11px}.favoritesGuide small{font-size:10px}.heart{height:44px;min-width:65px;padding:0 8px}}
+@media(max-width:360px){header .logo{font-size:22px}.savehead{padding:7px;gap:4px}.savehead .saveheadLabel{font-size:10px}}
