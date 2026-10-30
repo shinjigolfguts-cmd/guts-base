@@ -4016,7 +4016,7 @@ const catalogData = [
     "cat": 4,
     "audience": "women",
     "brand": "Callaway",
-    "name": "キャロウェイ ソレイル グローブ ウィメンズ  25 JM（両手用）",
+    "name": "キャロウェイ ソレイル グローブ ウィメンズ 25 JM（両手用）",
     "source": "https://www.callawaygolf.jp/accessories/women/gloves/BP_010463.html",
     "imageSource": "https://cdn2.webdamdb.com/1280_MzSO5n95MnP99sw0.png?1737513080",
     "image": "assets/products/1163.png",
@@ -6671,7 +6671,7 @@ const catalogData = [
   {
     "id": 2045,
     "cat": 5,
-    "name": "ロングパンツ",
+    "name": "ロングパンツ（BK00）",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007924/",
     "checked": "2026-10-27",
@@ -7163,7 +7163,7 @@ const catalogData = [
   {
     "id": 2047,
     "cat": 5,
-    "name": "ロングパンツ",
+    "name": "ロングパンツ（WH00）",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM007834/",
     "checked": "2026-10-27",
@@ -8536,7 +8536,7 @@ const catalogData = [
   {
     "id": 2029,
     "cat": 5,
-    "name": "SUNSCREEN鹿の子ハーフジップ半袖シャツ",
+    "name": "SUNSCREEN鹿の子ハーフジップ半袖シャツ（GR00）",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008160/",
     "checked": "2026-10-27",
@@ -9126,7 +9126,7 @@ const catalogData = [
   {
     "id": 2031,
     "cat": 5,
-    "name": "SUNSCREEN鹿の子ハーフジップ半袖シャツ",
+    "name": "SUNSCREEN鹿の子ハーフジップ半袖シャツ（WH00）",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EM008157/",
     "checked": "2026-10-27",
