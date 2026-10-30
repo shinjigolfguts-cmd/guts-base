@@ -26,7 +26,8 @@
   "recurringChecks": [
     "weekly_price_and_stock_review",
     "weekly_official_link_review",
-    "weekly_publish_and_actions_result"
+    "weekly_publish_and_actions_result",
+    "weekly_live_integrity_check"
   ],
   "officialLinkStatus": {
     "browserVisibleAutomationLimited": 7,
