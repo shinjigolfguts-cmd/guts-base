@@ -54,7 +54,26 @@ for(const file of htmlFiles){
  }
 }
 check(read('index.html').includes('data-site="town"'),'Analytics site ID');
-check(read('guts-analytics.js').includes("location.pathname.startsWith('/guts-base/')"),'Analytics path restriction');
+// Execute the origin/path guard rather than matching one implementation string.
+// DNT stops execution after admission, so these checks never send analytics.
+const tracker=read('guts-analytics.js');
+const analyticsCases=[
+ ['GitHub home','https://shinjigolfguts-cmd.github.io','/guts-base/',true],
+ ['GitHub category','https://shinjigolfguts-cmd.github.io','/guts-base/categories/apparel.html',true],
+ ['Other project','https://shinjigolfguts-cmd.github.io','/golf-guts-kanto/',false],
+ ['Similar prefix','https://shinjigolfguts-cmd.github.io','/guts-base-other/',false],
+ ['Host root','https://shinjigolfguts-cmd.github.io','/',false],
+ ['Unapproved host','https://example.com','/guts-base/',false],
+ ['Original Sites host','https://golf-edit-guts.nutmegcoin18.chatgpt.site','/',true],
+ ['Current Sites host','https://golf-edit-guts.golfguts0702.chatgpt.site','/',true]
+];
+for(const [label,origin,pathname,expected] of analyticsCases){
+ const sandbox={document:{currentScript:{dataset:{site:'town'}}},location:{origin,pathname,search:''},window:{},navigator:{doNotTrack:'1'}};
+ try{
+  vm.runInNewContext(tracker,sandbox,{timeout:1000});
+  check(!!sandbox.window.__gutsAnalyticsLoaded===expected,'Analytics origin/path restriction: '+label);
+ }catch(error){failures.push('Analytics guard execution: '+label+' '+error.message)}
+}
 // Guard the files needed for search discovery on every existing CI run.
 const base='https://shinjigolfguts-cmd.github.io/guts-base/';
 const indexable=htmlFiles.filter(file=>file!=='404.html');
