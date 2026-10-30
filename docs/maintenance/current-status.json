@@ -21,8 +21,6 @@
     "live_keyboard_modal_verification"
   ],
   "externalWait": [
-    "search_console_sitemap_processing",
-    "search_index_registration",
     "manufacturer_description_corrections"
   ],
   "recurringChecks": [
@@ -40,5 +38,31 @@
     2119,
     2037,
     2140
-  ]
+  ],
+  "requiresAuthenticatedAccess": [
+    "search_console_sitemap_status",
+    "search_console_url_index_status"
+  ],
+  "searchVerification": {
+    "checkedOn": "2026-10-30",
+    "publicSitemap": {
+      "httpStatus": 200,
+      "validXml": true,
+      "urlCount": 10,
+      "uniqueUrlCount": 10
+    },
+    "listedPages": {
+      "http200": 10,
+      "selfCanonical": 10,
+      "noindexDetected": 0
+    },
+    "searchConsole": {
+      "status": "unverified_authentication_required",
+      "evidence": "Available Search Console browser tabs are on accounts.google.com sign-in pages; processing and indexing status have not been observed."
+    },
+    "googleIndexing": {
+      "status": "unverified",
+      "note": "Public page availability does not establish Google indexing. Indexing timing and inclusion cannot be guaranteed."
+    }
+  }
 }
