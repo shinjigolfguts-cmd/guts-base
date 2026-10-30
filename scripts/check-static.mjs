@@ -120,6 +120,22 @@ for(const file of indexable){
 }
 const verificationFile='google14f186523eca69b6.html';
 try{check(read(verificationFile).trim()==='google-site-verification: '+verificationFile,'Ownership verification content')}catch{failures.push('Missing ownership verification file')}
+try{
+ const status=JSON.parse(read('docs/maintenance/current-status.json'));
+ check(status.schemaVersion===1,'Current status schema version');
+ check(/^\d{4}-\d{2}-\d{2}$/.test(status.asOf),'Current status date');
+ check(status.releaseState==='published_with_external_followups','Current release state');
+ check(status.records===data.length,'Current status record count');
+ check(status.catalogImages===data.length,'Current status image count');
+ check(status.htmlPages===htmlFiles.length,'Current status HTML page count');
+ check(status.searchPages===indexable.length,'Current status search page count');
+ check(JSON.stringify(status.protectedDiscrepancyIds)===JSON.stringify([2017,2119,2037,2140]),'Current status protected discrepancy IDs');
+ check(status.officialLinkStatus?.browserVisibleAutomationLimited===7,'Current status browser-visible link count');
+ check(status.officialLinkStatus?.facilityFetchUnstableWithPhoneFallback===fallbackIds.length,'Current status facility fallback count');
+ check(Array.isArray(status.completed)&&status.completed.includes('production_publish'),'Current status completed work');
+ check(Array.isArray(status.externalWait)&&status.externalWait.includes('search_console_sitemap_processing'),'Current status external wait');
+ check(Array.isArray(status.recurringChecks)&&status.recurringChecks.includes('weekly_price_and_stock_review'),'Current status recurring checks');
+}catch(error){failures.push('Invalid current status: '+error.message)}
 const result={passed:failures.length===0,records:data.length,counts,imagesChecked:data.length,htmlPages:htmlFiles.length,localReferences:refs,searchPagesChecked:indexable.length,ownershipFileChecked:true,failures,limitations:'Does not verify live stock, price accuracy, image model/color visually, browser behavior or analytics receipt.'};
 console.log(JSON.stringify(result,null,2));
 if(failures.length)process.exitCode=1;

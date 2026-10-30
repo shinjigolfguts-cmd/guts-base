@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-30",
+  "releaseState": "published_with_external_followups",
+  "records": 242,
+  "catalogImages": 242,
+  "htmlPages": 11,
+  "searchPages": 10,
+  "completed": [
+    "production_publish",
+    "catalog_integrity",
+    "image_checksum_integrity",
+    "main_mobile_flows",
+    "comparison_flow",
+    "seo_files_and_metadata",
+    "accessibility_static_guards",
+    "official_discrepancy_safe_wording",
+    "unstable_facility_phone_fallback"
+  ],
+  "externalWait": [
+    "search_console_sitemap_processing",
+    "search_index_registration",
+    "manufacturer_description_corrections"
+  ],
+  "recurringChecks": [
+    "weekly_price_and_stock_review",
+    "weekly_official_link_review",
+    "weekly_publish_and_actions_result"
+  ],
+  "officialLinkStatus": {
+    "browserVisibleAutomationLimited": 7,
+    "facilityFetchUnstableWithPhoneFallback": 4
+  },
+  "protectedDiscrepancyIds": [2017, 2119, 2037, 2140]
+}
