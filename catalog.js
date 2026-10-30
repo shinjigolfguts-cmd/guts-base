@@ -1776,7 +1776,7 @@ const catalogData = [
   {
     "id": 2120,
     "cat": 5,
-    "name": "クルーネックメッシュアンダーシャツ（ホワイト（WH00））",
+    "name": "クルーネックメッシュアンダーシャツ（ホワイト・WH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013528/",
     "checked": "2026-10-27",
@@ -2391,7 +2391,7 @@ const catalogData = [
   {
     "id": 2008,
     "cat": 5,
-    "name": "【ストレッチフォーサー】ウエストアジャスター保温パンツ（武井壮着用）（ネイビー（NV00））",
+    "name": "【ストレッチフォーサー】ウエストアジャスター保温パンツ（武井壮着用）（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EM012704/",
     "checked": "2026-10-29",
@@ -2636,7 +2636,7 @@ const catalogData = [
   {
     "id": 2108,
     "cat": 5,
-    "name": "ストレッチドビーカルゼスカート（ネイビー（NV00））",
+    "name": "ストレッチドビーカルゼスカート（ネイビー・NV00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015373/",
     "checked": "2026-10-27",
@@ -2734,7 +2734,7 @@ const catalogData = [
   {
     "id": 2103,
     "cat": 5,
-    "name": "ニットハイブリッドハーフジップ半袖シャツ（ホワイト（WH00））",
+    "name": "ニットハイブリッドハーフジップ半袖シャツ（ホワイト・WH00）",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008100/",
     "checked": "2026-10-27",
@@ -2784,7 +2784,7 @@ const catalogData = [
   {
     "id": 2137,
     "cat": 5,
-    "name": "リバーシブルベスト（ホワイト（WH00））",
+    "name": "リバーシブルベスト（ホワイト・WH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013063/",
     "checked": "2026-10-27",
@@ -2834,7 +2834,7 @@ const catalogData = [
   {
     "id": 2105,
     "cat": 5,
-    "name": "はっ水ダンボールニットワンピース（ブラウン（BW00））",
+    "name": "はっ水ダンボールニットワンピース（ブラウン・BW00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015246/",
     "checked": "2026-10-27",
@@ -2932,7 +2932,7 @@ const catalogData = [
   {
     "id": 2113,
     "cat": 5,
-    "name": "裏起毛レギンス【防風/保温】（ブラック（BK03））",
+    "name": "裏起毛レギンス【防風/保温】（ブラック・BK03）",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956DW007211/",
     "checked": "2026-10-27",
@@ -2982,7 +2982,7 @@ const catalogData = [
   {
     "id": 2129,
     "cat": 5,
-    "name": "シアサッカープリーツスカート（ベージュ（BG00））",
+    "name": "シアサッカープリーツスカート（ベージュ・BG00）",
     "brand": "penguin BY MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/AN2931EW001173/",
     "checked": "2026-10-27",
@@ -5451,7 +5451,7 @@ const catalogData = [
   {
     "id": 2102,
     "cat": 5,
-    "name": "はっ水ジップスリット360°スカート見えショートパンツ（イエロー（YL00））",
+    "name": "はっ水ジップスリット360°スカート見えショートパンツ（イエロー・YL00）",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007920/",
     "checked": "2026-10-27",
@@ -5550,7 +5550,7 @@ const catalogData = [
   {
     "id": 2138,
     "cat": 5,
-    "name": "総柄半袖シャツ（ライム（LM00））",
+    "name": "総柄半袖シャツ（ライム・LM00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012653/",
     "checked": "2026-10-27",
@@ -5746,7 +5746,7 @@ const catalogData = [
   {
     "id": 2117,
     "cat": 5,
-    "name": "ハイネックセーター（ホワイト（WH00））",
+    "name": "ハイネックセーター（ホワイト・WH00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015368/",
     "checked": "2026-10-27",
@@ -6040,7 +6040,7 @@ const catalogData = [
   {
     "id": 2106,
     "cat": 5,
-    "name": "クルーネックアンダー長袖シャツ【吸汗速乾/部分UV】（ブラック（BK03））",
+    "name": "クルーネックアンダー長袖シャツ【吸汗速乾/部分UV】（ブラック・BK03）",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW007947/",
     "checked": "2026-10-27",
@@ -6139,7 +6139,7 @@ const catalogData = [
   {
     "id": 2109,
     "cat": 5,
-    "name": "タック入り9分丈パンツ（グレー（GY00））",
+    "name": "タック入り9分丈パンツ（グレー・GY00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012601/",
     "checked": "2026-10-27",
@@ -6237,7 +6237,7 @@ const catalogData = [
   {
     "id": 2124,
     "cat": 5,
-    "name": "ペンギンエンブレムクルーネックセーター（エメラルド（EM00））",
+    "name": "ペンギンエンブレムクルーネックセーター（エメラルド・EM00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015300/",
     "checked": "2026-10-27",
@@ -6529,7 +6529,7 @@ const catalogData = [
   {
     "id": 2104,
     "cat": 5,
-    "name": "防風はっ水カットソーベスト（ネイビー（NV00））",
+    "name": "防風はっ水カットソーベスト（ネイビー・NV00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015392/",
     "checked": "2026-10-27",
@@ -6817,7 +6817,7 @@ const catalogData = [
   {
     "id": 2100,
     "cat": 5,
-    "name": "接触冷感バックエンボスロゴ半袖ポロシャツ（ブラック（BK00））",
+    "name": "接触冷感バックエンボスロゴ半袖ポロシャツ（ブラック・BK00）",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW007936/",
     "checked": "2026-10-27",
@@ -7014,7 +7014,7 @@ const catalogData = [
   {
     "id": 2133,
     "cat": 5,
-    "name": "ペンギンプリントハイネック長袖シャツ（ネイビー（NV00））",
+    "name": "ペンギンプリントハイネック長袖シャツ（ネイビー・NV00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015324/",
     "checked": "2026-10-29",
@@ -7113,7 +7113,7 @@ const catalogData = [
   {
     "id": 2127,
     "cat": 5,
-    "name": "【ストレッチフォーサー】ハイネックアンダーシャツ（ブラック（BK00））",
+    "name": "【ストレッチフォーサー】ハイネックアンダーシャツ（ブラック・BK00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008816/",
     "checked": "2026-10-27",
@@ -7309,7 +7309,7 @@ const catalogData = [
   {
     "id": 2112,
     "cat": 5,
-    "name": "ペンギンストライプジャガードワンピース（ネイビー（NV00））",
+    "name": "ペンギンストライプジャガードワンピース（ネイビー・NV00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015200/",
     "checked": "2026-10-27",
@@ -7504,7 +7504,7 @@ const catalogData = [
   {
     "id": 2101,
     "cat": 5,
-    "name": "裾プリーツスカート（カーキ（KH00））",
+    "name": "裾プリーツスカート（カーキ・KH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012924/",
     "checked": "2026-10-27",
@@ -7603,7 +7603,7 @@ const catalogData = [
   {
     "id": 2107,
     "cat": 5,
-    "name": "タイダイプリント裾リブモックネックシャツ（ネイビー（NV00））",
+    "name": "タイダイプリント裾リブモックネックシャツ（ネイビー・NV00）",
     "brand": "DESCENTE ゴルフ",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/DE2188EW008114/",
     "checked": "2026-10-27",
@@ -7798,7 +7798,7 @@ const catalogData = [
   {
     "id": 2110,
     "cat": 5,
-    "name": "裏付きフーディセーター（ホワイト（WH00））",
+    "name": "裏付きフーディセーター（ホワイト・WH00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015186/",
     "checked": "2026-10-27",
@@ -7897,7 +7897,7 @@ const catalogData = [
   {
     "id": 2116,
     "cat": 5,
-    "name": "【AIR STYLISH】テーパード9分丈パンツ（グリーン（GR00））",
+    "name": "【AIR STYLISH】テーパード9分丈パンツ（グリーン・GR00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013839/",
     "checked": "2026-10-27",
@@ -8093,7 +8093,7 @@ const catalogData = [
   {
     "id": 2128,
     "cat": 5,
-    "name": "ロゴジャカードハーフジップ長袖シャツ【UV/2WAYストレッチ】（ブラック（BK00））",
+    "name": "ロゴジャカードハーフジップ長袖シャツ【UV/2WAYストレッチ】（ブラック・BK00）",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008222/",
     "checked": "2026-10-27",
@@ -8288,7 +8288,7 @@ const catalogData = [
   {
     "id": 2148,
     "cat": 5,
-    "name": "ロングパンツ（ネイビー（NV00））",
+    "name": "ロングパンツ（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012737/",
     "checked": "2026-10-27",
@@ -8387,7 +8387,7 @@ const catalogData = [
   {
     "id": 2122,
     "cat": 5,
-    "name": "防風ストレッチコーデュロイスカート（ネイビー（NV00））",
+    "name": "防風ストレッチコーデュロイスカート（ネイビー・NV00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015194/",
     "checked": "2026-10-27",
@@ -8486,7 +8486,7 @@ const catalogData = [
   {
     "id": 2114,
     "cat": 5,
-    "name": "切替デザインモックネックシャツ（ブラック（BK00））",
+    "name": "切替デザインモックネックシャツ（ブラック・BK00）",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008685/",
     "checked": "2026-10-27",
@@ -8682,7 +8682,7 @@ const catalogData = [
   {
     "id": 2121,
     "cat": 5,
-    "name": "防風モックネック長袖シャツ【UV】（ブラック（BK03））",
+    "name": "防風モックネック長袖シャツ【UV】（ブラック・BK03）",
     "brand": "LANVIN SPORT",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LA7956EW008603/",
     "checked": "2026-10-27",
@@ -8780,7 +8780,7 @@ const catalogData = [
   {
     "id": 2118,
     "cat": 5,
-    "name": "2WAYクルーネックブルゾン（ネイビー（NV00））",
+    "name": "2WAYクルーネックブルゾン（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013798/",
     "checked": "2026-10-27",
@@ -8879,7 +8879,7 @@ const catalogData = [
   {
     "id": 2146,
     "cat": 5,
-    "name": "ストレッチ千鳥チェック柄9分丈ロングパンツ（グレー（GY00））",
+    "name": "ストレッチ千鳥チェック柄9分丈ロングパンツ（グレー・GY00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015406/",
     "checked": "2026-10-27",
@@ -8978,7 +8978,7 @@ const catalogData = [
   {
     "id": 2144,
     "cat": 5,
-    "name": "【ワイドシルエット】半袖モックシャツ（ホワイト（WH00））",
+    "name": "【ワイドシルエット】半袖モックシャツ（ホワイト・WH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014437/",
     "checked": "2026-10-27",
@@ -9076,7 +9076,7 @@ const catalogData = [
   {
     "id": 2115,
     "cat": 5,
-    "name": "はっ水ダンボールニットスカート（ホワイト（WH00））",
+    "name": "はっ水ダンボールニットスカート（ホワイト・WH00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015202/",
     "checked": "2026-10-27",
@@ -9175,7 +9175,7 @@ const catalogData = [
   {
     "id": 2140,
     "cat": 5,
-    "name": "チェックガウチョパンツ（ブラウン（BW00））",
+    "name": "チェックガウチョパンツ（ブラウン・BW00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015204/",
     "checked": "2026-10-23",
@@ -9274,7 +9274,7 @@ const catalogData = [
   {
     "id": 2141,
     "cat": 5,
-    "name": "【菅沼菜々プロ優勝時着用商品】【DAILY】ベーシック半袖シャツ（ホワイト（WH00））",
+    "name": "【菅沼菜々プロ優勝時着用商品】【DAILY】ベーシック半袖シャツ（ホワイト・WH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013815/",
     "checked": "2026-10-27",
@@ -9373,7 +9373,7 @@ const catalogData = [
   {
     "id": 2136,
     "cat": 5,
-    "name": "クルーネックセーター（ホワイト（WH00））",
+    "name": "クルーネックセーター（ホワイト・WH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014432/",
     "checked": "2026-10-27",
@@ -9472,7 +9472,7 @@ const catalogData = [
   {
     "id": 2130,
     "cat": 5,
-    "name": "HEAT NAVI はっ水ストレッチフルレングスパンツ（ベージュ（BG00））",
+    "name": "HEAT NAVI はっ水ストレッチフルレングスパンツ（ベージュ・BG00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015227/",
     "checked": "2026-10-27",
@@ -9570,7 +9570,7 @@ const catalogData = [
   {
     "id": 2147,
     "cat": 5,
-    "name": "ロゴ襟長袖シャツ（ネイビー（NV00））",
+    "name": "ロゴ襟長袖シャツ（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012735/",
     "checked": "2026-10-27",
@@ -9669,7 +9669,7 @@ const catalogData = [
   {
     "id": 2111,
     "cat": 5,
-    "name": "中わた半袖ブルゾン（ネイビー（NV00））",
+    "name": "中わた半袖ブルゾン（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014392/",
     "checked": "2026-10-27",
@@ -9768,7 +9768,7 @@ const catalogData = [
   {
     "id": 2143,
     "cat": 5,
-    "name": "美シルエットフルレングスパンツ（ネイビー（NV00））",
+    "name": "美シルエットフルレングスパンツ（ネイビー・NV00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015348/",
     "checked": "2026-10-27",
@@ -9867,7 +9867,7 @@ const catalogData = [
   {
     "id": 2131,
     "cat": 5,
-    "name": "防風セーター（ネイビー（NV00））",
+    "name": "防風セーター（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014444/",
     "checked": "2026-10-27",
@@ -9966,7 +9966,7 @@ const catalogData = [
   {
     "id": 2123,
     "cat": 5,
-    "name": "チェックフルレングスブーツカットパンツ（ブラウン（BW00））",
+    "name": "チェックフルレングスブーツカットパンツ（ブラウン・BW00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015388/",
     "checked": "2026-10-27",
@@ -10065,7 +10065,7 @@ const catalogData = [
   {
     "id": 2149,
     "cat": 5,
-    "name": "モックネック長袖シャツ（ベージュ（BG00））",
+    "name": "モックネック長袖シャツ（ベージュ・BG00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012568/",
     "checked": "2026-10-27",
@@ -10164,7 +10164,7 @@ const catalogData = [
   {
     "id": 2125,
     "cat": 5,
-    "name": "中わたHybridブルゾン（ホワイト（WH00））",
+    "name": "中わたHybridブルゾン（ホワイト・WH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014391/",
     "checked": "2026-10-27",
@@ -10263,7 +10263,7 @@ const catalogData = [
   {
     "id": 2150,
     "cat": 5,
-    "name": "フルボタン半袖シャツ（ネイビー（NV00））",
+    "name": "フルボタン半袖シャツ（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013770/",
     "checked": "2026-10-27",
@@ -10362,7 +10362,7 @@ const catalogData = [
   {
     "id": 2135,
     "cat": 5,
-    "name": "防風ストレッチパンツ（ベージュ（BG00））",
+    "name": "防風ストレッチパンツ（ベージュ・BG00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015214/",
     "checked": "2026-10-27",
@@ -10461,7 +10461,7 @@ const catalogData = [
   {
     "id": 2151,
     "cat": 5,
-    "name": "【ワイドシルエット】半袖シャツ（ネイビー（NV00））",
+    "name": "【ワイドシルエット】半袖シャツ（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW013733/",
     "checked": "2026-10-27",
@@ -10560,7 +10560,7 @@ const catalogData = [
   {
     "id": 2142,
     "cat": 5,
-    "name": "スカート（ホワイト（WH00））",
+    "name": "スカート（ホワイト・WH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014415/",
     "checked": "2026-10-27",
@@ -10659,7 +10659,7 @@ const catalogData = [
   {
     "id": 2132,
     "cat": 5,
-    "name": "中わたブルゾン（ピンク（PK00））",
+    "name": "中わたブルゾン（ピンク・PK00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014387/",
     "checked": "2026-10-27",
@@ -10758,7 +10758,7 @@ const catalogData = [
   {
     "id": 2152,
     "cat": 5,
-    "name": "ハーフジップシャツ（ホワイト（WH00））",
+    "name": "ハーフジップシャツ（ホワイト・WH00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW012915/",
     "checked": "2026-10-27",
@@ -10857,7 +10857,7 @@ const catalogData = [
   {
     "id": 2154,
     "cat": 5,
-    "name": "10年ポロシャツ（ネイビー（NV00））",
+    "name": "10年ポロシャツ（ネイビー・NV00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015330/",
     "checked": "2026-10-27",
@@ -10956,7 +10956,7 @@ const catalogData = [
   {
     "id": 2134,
     "cat": 5,
-    "name": "スウェットスカート（ベージュ（BG00））",
+    "name": "スウェットスカート（ベージュ・BG00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014487/",
     "checked": "2026-10-27",
@@ -11055,7 +11055,7 @@ const catalogData = [
   {
     "id": 2153,
     "cat": 5,
-    "name": "吸湿発熱スタンドカラー前開きミドラー（ピンク（PK00））",
+    "name": "吸湿発熱スタンドカラー前開きミドラー（ピンク・PK00）",
     "brand": "MUNSINGWEAR",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/M01871EW015277/",
     "checked": "2026-10-27",
@@ -11154,7 +11154,7 @@ const catalogData = [
   {
     "id": 2145,
     "cat": 5,
-    "name": "総柄スカート（ネイビー（NV00））",
+    "name": "総柄スカート（ネイビー・NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014426/",
     "checked": "2026-10-27",
@@ -11253,7 +11253,7 @@ const catalogData = [
   {
     "id": 2139,
     "cat": 5,
-    "name": "中わたスカート（グレー（GY00））",
+    "name": "中わたスカート（グレー・GY00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014478/",
     "checked": "2026-10-27",
