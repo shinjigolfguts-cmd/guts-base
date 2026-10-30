@@ -758,15 +758,15 @@ const catalogData = [
     "cat": 10,
     "name": "Approach Z30",
     "brand": "Garmin",
-    "source": "https://www.garmin.co.jp/news/pressroom/news2024-0620-garmin-approach-z30/",
-    "checked": "2026-10-22",
+    "source": "https://www.garmin.co.jp/products/intosports/approach-z30/",
+    "checked": "2026-10-31",
     "fact": "Garminのゴルフ用レーザー距離計。",
     "check": "対応ウォッチ・連携条件・競技での使用条件を確認",
-    "price": null,
-    "unit": "",
+    "price": 65800,
+    "unit": "本体1台",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "価格・料金は公式サイトで確認",
+    "priceNote": "2026年10月31日確認の公式掲載価格（税込・本体）。商品番号 010-02950-10。価格・販売状況は公式で最終確認。",
     "related": false,
     "note": "仕様・販売状況・利用条件は公式サイトで最終確認してください。",
     "for": "Garminのゴルフ用レーザー距離計。",
@@ -777,7 +777,8 @@ const catalogData = [
       "重量": "210g（メーカー仕様）",
       "電源": "CR2電池。稼働目安約1年間、使用頻度による",
       "防水等級": "IPX7",
-      "連携条件": "一部のグリーン距離表示には互換性のある機器とのペアリングが必要"
+      "連携条件": "一部のグリーン距離表示には互換性のある機器とのペアリングが必要",
+      "商品番号": "010-02950-10"
     },
     "recommendationReason": "レーザー距離計と対応Garmin機器の連携を確認したい人へ。",
     "recommendationRank": 18,
@@ -792,8 +793,8 @@ const catalogData = [
       "women": 17
     },
     "partialReview": {
-      "date": "2026-10-27",
-      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "date": "2026-10-31",
+      "scope": "現行公式製品ページの本体価格（税込）・商品番号と掲載済み主要仕様を照合。全販売条件・在庫は未確認。",
       "complete": false
     }
   },
@@ -4272,14 +4273,14 @@ const catalogData = [
     "brand": "Garmin",
     "name": "Approach G20 Solar",
     "source": "https://www.garmin.co.jp/products/intosports/approach-g20/",
-    "checked": "2026-10-22",
+    "checked": "2026-10-31",
     "fact": "GPSゴルフナビ",
     "check": "掲載仕様・サイズ・販売状況を公式サイトで確認",
-    "price": null,
-    "unit": "",
+    "price": 52800,
+    "unit": "本体1台",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "価格・仕様別の条件は公式サイトで確認",
+    "priceNote": "2026年10月31日確認の公式掲載価格（税込・本体）。商品番号 010-02889-10。価格・販売状況は公式で最終確認。",
     "related": false,
     "note": "仕様・対応機器・販売状況は公式サイトで最終確認してください。",
     "image": "assets/products/1235.jpg",
@@ -4294,7 +4295,8 @@ const catalogData = [
       "重量": "108g（メーカー仕様）",
       "画面方式": "高解像度モノクロ",
       "充電": "USB-C／ソーラー対応",
-      "電源条件": "内蔵バッテリーでGPS約180時間。ソーラーによる連続稼働の案内は直射日光75,000ルクスの条件付き"
+      "電源条件": "内蔵バッテリーでGPS約180時間。ソーラーによる連続稼働の案内は直射日光75,000ルクスの条件付き",
+      "商品番号": "010-02889-10"
     },
     "recommendationReason": "腕時計以外の画面で残り距離を見たい人へ。携帯型GPSナビの表示と持ち運び方を比較できます。",
     "recommendationRank": 97,
@@ -4308,8 +4310,8 @@ const catalogData = [
     },
     "for": "腕時計以外の画面で残り距離を見たい人へ。携帯型GPSナビの表示と持ち運び方を比較できます。",
     "partialReview": {
-      "date": "2026-10-27",
-      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "date": "2026-10-31",
+      "scope": "現行公式製品ページの本体価格（税込）・商品番号と掲載済み主要仕様を照合。全販売条件・在庫は未確認。",
       "complete": false
     }
   },
@@ -4319,14 +4321,14 @@ const catalogData = [
     "brand": "Garmin",
     "name": "Approach Z10",
     "source": "https://www.garmin.co.jp/products/intosports/approach-z10/",
-    "checked": "2026-10-22",
+    "checked": "2026-10-31",
     "fact": "レーザー距離計",
     "check": "掲載仕様・サイズ・販売状況を公式サイトで確認",
-    "price": null,
-    "unit": "",
+    "price": 47800,
+    "unit": "本体1台",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "価格・仕様別の条件は公式サイトで確認",
+    "priceNote": "2026年10月31日確認の公式掲載価格（税込・本体）。商品番号 010-04328-01。価格・販売状況は公式で最終確認。",
     "related": false,
     "note": "仕様・対応機器・販売状況は公式サイトで最終確認してください。",
     "image": "assets/products/1236.jpg",
@@ -4341,7 +4343,8 @@ const catalogData = [
       "重量": "178g（メーカー仕様）",
       "防水等級": "IPX4",
       "電源": "CR2電池、約1年間（使用頻度による）",
-      "連携条件": "レンジリレー等は互換機器とのペアリングが必要"
+      "連携条件": "レンジリレー等は互換機器とのペアリングが必要",
+      "商品番号": "010-04328-01"
     },
     "recommendationReason": "ピンまでの距離をその場で測りたい人へ。高低差表示や対応Garmin機器との連携を比較する候補です。",
     "recommendationRank": 98,
@@ -4355,8 +4358,8 @@ const catalogData = [
     },
     "for": "ピンまでの距離をその場で測りたい人へ。高低差表示や対応Garmin機器との連携を比較する候補です。",
     "partialReview": {
-      "date": "2026-10-27",
-      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "date": "2026-10-31",
+      "scope": "現行公式製品ページの本体価格（税込）・商品番号と掲載済み主要仕様を照合。全販売条件・在庫は未確認。",
       "complete": false
     }
   },
@@ -4568,14 +4571,14 @@ const catalogData = [
     "brand": "Garmin",
     "name": "Approach S50 Black",
     "source": "https://www.garmin.co.jp/products/intosports/approach-s50-black/",
-    "checked": "2026-10-22",
+    "checked": "2026-10-31",
     "fact": "GPSゴルフウォッチ",
-    "check": "掲載仕様・サイズ・販売状況を公式サイトで確認",
-    "price": null,
-    "unit": "",
+    "check": "コースレイアウト・タッチターゲッティング（3点間距離）・Green Contourは有料のGarmin Golf Membershipが必要。グリーン傾斜情報は対応コースも確認。",
+    "price": 67800,
+    "unit": "本体1台",
     "area": "",
     "purpose": "デザイン",
-    "priceNote": "価格・仕様別の条件は公式サイトで確認",
+    "priceNote": "2026年10月31日確認の公式掲載価格（税込・本体）。商品番号 010-03010-20。価格・販売状況は公式で最終確認。 Blackモデル。Garmin Golf Membershipの有料機能は別途契約が必要。",
     "related": false,
     "note": "仕様・対応機器・販売状況は公式サイトで最終確認してください。",
     "image": "assets/products/1242.png",
@@ -4588,7 +4591,8 @@ const catalogData = [
       "画面": "AMOLED",
       "カラー": "Black",
       "電源条件": "GPSモード約15時間／スマートウォッチモード約10日間。表示設定・使用条件で変動",
-      "画面サイズ": "直径1.2インチ（30.4mm）"
+      "画面サイズ": "直径1.2インチ（30.4mm）",
+      "商品番号": "010-03010-20"
     },
     "recommendationReason": "手元で距離を確認したい人へ。AMOLED画面の見やすさと腕への収まりを確かめたい候補です。",
     "recommendationRank": 104,
@@ -4602,8 +4606,8 @@ const catalogData = [
     },
     "for": "手元で距離を確認したい人へ。AMOLED画面の見やすさと腕への収まりを確かめたい候補です。",
     "partialReview": {
-      "date": "2026-10-27",
-      "scope": "新規取得した公式画像と保存画像を目視比較。一致／公式本文の対象仕様・掲載条件を照合",
+      "date": "2026-10-31",
+      "scope": "現行公式製品ページの本体価格（税込）・商品番号と掲載済み主要仕様を照合。全販売条件・在庫は未確認。",
       "complete": false
     }
   },
