@@ -76,6 +76,10 @@ const fallbackIds=[...app.matchAll(/^\s*(\d+):\{number:/gm)].map(m=>Number(m[1])
 check(JSON.stringify(fallbackIds)===JSON.stringify([1017,1194,1202,1203]),'Facility phone fallback ID set');
 check(app.includes('公式サイトが開かない場合は、営業・料金・予約についてお電話でご確認ください。'),'Facility fallback guidance');
 check(read('index.html').includes('data-site="town"'),'Analytics site ID');
+check(read('index.html').includes('<dialog id="modal" aria-modal="true">'),'Modal semantics');
+check(app.includes("dialog.setAttribute('aria-labelledby','modalTitle')"),'Modal accessible name');
+check(app.includes("modalReturnFocus=document.activeElement"),'Modal opening focus capture');
+check(app.includes("target instanceof HTMLElement&&target.isConnected)target.focus()"),'Modal closing focus restoration');
 // Execute the origin/path guard rather than matching one implementation string.
 // DNT stops execution after admission, so these checks never send analytics.
 const tracker=read('guts-analytics.js');

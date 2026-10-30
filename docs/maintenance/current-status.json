@@ -16,7 +16,8 @@
     "accessibility_static_guards",
     "official_discrepancy_safe_wording",
     "unstable_facility_phone_fallback",
-    "post_deploy_live_integrity_check"
+    "post_deploy_live_integrity_check",
+    "modal_keyboard_focus_management"
   ],
   "externalWait": [
     "search_console_sitemap_processing",
