@@ -2,18 +2,25 @@
  'use strict';
  const script=document.currentScript,site=script&&script.dataset.site;
  const origins={town:'https://golf-edit-guts.nutmegcoin18.chatgpt.site',kanto:'https://guts-kanto-golf-guide.nutmegcoin18.chatgpt.site',japan:'https://guts-japan-golf-guide.nutmegcoin18.chatgpt.site'};
- const githubTown=site==='town'&&location.origin==='https://shinjigolfguts-cmd.github.io'&&location.pathname.startsWith('/guts-base/');
- if(!site||(!githubTown&&location.origin!==origins[site])||window.__gutsAnalyticsLoaded)return;
+ const aliases={town:[origins.town,'https://golf-edit-guts.golfguts0702.chatgpt.site'],kanto:[origins.kanto,'https://guts-kanto-golf-guide.golfguts0702.chatgpt.site'],japan:[origins.japan,'https://guts-japan-golf-guide.golfguts0702.chatgpt.site']};
+ const githubPaths={town:'/guts-base/',kanto:'/golf-guts-kanto/',japan:'/golf-guts-japan/'};
+ const githubSite=!!site&&location.origin==='https://shinjigolfguts-cmd.github.io'&&location.pathname.startsWith(githubPaths[site]||'/invalid/');
+ if(!site||(!githubSite&&!aliases[site]?.includes(location.origin))||window.__gutsAnalyticsLoaded)return;
  window.__gutsAnalyticsLoaded=true;
  if(navigator.doNotTrack==='1'||navigator.globalPrivacyControl||new URLSearchParams(location.search).get('guts_qa')==='1')return;
  const pageId=crypto.randomUUID(),engagementId=crypto.randomUUID();
  let started=false,eventCount=0,lastTick=performance.now(),lastActive=lastTick,wasVisible=document.visibilityState==='visible',activeMs=0,maxScroll=0,searchTimer=null,lastSearch='';
  let referrer='';try{if(document.referrer)referrer=new URL(document.referrer).origin;}catch{}
+ const params=new URLSearchParams(location.search);
+ const source=params.get('utm_source')||'',content=params.get('utm_content')||'';
+ // Send only a fixed vocabulary; never transmit arbitrary query text or full URLs.
+ const utmSource=['instagram','line','official_hp','qr','facebook','x','email'].includes(source.toLowerCase())?source.toLowerCase():'';
+ const utmContent=['profile','story','post','message','broadcast','banner','shop','flyer','newsletter'].includes(content.toLowerCase())?content.toLowerCase():'';
  const ua=navigator.userAgent;
  const device=/iPad|Tablet/i.test(ua)||(/Macintosh/i.test(ua)&&navigator.maxTouchPoints>1)?'tablet':/Mobi|Android|iPhone/i.test(ua)?'mobile':'desktop';
  function transmit(route,payload,retry=true){
  const body=JSON.stringify(payload);
- const deliver=()=>fetch(origins.town+'/api/analytics/'+route,{method:'POST',mode:'cors',credentials:'omit',headers:{'Content-Type':'text/plain;charset=UTF-8'},body,keepalive:true}).then(r=>{if(!r.ok)throw Error('analytics');});
+ const deliver=()=>fetch('https://golf-edit-guts.golfguts0702.chatgpt.site'+'/api/analytics/'+route,{method:'POST',mode:'cors',credentials:'omit',headers:{'Content-Type':'text/plain;charset=UTF-8'},body,keepalive:true}).then(r=>{if(!r.ok)throw Error('analytics');});
  deliver().catch(()=>{if(retry)setTimeout(()=>deliver().catch(()=>{}),2500);});
  }
  function track(kind,label){if(!started||document.visibilityState!=='visible'||eventCount>=300)return;label=String(label||'').trim().slice(0,160);if(!label)return;eventCount++;transmit('insight',{id:crypto.randomUUID(),pageId,site,kind,label});}
@@ -22,7 +29,7 @@
  function tick(){const now=performance.now();if(wasVisible)activeMs+=Math.max(0,Math.min(now,lastActive+60000)-lastTick);lastTick=now;wasVisible=document.visibilityState==='visible';}
  function scrollDepth(){if(document.visibilityState!=='visible')return;const height=Math.max(document.documentElement.scrollHeight,document.body.scrollHeight);maxScroll=Math.max(maxScroll,Math.min(100,Math.round(((window.scrollY+window.innerHeight)/Math.max(height,1))*100)));}
  function engagement(retry=true){if(!started)return;tick();scrollDepth();transmit('insight',{id:engagementId,pageId,site,kind:'engagement',seconds:Math.min(14400,Math.floor(activeMs/1000)),scroll:maxScroll},retry);}
- function begin(){if(started||document.visibilityState!=='visible')return;started=true;lastTick=performance.now();lastActive=lastTick;wasVisible=true;transmit('collect',{id:pageId,site,path:location.pathname,referrer,device});engagement();}
+ function begin(){if(started||document.visibilityState!=='visible')return;started=true;lastTick=performance.now();lastActive=lastTick;wasVisible=true;transmit('collect',{id:pageId,site,path:location.pathname,referrer,device,utmSource,utmContent});engagement();}
  function item(id){const list=site==='town'?(typeof catalogData!=='undefined'?catalogData:[]):(typeof DATA!=='undefined'?DATA.courses:[]);return list.find(x=>String(x.id)===String(id));}
  function entryItem(element){const entry=element.closest('.entry');return entry?item(entry.querySelector('.save')?.dataset.id):null;}
  function modalItem(){const title=document.querySelector('#modalBody h2')?.textContent;return typeof catalogData!=='undefined'?catalogData.find(x=>x.name===title):null;}
