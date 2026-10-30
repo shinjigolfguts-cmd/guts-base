@@ -9,7 +9,7 @@
 Sites総合サイトの検証済みソースを基準とし、scripts/export-github.mjsで上記URLへ書き出す。GitHubの変更を無条件に上書きしない。価格や順位を無根拠に自動変更しない。
 
 ## 検証
-2026-10-30時点で scripts/check-static.mjs が成功。242件のID・名称・画像チェックサム、男女別カテゴリ件数、施設予算解除、学校先頭、SEO・サイトマップ・内部参照、重複ID・画像代替テキスト・外部リンク保護属性を確認。GitHub Actions のカタログ検査と Pages 公開も成功。画像の全件目視や当日の全商品の在庫確認を意味しない。
+2026-10-30時点で scripts/check-static.mjs が成功。242件のID・名称・画像チェックサム、男女別カテゴリ件数、施設予算解除、学校先頭、SEO・サイトマップ・内部参照、重複ID・画像代替テキスト・外部リンク保護属性を確認。GitHub Actions のカタログ検査、Pages 公開、公開内容のバイト照合も成功。画像の全件目視や当日の全商品の在庫確認を意味しない。
 
 ## 現在の状態
 実装・公開・主要操作の確認は完了。現在の完了項目、外部処理待ち、継続点検は [公開状態（2026-10-30）](docs/maintenance/release-status-2026-10-30.md) に集約する。自動処理では [current-status.json](docs/maintenance/current-status.json) を参照する。

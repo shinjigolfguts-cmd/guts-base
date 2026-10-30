@@ -15,7 +15,8 @@
     "seo_files_and_metadata",
     "accessibility_static_guards",
     "official_discrepancy_safe_wording",
-    "unstable_facility_phone_fallback"
+    "unstable_facility_phone_fallback",
+    "post_deploy_live_integrity_check"
   ],
   "externalWait": [
     "search_console_sitemap_processing",
@@ -31,5 +32,10 @@
     "browserVisibleAutomationLimited": 7,
     "facilityFetchUnstableWithPhoneFallback": 4
   },
-  "protectedDiscrepancyIds": [2017, 2119, 2037, 2140]
+  "protectedDiscrepancyIds": [
+    2017,
+    2119,
+    2037,
+    2140
+  ]
 }

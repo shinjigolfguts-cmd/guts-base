@@ -23,3 +23,33 @@ jobs:
           node --check app.js
           node --check selection.js
           node --check guts-analytics.js
+  live:
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    needs: check
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Wait for Pages and verify published files
+        shell: bash
+        run: |
+          for attempt in {1..12}; do
+            if python3 scripts/check-live.py --output "$RUNNER_TEMP/guts-live-report.json"; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 12 ]; then
+              sleep 15
+            fi
+          done
+          exit 1
+      - name: Save live release report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-release-report-${{ github.sha }}
+          path: ${{ runner.temp }}/guts-live-report.json
+          if-no-files-found: error
+          retention-days: 14
