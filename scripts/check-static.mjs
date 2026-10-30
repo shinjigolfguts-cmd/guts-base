@@ -11,6 +11,12 @@ const ctx=vm.createContext({});
 vm.runInContext(read('catalog.js')+'\n'+read('selection.js')+'\nthis.data=catalogData;',ctx,{timeout:1000});
 const data=ctx.data, cats=[1,2,3,4,5,10,8,6,7];
 check(new Set(data.map(x=>x.id)).size===data.length,'Duplicate catalog ID');
+check(!read('catalog.js').includes('Warning: truncated output'),'Catalog file contains a truncated-output marker');
+check(new Set(data.map(x=>x.name)).size===data.length,'Duplicate catalog name');
+for(const item of data){
+ check(item.name===item.name.trim()&&!item.name.includes('  '),'Catalog name whitespace '+item.id);
+ check(!/（[^（）]+（[A-Z0-9]+））/.test(item.name),'Nested color label '+item.id);
+}
 const counts={};
 for(const audience of ['men','women']){
  counts[audience]={};
