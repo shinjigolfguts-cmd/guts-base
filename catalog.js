@@ -5941,7 +5941,7 @@ const catalogData = [
   {
     "id": 2119,
     "cat": 5,
-    "name": "ワンピースレインウェア（BL00）",
+    "name": "ワンピースレインウェア（ブルー・BL00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW014458/",
     "checked": "2026-10-27",

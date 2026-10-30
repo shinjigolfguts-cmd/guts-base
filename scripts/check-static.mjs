@@ -17,6 +17,11 @@ for(const item of data){
  check(item.name===item.name.trim()&&!item.name.includes('  '),'Catalog name whitespace '+item.id);
  check(!/（[^（）]+（[A-Z0-9]+））/.test(item.name),'Nested color label '+item.id);
 }
+const disputed=Object.fromEntries([2017,2119,2037,2140].map(id=>[id,data.find(item=>item.id===id)]));
+check(disputed[2017]?.name.includes('ショートパンツ')&&disputed[2017]?.check.includes('商品名と異なる丈'),'ID2017 discrepancy guidance');
+check(!/20,000|30,000|g\/(?:mm|24h)/i.test([disputed[2119]?.fact,disputed[2119]?.for,disputed[2119]?.recommendationReason].join(' ')),'ID2119 disputed performance value');
+check(!/UPF\d/i.test([disputed[2037]?.fact,disputed[2037]?.for,disputed[2037]?.recommendationReason].join(' '))&&disputed[2037]?.check.includes('UPF値は掲載していません'),'ID2037 disputed UPF value');
+check(!disputed[2140]?.fact.includes('膝が隠れる')&&disputed[2140]?.check.includes('身長やサイズ'),'ID2140 length guidance');
 const counts={};
 for(const audience of ['men','women']){
  counts[audience]={};
