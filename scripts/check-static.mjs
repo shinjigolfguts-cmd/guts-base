@@ -59,6 +59,10 @@ for(const file of htmlFiles){
   check(target.startsWith(root+path.sep)&&fs.existsSync(target),'Broken local reference '+file+': '+ref);refs++;
  }
 }
+const app=read('app.js');
+const fallbackIds=[...app.matchAll(/^\s*(\d+):\{number:/gm)].map(m=>Number(m[1])).sort((a,b)=>a-b);
+check(JSON.stringify(fallbackIds)===JSON.stringify([1017,1194,1202,1203]),'Facility phone fallback ID set');
+check(app.includes('公式サイトが開かない場合は、営業・料金・予約についてお電話でご確認ください。'),'Facility fallback guidance');
 check(read('index.html').includes('data-site="town"'),'Analytics site ID');
 // Execute the origin/path guard rather than matching one implementation string.
 // DNT stops execution after admission, so these checks never send analytics.
