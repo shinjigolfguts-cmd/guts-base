@@ -67,3 +67,18 @@ test('S50 price qualification does not imply premium membership is bundled',()=>
  assert.match(s50.priceNote,/Membership.*別途契約/);
  for(const feature of ['コースレイアウト','タッチターゲッティング','Green Contour'])assert.ok(s50.check.includes(feature));
 });
+
+test('all four static search-landing cards match catalog price, date, note and official URL',()=>{
+ const html=read('categories/accessories.html');
+ const cards=[...html.matchAll(/<article class="discoveryCard">[\s\S]*?<\/article>/g)].map(m=>m[0]);
+ const escape=value=>String(value).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+ for(const id of auditedIds){
+  const item=items.find(d=>d.id===id),matches=cards.filter(card=>card.includes('&amp;item='+id+'"'));
+  assert.equal(matches.length,1,'Unique static card '+id);
+  const card=matches[0];
+  assert.ok(card.includes('<p class="discoveryPrice">¥'+item.price.toLocaleString('en-US')+' / '+escape(item.unit)+'</p>'),'Price '+id);
+  assert.ok(card.includes('<p>'+escape(item.priceNote)+'</p>'),'Price qualification '+id);
+  assert.ok(card.includes('情報確認日：'+item.checked),'Date '+id);
+  assert.ok(card.includes('class="discoveryOfficial" href="'+escape(item.source)+'"'),'Source '+id);
+ }
+});
