@@ -60,6 +60,12 @@ $('#modal').addEventListener('close',()=>{
  const target=modalReturnFocus;
  modalReturnFocus=null;
  if(target instanceof HTMLElement&&target.isConnected)target.focus();
+ else if(target instanceof HTMLElement&&target.dataset.detail){
+  const candidates=[...document.querySelectorAll('button[data-detail]')]
+   .filter(button=>button.dataset.detail===target.dataset.detail);
+  const replacement=candidates.find(button=>button.className===target.className)||candidates[0];
+  replacement?.focus();
+ }
 });
 $('#modal').onclick=e=>{if(e.target===$('#modal')){const r=$('#modal').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)closeModal()}};
 function detail(id){const d=data.find(item=>item.id===id);modal(`<p class="eyebrow">${escape(d.brand)} / ${cats[d.cat]}</p><h2>${escape(d.name)}</h2><div class="detail"><div><div class="productVisual">${productImage(d)}</div><p class="sourceMeta">${d.image?`画像出典：<a data-insight-item="${d.id}" href="${d.source}" target="_blank" rel="noopener noreferrer">${escape(d.brand)} 公式サイト ↗</a><br>掲載色・仕様は写真の一例です。`:'図はカテゴリイメージです。実物写真は公式サイトでご確認ください。'}</p></div><div><h3>${priceText(d)}</h3><p>${d.priceNote}</p><dl><dt>${d.cat>=6&&d.cat<=8?'施設の選び方':'掲載モデル'}</dt><dd>${d.cat>=6&&d.cat<=8?'利用条件・料金総額・アクセスを確認して選べます。':escape(d.audienceNote)}</dd><dt>おすすめする理由（編集部）</dt><dd>${escape(d.recommendationReason)}</dd><dt>おすすめ見直し日</dt><dd>${d.recommendationReviewed}</dd><dt>公式情報の要約</dt><dd>${d.fact}</dd><dt>選ぶときの確認ポイント（編集部）</dt><dd>${d.check}</dd>${Object.entries(d.specs||{}).map(([k,v])=>`<dt>${escape(k)}</dt><dd>${escape(v)}</dd>`).join('')}<dt>エリア</dt><dd>${d.area||'商品'}</dd>${(d.additionalSources||[]).length?`<dt>料金の出典</dt><dd>${d.additionalSources.map(u=>`<a data-insight-item="${d.id}" href="${u}" target="_blank" rel="noopener noreferrer">公式料金表 ↗</a>`).join(" / ")}</dd>`:""}<dt>情報確認日</dt><dd>${d.checked}</dd></dl></div></div><p>${d.note} 在庫・空き枠はリアルタイム連携していません。</p>${facilityContactHtml(d.id)}<a class="primary externalCta" data-insight-item="${d.id}" href="${d.cat>=6&&d.cat<=8&&(d.additionalSources||[]).length?d.additionalSources[0]:d.source}" target="_blank" rel="noopener noreferrer">公式サイトで${d.cat>=6&&d.cat<=8?'料金・利用条件':'仕様・購入条件'}を確認 ↗</a> <button class="primary" id="detailCompare">比較候補に${compare.includes(id)?'追加済み':'追加する'}</button><p class="sourceMeta">出典：<a data-insight-item="${d.id}" href="${d.source}" target="_blank" rel="noopener noreferrer">${new URL(d.source).hostname}</a></p>`);$('#detailCompare').onclick=()=>{toggleCompare(id);$('#modal').close()}}

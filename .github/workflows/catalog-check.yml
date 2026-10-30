@@ -23,6 +23,8 @@ jobs:
           node-version: '22'
       - name: Check catalog counts, image hashes, links and tracking configuration
         run: node scripts/check-static.mjs
+      - name: Test modal keyboard focus restoration
+        run: node --test scripts/test-modal-focus.mjs
       - name: Check JavaScript syntax
         run: |
           node --check catalog.js
