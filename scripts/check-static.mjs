@@ -54,6 +54,13 @@ const htmlFiles=['index.html','404.html',...fs.readdirSync(path.join(root,'categ
 let refs=0;
 for(const file of htmlFiles){
  const html=read(file);
+ const ids=[...html.matchAll(/\sid=["']([^"']+)["']/g)].map(m=>m[1]);
+ check(new Set(ids).size===ids.length,'Duplicate HTML id '+file);
+ for(const tag of html.matchAll(/<img\b[^>]*>/gi))check(/\salt=["'][^"']*["']/i.test(tag[0]),'Image without alt '+file);
+ for(const tag of html.matchAll(/<a\b[^>]*>/gi)){
+  check(/\shref=["'][^"']+["']/i.test(tag[0]),'Link without href '+file);
+  if(/\starget=["']_blank["']/i.test(tag[0]))check(/\srel=["'][^"']*noopener[^"']*noreferrer[^"']*["']/i.test(tag[0]),'External link rel '+file);
+ }
  for(const m of html.matchAll(/(?:src|href)=["']([^"']+)["']/g)){
   const ref=m[1];
   if(/^(https?:|data:|mailto:|tel:|#)/.test(ref))continue;
