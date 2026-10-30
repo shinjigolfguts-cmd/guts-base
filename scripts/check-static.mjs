@@ -137,7 +137,15 @@ try{
  check(status.officialLinkStatus?.browserVisibleAutomationLimited===7,'Current status browser-visible link count');
  check(status.officialLinkStatus?.facilityFetchUnstableWithPhoneFallback===fallbackIds.length,'Current status facility fallback count');
  check(Array.isArray(status.completed)&&status.completed.includes('production_publish'),'Current status completed work');
- check(Array.isArray(status.externalWait)&&status.externalWait.includes('search_console_sitemap_processing'),'Current status external wait');
+ check(Array.isArray(status.externalWait),'Current status external wait list');
+ const search=status.searchVerification;
+ check(!!search&&typeof search.searchConsole?.status==='string','Search Console verification status');
+ if(search?.searchConsole?.status==='unverified_authentication_required'){
+  check(['search_console_sitemap_status','search_console_url_index_status'].every(key=>status.requiresAuthenticatedAccess?.includes(key)),'Search Console authentication requirements');
+  check(!status.externalWait?.some(key=>['search_console_sitemap_processing','search_index_registration'].includes(key)),'Unverified search status must not be reported as processing');
+  check(search.googleIndexing?.status==='unverified','Google indexing remains unverified');
+ }
+ check(search?.publicSitemap?.urlCount===indexable.length,'Verified sitemap page count');
  check(Array.isArray(status.recurringChecks)&&status.recurringChecks.includes('weekly_price_and_stock_review'),'Current status recurring checks');
 }catch(error){failures.push('Invalid current status: '+error.message)}
 const result={passed:failures.length===0,records:data.length,counts,imagesChecked:data.length,htmlPages:htmlFiles.length,localReferences:refs,searchPagesChecked:indexable.length,ownershipFileChecked:true,failures,limitations:'Does not verify live stock, price accuracy, image model/color visually, browser behavior or analytics receipt.'};
