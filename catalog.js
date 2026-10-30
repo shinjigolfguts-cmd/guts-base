@@ -6913,7 +6913,7 @@ const catalogData = [
   {
     "id": 2126,
     "cat": 5,
-    "name": "レインウェア（ワンピース）（(NV00)（NV00））",
+    "name": "レインウェア（ワンピース）（NV00）",
     "brand": "le coq sportif golf",
     "source": "https://store.descente.co.jp/commodity/SDSC0140D/LE1872EW008727/",
     "checked": "2026-10-27",
@@ -6934,7 +6934,7 @@ const catalogData = [
       "種類": "ワンピース",
       "メーカー品番": "QGWXJF00W",
       "掲載商品コード": "LE1872EW008727",
-      "カラー": "(NV00)（NV00）",
+      "カラー": "NV00",
       "掲載サイズ": "S / M / L / LL"
     },
     "recommendationReason": "雨の日のワンピース型を探す人へ。袖を取り外せ、フードを襟に収納できるレインウェア。",
