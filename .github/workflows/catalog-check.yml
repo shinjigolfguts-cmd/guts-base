@@ -29,6 +29,8 @@ jobs:
         run: node --test scripts/test-modal-focus.mjs
       - name: Test catalog price filters and sort consistency offline
         run: node --test scripts/test-catalog-prices.mjs
+      - name: Test favorites guidance and saved-state feedback offline
+        run: node --test scripts/test-favorites-ui.mjs
       - name: Check JavaScript syntax
         run: |
           node --check catalog.js
