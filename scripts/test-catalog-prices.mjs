@@ -8,6 +8,36 @@ const catalog=read('catalog.js'),selection=read('selection.js'),app=read('app.js
 const ctx=vm.createContext({});
 vm.runInContext(catalog+'\nthis.items=catalogData;',ctx);
 const items=ctx.items;
+test('school unlimited-plan conditions preserve daily slot and daytime limits',()=>{
+ const item=items.find(d=>d.id===1045);
+ const condition=item.specs['通い放題の条件'];
+ assert.match(condition,/2か月/);
+ assert.match(condition,/1日最大1枠/);
+ assert.match(condition,/オールタイムは営業時間内/);
+ assert.match(condition,/デイタイムは平日9:00〜17:00/);
+ assert.match(item.priceNote,/通い放題は1日最大1枠/);
+ assert.ok(item.additionalSources.includes('https://chicken-golf.com/price/'));
+});
+test('school qualification does not invent a comparable price or refresh all-field verification',()=>{
+ const item=items.find(d=>d.id===1045);
+ assert.equal(item.price,null);
+ assert.equal(item.unit,'');
+ assert.equal(item.checked,'2026-10-22');
+ assert.equal(item.partialReview.complete,false);
+ assert.equal(item.specs['形式'],'50分のセミパーソナルレッスン');
+ assert.equal(item.specs['営業'],'7:00〜23:00');
+ assert.match(item.specs['料金の注意'],/入会金・プラン総額・支払回数/);
+});
+test('school static card includes the same plan qualification and preserves unknown price',()=>{
+ const item=items.find(d=>d.id===1045);
+ const cards=read('categories/schools.html').match(/<article\b[\s\S]*?<\/article>/g)||[];
+ const card=cards.find(s=>s.includes('item=1045"'));
+ assert.ok(card);
+ assert.ok(card.includes(item.priceNote));
+ assert.ok(card.includes('料金条件は詳細へ'));
+ assert.ok(card.includes('情報確認日：'+item.checked));
+ assert.ok(card.includes(item.recommendationReason));
+});
 const garminBodyIds=[1021,1235,1236,1242];
 const auditedIds=[...garminBodyIds,1022,1023,1237];
 // Exercise the filter and ordering code actually used by render(), not a copied
