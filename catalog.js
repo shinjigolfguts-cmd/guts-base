@@ -225,7 +225,7 @@ const catalogData = [
     "brand": "ロッテ葛西ゴルフ",
     "source": "https://www.lottekasaigolf.com/facilities/",
     "checked": "2026-10-30",
-    "fact": "250ヤード・300打席の練習場。公式案内は24時間営業。",
+    "fact": "250ヤード・300打席の練習場。24時間営業の案内がありますが、4:30〜5:30は打席休止、2・3階は営業時間が異なります。",
     "check": "時間帯別の料金・打席・営業情報を確認",
     "price": null,
     "unit": "",
@@ -234,7 +234,7 @@ const catalogData = [
     "priceNote": "価格・料金は公式サイトで確認",
     "related": false,
     "note": "仕様・営業状況・利用条件は公式サイトで最終確認してください。",
-    "for": "250ヤード・300打席の練習場。公式案内は24時間営業。",
+    "for": "250ヤード・300打席の練習場。24時間営業の案内がありますが、4:30〜5:30は打席休止、2・3階は営業時間が異なります。",
     "specs": {
       "距離": "250ヤード",
       "打席数": "300打席",
@@ -243,12 +243,14 @@ const catalogData = [
       "設備": "全打席トップトレーサー・レンジ。バンカー2打席、パター練習場あり",
       "一般球貸し": "1F平日21円／土日祝26円（1球・税込）。2F/3Fは別単価",
       "追加費用": "打席550円。19:00〜翌4:30はナイター330円追加（税込）",
-      "打ち放題": "3階限定90分。ビジター平日日中3,800円（税込）。時間帯・曜日で異なる"
+      "打ち放題": "3階限定90分。ビジター平日日中3,800円（税込）。時間帯・曜日で異なる",
+      "営業時間の注意": "毎日4:30〜5:30は集球・システムメンテナンスのため打席休止。パター練習場は24時間利用できます。",
+      "階別の営業時間": "1階は全日5:30〜翌4:30。2階は曜日別、3階は全日8:00〜23:00（最終受付22:00）。2階の営業時間・最終受付と3階平日打ち放題の終了条件は公式案内で確認。"
     },
     "image": "assets/products/1027.jpg",
     "imageSource": "https://www.lottekasaigolf.com/lkg_cms/wp-content/themes/lkg/img/second/facilities/img_seats_2.jpg?v=240208",
     "imageLabel": "公式施設写真",
-    "recommendationReason": "江戸川区周辺で屋外の練習環境を探している人へ。",
+    "recommendationReason": "江戸川区周辺で屋外の練習環境を探している人へ。打席は4:30〜5:30休止、階別の営業時間を確認してください。",
     "recommendationRank": 6,
     "recommendationReviewed": "2026-10-30",
     "imageVerified": "2026-10-27",
@@ -261,8 +263,8 @@ const catalogData = [
       "women": 7
     },
     "partialReview": {
-      "date": "2026-10-27",
-      "scope": "公式本文に基づく設備/アクセス/利用条件の補足／新規公式画像と保存画像を目視照合、一致／公式料金表の一般/会員・球貸し/時間貸し条件を確認",
+      "date": "2026-10-31",
+      "scope": "公式施設・営業料金案内で打席休止時間と階別条件、掲載の料金例・設備を照合。最新の全営業変更・画像・予約枠は未確認",
       "complete": false
     },
     "additionalSources": [
@@ -1323,7 +1325,7 @@ const catalogData = [
     "unit": "",
     "area": "",
     "purpose": "性能を比較",
-    "priceNote": "価格・販売状況は公式サイトで確認",
+    "priceNote": "リンク先は5本組（No.6～9、PW）・22 MFUSION iカーボンシャフト付。会員限定の割引価格があるため、購入条件・選択シャフト・販売状況を公式サイトで確認。",
     "related": false,
     "note": "適性や使用感には個人差があります。試打・試着と公式情報で最終確認してください。",
     "for": "アイアンの飛距離と高さの両方を確認したい人の比較候補。",
@@ -1332,7 +1334,7 @@ const catalogData = [
     "imageSource": "https://mizunogolf.com/us/wp-content/themes/mizunotheme2015/images/jpx925/JPX925-HM-Slider-img1.jpg",
     "imageLabel": "公式商品写真",
     "specs": {
-      "掲載仕様": "JPX 925 HOT METAL アイアン"
+      "掲載仕様": "JPX 925 HOT METAL アイアン 5本組（No.6～9、PW）／22 MFUSION i カーボンシャフト付（品番 5KJBS38205）"
     },
     "recommendationRank": 31,
     "recommendationReviewed": "2026-10-22",
@@ -1344,6 +1346,11 @@ const catalogData = [
     "recommendationRanks": {
       "men": 32,
       "women": 26
+    },
+    "partialReview": {
+      "date": "2026-10-31",
+      "scope": "公式リンク先の品番・5本セット・シャフト・会員価格条件を照合。一般購入価格・全仕様の在庫は未確認",
+      "complete": false
     }
   },
   {
