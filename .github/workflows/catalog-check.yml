@@ -31,6 +31,8 @@ jobs:
         run: node --test scripts/test-catalog-prices.mjs
       - name: Test static discovery cards against catalog offline
         run: python3 -m unittest discover -s tests -p test_discovery_consistency.py
+      - name: Test category and comparison keyboard focus offline
+        run: node --test scripts/test-render-control-focus.mjs
       - name: Test favorites guidance and saved-state feedback offline
         run: node --test scripts/test-favorites-ui.mjs
       - name: Check JavaScript syntax
