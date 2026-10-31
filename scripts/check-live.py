@@ -17,7 +17,7 @@ catalog = json.loads(subprocess.check_output(["node", "-e",
 pages = ["index.html"] + sorted(str(p.relative_to(ROOT)) for p in (ROOT/"categories").glob("*.html"))
 assets = sorted({x["image"].removeprefix("./") for x in catalog})
 runtime = [p.name for p in ROOT.iterdir() if p.is_file() and p.suffix in (".js", ".css")]
-paths = sorted(set(pages + assets + runtime + ["sitemap.xml", "google14f186523eca69b6.html"]))
+paths = sorted(set(pages + assets + runtime + ["sitemap.xml", "sitemap-v2.xml", "robots.txt", "404.html", "google14f186523eca69b6.html"]))
 def audit(relative):
     url = BASE + ("" if relative == "index.html" else relative)
     result = {"path": relative, "url": url}
@@ -34,7 +34,7 @@ def audit(relative):
             if body != expected: issues.append("Published bytes differ from checkout (possibly deployment/cache lag)")
             if relative.endswith(".html") and "text/html" not in result["contentType"]: issues.append("HTML content type")
             if relative in assets and not result["contentType"].startswith("image/"): issues.append("Image content type")
-            if relative == "sitemap.xml":
+            if relative in ("sitemap.xml", "sitemap-v2.xml"):
                 root = ET.fromstring(body)
                 locations = [x.text for x in root.findall("{http://www.sitemaps.org/schemas/sitemap/0.9}url/{http://www.sitemaps.org/schemas/sitemap/0.9}loc")]
                 expected_urls = {BASE + ("" if x == "index.html" else x) for x in pages}
