@@ -114,3 +114,91 @@ for(const type of ['category','compare'])test(type+': missing replacement never 
  const h=harness({omitReplacement:true});assert.doesNotThrow(()=>h.activate(type==='category'?h.category('sideCategories',1):h.compare(1022)));
  assert.equal(h.document.activeElement,h.body);
 });
+
+// Clearing controls disappear rather than receiving replacement nodes. Execute
+// the actual bindings and existing focus helper, with stable input/list targets.
+const chipStart=app.indexOf("document.querySelectorAll('.resetChip')");
+const chipEnd=app.indexOf(";$('#grid')",chipStart);
+assert.ok(chipStart>=0&&chipEnd>chipStart);
+const chipBinding=app.slice(chipStart,chipEnd+1);
+const clearStart=app.indexOf("$('#clearCompare').onclick=");
+const clearEnd=app.indexOf('\nfunction showCompare(',clearStart);
+assert.ok(clearStart>=0&&clearEnd>clearStart);
+const clearBinding=app.slice(clearStart,clearEnd).trimEnd().slice(0,-1)+';';
+const originalChipBinding="document.querySelectorAll('.resetChip').forEach(b=>b.onclick=()=>{$('#'+b.dataset.clear).value='';render()});";
+const originalClearBinding="$('#clearCompare').onclick=()=>{compare=[];render()};";
+const filterIds=['search','purpose','budget','area','apparelType','apparelBrand'];
+function clearHarness({original=false,missingTarget=false}={}){
+ const body={tagName:'BODY'},other={id:'stable-control'};
+ let chips=[],clearButton,ctx,renders=0;
+ const document={activeElement:body,querySelectorAll(selector){
+  assert.equal(selector,'.resetChip');return chips;
+ },querySelector(selector){return missingTarget?null:fields[selector.slice(1)]||null;}};
+ const fields=Object.fromEntries([...filterIds,'resultTitle'].map(id=>[id,{id,value:'selected-'+id,focusCalls:[],focus(options){
+  this.focusCalls.push(options);document.activeElement=this;
+ }}]));
+ function build(){
+  for(const old of [...chips,clearButton].filter(Boolean)){
+   if(document.activeElement===old)document.activeElement=body;
+  }
+  chips=filterIds.filter(id=>fields[id].value).map(id=>({dataset:{clear:id}}));
+  clearButton={id:'clearCompare'};
+ }
+ const sandbox={document,compare:[1022,1023],$:selector=>selector==='#clearCompare'?clearButton:fields[selector.slice(1)],
+  render(){renders++;build();bind();}};
+ const code=(original?originalChipBinding:chipBinding)+'\n'+(original?originalClearBinding:clearBinding);
+ function bind(){vm.runInContext(code,ctx);}
+ build();ctx=vm.createContext(sandbox);vm.runInContext(helper,ctx);bind();
+ return {document,body,other,fields,get renders(){return renders;},get compared(){return [...sandbox.compare];},
+  get clearButton(){return clearButton;},chip:id=>chips.find(b=>b.dataset.clear===id),
+  activate(button,{focused=true}={}){if(focused)document.activeElement=button;button.onclick({currentTarget:button});},
+  reselect(id){fields[id].value='selected-'+id;sandbox.render();},
+  refillComparison(){sandbox.compare=[1237];sandbox.render();}
+ };
+}
+for(const type of ['chip','clearCompare'])test('negative control: old '+type+' clear binding loses removed control focus',()=>{
+ const h=clearHarness({original:true});h.activate(type==='chip'?h.chip('search'):h.clearButton);
+ assert.equal(h.document.activeElement,h.body);
+});
+for(const id of filterIds)test('clearing '+id+' returns focus only to its original input',()=>{
+ const h=clearHarness();h.activate(h.chip(id));
+ assert.equal(h.fields[id].value,'');assert.equal(h.chip(id),undefined);
+ assert.equal(h.document.activeElement,h.fields[id]);assert.equal(h.fields[id].focusCalls.length,1);
+ assert.equal(h.fields[id].focusCalls[0].preventScroll,true);
+ for(const other of filterIds.filter(x=>x!==id)){
+  assert.equal(h.fields[other].value,'selected-'+other);assert.equal(h.fields[other].focusCalls.length,0);
+ }
+ assert.deepEqual(h.compared,[1022,1023]);assert.equal(h.renders,1);
+});
+test('repeated search-chip removal restores the same stable input',()=>{
+ const h=clearHarness();
+ for(let i=0;i<3;i++){h.activate(h.chip('search'));assert.equal(h.document.activeElement,h.fields.search);h.reselect('search');}
+ assert.equal(h.fields.search.focusCalls.length,3);
+});
+test('unfocused chip clear does not steal another control focus',()=>{
+ const h=clearHarness();h.document.activeElement=h.other;h.activate(h.chip('budget'),{focused:false});
+ assert.equal(h.document.activeElement,h.other);assert.equal(h.fields.budget.value,'');
+});
+test('comparison clear focuses the visible result heading, not the now hidden bar',()=>{
+ const h=clearHarness(),old=h.clearButton;h.activate(old);
+ assert.notEqual(h.clearButton,old);assert.deepEqual(h.compared,[]);
+ assert.equal(h.document.activeElement,h.fields.resultTitle);
+ assert.equal(h.fields.resultTitle.focusCalls[0].preventScroll,true);
+ for(const id of filterIds)assert.equal(h.fields[id].value,'selected-'+id);
+ const html=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
+ assert.match(html,/id="resultTitle" tabindex="-1"/);
+});
+test('repeated comparison refill and clear keeps the result heading target',()=>{
+ const h=clearHarness();
+ for(let i=0;i<3;i++){h.activate(h.clearButton);assert.deepEqual(h.compared,[]);h.refillComparison();}
+ assert.equal(h.fields.resultTitle.focusCalls.length,3);
+});
+test('unfocused comparison clear does not steal another control focus',()=>{
+ const h=clearHarness();h.document.activeElement=h.other;h.activate(h.clearButton,{focused:false});
+ assert.equal(h.document.activeElement,h.other);assert.deepEqual(h.compared,[]);
+});
+for(const type of ['chip','clearCompare'])test(type+': absent clear-focus target does not throw or focus unrelated controls',()=>{
+ const h=clearHarness({missingTarget:true});
+ assert.doesNotThrow(()=>h.activate(type==='chip'?h.chip('search'):h.clearButton));
+ assert.equal(h.document.activeElement,h.body);
+});
