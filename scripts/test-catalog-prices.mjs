@@ -105,3 +105,45 @@ test('CT10 compatibility requires a listed device and pairing, not a watch-only 
  assert.ok(item.check.includes('対応デバイス一覧'));
  assert.ok(item.specs['購入時の確認'].includes('ペアリング条件'));
 });
+
+test('qualified Mizuno set and variable range fees do not become generic budget prices',()=>{
+ for(const id of [1031,1027]){
+  const item=items.find(d=>d.id===id);
+  assert.equal(item.price,null);assert.equal(item.unit,'');
+  assert.ok(!renderSelection({budget:100000}).some(d=>d.id===id));
+ }
+ assert.equal(items.find(d=>d.id===1031).checked,'2026-10-22');
+ assert.equal(items.find(d=>d.id===1027).checked,'2026-10-30');
+});
+
+test('Mizuno linked set identifies five clubs and shaft without using a member-only discount as a general price',()=>{
+ const item=items.find(d=>d.id===1031);
+ for(const term of ['5本組','No.6～9、PW','22 MFUSION i','5KJBS38205'])assert.ok((item.specs['掲載仕様']||'').includes(term));
+ for(const term of ['5本組','22 MFUSION i','会員限定','購入条件','選択シャフト'])assert.ok(item.priceNote.includes(term));
+ assert.doesNotMatch(item.priceNote,/84,?700|121,?000/);
+ assert.equal(item.partialReview.complete,false);
+});
+
+test('Lotte 24-hour description includes daily range closure and distinct floor hours',()=>{
+ const item=items.find(d=>d.id===1027);
+ for(const field of ['fact','for','recommendationReason']){
+  assert.match(item[field],/4:30〜5:30/);assert.match(item[field],/休止/);
+ }
+ assert.match(item.specs['営業時間の注意']||'',/打席休止.*パター練習場は24時間/);
+ assert.match(item.specs['階別の営業時間']||'',/1階.*5:30〜翌4:30.*2階は曜日別.*3階.*8:00〜23:00/);
+ assert.match(item.specs['一般球貸し'],/21円.*26円/);
+ assert.match(item.specs['追加費用'],/550円.*330円/);
+ assert.match(item.specs['打ち放題'],/3階.*90分.*ビジター.*3,800円/);
+});
+
+test('Mizuno and Lotte qualified notes stay synchronized in crawlable static cards',()=>{
+ const escape=value=>String(value).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+ for(const [id,page] of [[1031,'clubs'],[1027,'ranges']]){
+  const item=items.find(d=>d.id===id);
+  const cards=[...read('categories/'+page+'.html').matchAll(/<article class="discoveryCard">[\s\S]*?<\/article>/g)].map(m=>m[0]);
+  const matches=cards.filter(card=>card.includes('&amp;item='+id+'"'));assert.equal(matches.length,1);
+  for(const field of ['priceNote','recommendationReason'])assert.ok(matches[0].includes('<p>'+escape(item[field])+'</p>'));
+  assert.ok(matches[0].includes('情報確認日：'+item.checked));
+  assert.ok(matches[0].includes('<p class="discoveryPrice">料金条件は詳細へ</p>'));
+ }
+});
