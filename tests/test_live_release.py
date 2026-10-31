@@ -64,7 +64,7 @@ class LiveAuditTests(unittest.TestCase):
         self.output = self.root / "report.json"
         self.requests = []
 
-    def run_audit(self, changes=None, local_missing=None, bootstrap_error=None):
+    def run_audit(self, changes=None, local_missing=None, bootstrap_error=None, commit_error=None):
         changes = changes or {}
         requests = self.requests = []
         before = {path: (self.root / path).read_bytes() for path in self.files}
@@ -99,6 +99,8 @@ class LiveAuditTests(unittest.TestCase):
                     raise bootstrap_error
                 return json.dumps(self.catalog)
             self.assertEqual(arguments, ["git", "rev-parse", "HEAD"])
+            if commit_error:
+                raise commit_error
             return COMMIT + "\n"
 
         with mock.patch.object(urllib.request, "urlopen", side_effect=response), \
@@ -196,9 +198,15 @@ class LiveAuditTests(unittest.TestCase):
         self.assertFalse(self.output.exists())
         self.assertEqual(self.requests, [])
 
+    def test_commit_metadata_failure_after_checks_cannot_create_success_report(self):
+        with self.assertRaisesRegex(RuntimeError, "Fixture git metadata failure"):
+            self.run_audit(commit_error=RuntimeError("Fixture git metadata failure"))
+        self.assertCountEqual(self.requests, self.files)
+        self.assertFalse(self.output.exists())
+
 
 class RetryWorkflowTests(unittest.TestCase):
-    def run_retry(self, failures_before_success):
+    def run_retry(self, failures_before_success, early_failures=0):
         with tempfile.TemporaryDirectory() as temporary:
             root = pathlib.Path(temporary)
             python = root / "python3"
@@ -208,6 +216,7 @@ n=0
 test ! -f "$RUNNER_TEMP/count" || n=$(cat "$RUNNER_TEMP/count")
 n=$((n+1))
 printf '%s' "$n" > "$RUNNER_TEMP/count"
+if test "$n" -le "$FIXTURE_EARLY_FAILURES"; then exit 3; fi
 if test "$n" -le "$FIXTURE_FAILURES"; then ok=false; code=1; else ok=true; code=0; fi
 printf '{"attempt":%s,"passed":%s,"fixture":true}\\n' "$n" "$ok" > "$3"
 exit "$code"
@@ -217,12 +226,14 @@ exit "$code"
             sleep.write_text('#!/bin/sh\ntest "$1" = 15 || exit 98\nprintf "%s\\n" "$1" >> "$RUNNER_TEMP/sleeps"\n')
             sleep.chmod(0o755)
             env = {**os.environ, "PATH": str(root) + os.pathsep + os.defpath,
-                   "RUNNER_TEMP": str(root), "FIXTURE_FAILURES": str(failures_before_success)}
+                   "RUNNER_TEMP": str(root), "FIXTURE_FAILURES": str(failures_before_success),
+                   "FIXTURE_EARLY_FAILURES": str(early_failures)}
             result = subprocess.run(["bash", "-e", "-c", workflow_step("Wait for Pages and verify published files")],
                                     env=env, text=True, capture_output=True, timeout=10)
             count = int((root / "count").read_text())
             sleeps = (root / "sleeps").read_text().splitlines() if (root / "sleeps").exists() else []
-            report = json.loads((root / "guts-live-report.json").read_text())
+            path = root / "guts-live-report.json"
+            report = json.loads(path.read_text()) if path.exists() else None
             return result.returncode, count, sleeps, report
 
     def test_first_success_stops_immediately(self):
@@ -244,6 +255,16 @@ exit "$code"
         code, count, sleeps, report = self.run_retry(12)
         self.assertEqual((code, count, len(sleeps)), (1, 12, 11))
         self.assertEqual(report, {"attempt": 12, "passed": False, "fixture": True})
+
+    def test_failure_before_report_creation_can_recover_with_a_fresh_report(self):
+        code, count, sleeps, report = self.run_retry(2, early_failures=2)
+        self.assertEqual((code, count, len(sleeps)), (0, 3, 2))
+        self.assertEqual(report, {"attempt": 3, "passed": True, "fixture": True})
+
+    def test_permanent_pre_report_failure_cannot_pass_or_fabricate_artifact(self):
+        code, count, sleeps, report = self.run_retry(12, early_failures=12)
+        self.assertEqual((code, count, len(sleeps)), (1, 12, 11))
+        self.assertIsNone(report)
 
     def test_report_artifact_remains_always_with_original_retention(self):
         workflow = (ROOT / ".github/workflows/catalog-check.yml").read_text()
