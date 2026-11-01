@@ -177,3 +177,77 @@ test('Mizuno and Lotte qualified notes stay synchronized in crawlable static car
   assert.ok(matches[0].includes('<p class="discoveryPrice">料金条件は詳細へ</p>'));
  }
 });
+
+// Place search uses the same actual query normalization/filter/order code as the UI.
+// No network, DOM replacement, storage access or synthetic catalog values are used.
+const queryStart=app.indexOf("let q=$('#search').value.trim().toLowerCase()");
+assert.ok(queryStart>=0&&queryStart<start,'Locate actual search normalization');
+const searchBlock=app.slice(queryStart,end)+';this.result=arr;';
+const categoryNames=['すべて','クラブ','ボール','シューズ','グローブ','ウェア','ゴルフ場','練習場','ゴルフスクール',null,'バッグ・小物'];
+function searchSelection({query='',audience='men',cat=0,mode='all',area='',purpose='',budget='',saved=false,favorites=[],sort='edit'}={}){
+ const fields={search:query,area,purpose,budget:String(budget),sort,apparelType:'',apparelBrand:''};
+ const state={mode,cat,lesson:false,saved,audience};
+ const sandbox=vm.createContext({data:items,fav:[...favorites],cats:categoryNames,state,$:selector=>({value:fields[selector.slice(1)]??''})});
+ vm.runInContext(selection+'\n'+searchBlock,sandbox,{timeout:1000});
+ assert.deepEqual(state,{mode,cat,lesson:false,saved,audience},'Search must not reset current controls');
+ return [...sandbox.result];
+}
+const ids=rows=>Array.from(rows,d=>d.id).sort((a,b)=>a-b);
+const legacyTextMatch=(item,q)=>[item.name,item.brand,item.for,item.check,item.purpose,categoryNames[item.cat]].join(' ').toLowerCase().includes(q);
+test('place search includes every catalogued Tokyo and Chiba facility for both audiences',()=>{
+ for(const audience of ['men','women'])for(const area of ['東京','千葉']){
+  const expected=items.filter(d=>d.area===area);
+  assert.equal(expected.length,area==='東京'?18:12);
+  const result=searchSelection({query:area,audience,mode:'places'});
+  for(const item of expected)assert.ok(result.some(d=>d.id===item.id),area+' facility '+item.id);
+  assert.ok(result.every(d=>d.area===area||legacyTextMatch(d,area)),'Only area or existing text may match');
+ }
+});
+test('place search retains category and explicit area intersections',()=>{
+ for(const audience of ['men','women'])for(const cat of [6,7,8])for(const area of ['東京','千葉']){
+  const result=searchSelection({query:area,audience,cat,mode:'places',area});
+  assert.deepEqual(ids(result),ids(items.filter(d=>d.cat===cat&&d.area===area)));
+ }
+ const contradictory=searchSelection({query:'千葉',mode:'places',area:'東京'});
+ assert.ok(contradictory.every(d=>d.area==='東京'&&legacyTextMatch(d,'千葉')),'Query must not clear the explicit area');
+});
+test('place search preserves saved, purpose and budget filters instead of broadening them',()=>{
+ const favorites=[1027,1018,1190];
+ const saved=searchSelection({query:'東京',mode:'places',saved:true,favorites});
+ assert.deepEqual(ids(saved),[1018,1027]);
+ for(const purpose of ['はじめやすさ','性能を比較','デザイン','通いやすさ']){
+  const result=searchSelection({query:'東京',mode:'places',area:'東京',purpose});
+  assert.deepEqual(ids(result),ids(items.filter(d=>d.area==='東京'&&d.purpose===purpose)));
+ }
+ assert.equal(searchSelection({query:'東京',budget:100000}).length,0,'Unknown facility fees remain excluded by product budget');
+ assert.equal(searchSelection({query:'千葉',mode:'goods'}).length,0,'Area must not move a facility into goods');
+});
+test('existing product, brand, category and keyword matches remain unchanged',()=>{
+ for(const audience of ['men','women'])for(const query of ['Garmin','GOLFTEC','ゼクシオ','グローブ','デザイン','東京ベイ','通いやすさ ゴルフ場','通いやすさ 練習場','はじめやすさ ゴルフスクール']){
+  const q=query.toLowerCase();
+  const expected=items.filter(d=>(d.audience==='shared'||d.audience===audience)&&legacyTextMatch(d,q));
+  assert.deepEqual(ids(searchSelection({query,audience})),ids(expected),query+' / '+audience);
+ }
+ for(const query of ['東京','千葉']){
+  const result=searchSelection({query,mode:'places'});
+  const previous=items.filter(d=>d.cat>=6&&d.cat<=8&&legacyTextMatch(d,query));
+  for(const item of previous)assert.ok(result.some(d=>d.id===item.id),'Keep existing text match '+item.id);
+ }
+});
+test('actual search normalization still trims whitespace and ignores Latin case',()=>{
+ for(const [raw,normalized] of [['  東京  ','東京'],['　千葉　','千葉'],[' gArMiN ','garmin']]){
+  assert.deepEqual(ids(searchSelection({query:raw})),ids(searchSelection({query:normalized})));
+ }
+ assert.equal(searchSelection({query:'存在しない場所_QA_20261101'}).length,0);
+});
+test('empty search retains all audience candidates and unknown-price ordering',()=>{
+ for(const audience of ['men','women'])for(const sort of ['edit','low','high','name']){
+  const result=searchSelection({audience,sort});
+  assert.deepEqual(ids(result),ids(items.filter(d=>d.audience==='shared'||d.audience===audience)));
+  if(sort==='low'||sort==='high'){
+   const firstUnknown=result.findIndex(d=>d.price===null);
+   assert.ok(firstUnknown>=0);
+   assert.ok(result.slice(firstUnknown).every(d=>d.price===null));
+  }
+ }
+});
