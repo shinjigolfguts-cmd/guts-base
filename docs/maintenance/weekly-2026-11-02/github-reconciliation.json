@@ -1,0 +1,485 @@
+{
+  "githubHead": "60705f3",
+  "scope": "Previously published GitHub corrections integrated without changing IDs, images, audience or recommendation order",
+  "entries": [
+    {
+      "id": 1027,
+      "fields": [
+        "checked",
+        "fact",
+        "for",
+        "partialReview",
+        "recommendationReason",
+        "recommendationReviewed",
+        "specs"
+      ]
+    },
+    {
+      "id": 1016,
+      "fields": [
+        "checked",
+        "specs"
+      ]
+    },
+    {
+      "id": 1021,
+      "fields": [
+        "checked",
+        "partialReview",
+        "price",
+        "priceNote",
+        "source",
+        "specs",
+        "unit"
+      ]
+    },
+    {
+      "id": 1022,
+      "fields": [
+        "checked",
+        "partialReview",
+        "price",
+        "priceNote",
+        "unit"
+      ]
+    },
+    {
+      "id": 1031,
+      "fields": [
+        "partialReview",
+        "priceNote",
+        "specs"
+      ]
+    },
+    {
+      "id": 1023,
+      "fields": [
+        "checked",
+        "partialReview",
+        "price",
+        "priceNote",
+        "unit"
+      ]
+    },
+    {
+      "id": 2120,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 1045,
+      "fields": [
+        "partialReview",
+        "priceNote",
+        "specs"
+      ]
+    },
+    {
+      "id": 2008,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2108,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2103,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2137,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2105,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2113,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2129,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 1163,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 1235,
+      "fields": [
+        "checked",
+        "partialReview",
+        "price",
+        "priceNote",
+        "specs",
+        "unit"
+      ]
+    },
+    {
+      "id": 1236,
+      "fields": [
+        "checked",
+        "partialReview",
+        "price",
+        "priceNote",
+        "specs",
+        "unit"
+      ]
+    },
+    {
+      "id": 1237,
+      "fields": [
+        "check",
+        "checked",
+        "partialReview",
+        "price",
+        "priceNote",
+        "specs",
+        "unit"
+      ]
+    },
+    {
+      "id": 1242,
+      "fields": [
+        "check",
+        "checked",
+        "partialReview",
+        "price",
+        "priceNote",
+        "specs",
+        "unit"
+      ]
+    },
+    {
+      "id": 2102,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2138,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2117,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2119,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2106,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2109,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2124,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2104,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2045,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2100,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2126,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2133,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2127,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2047,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2112,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2101,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2107,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2110,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2116,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2128,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2148,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2122,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2114,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2029,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2121,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2118,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2146,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2144,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2115,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2031,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2140,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2141,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2136,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2130,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2147,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2111,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2143,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2131,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2123,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2149,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2125,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2150,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2135,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2151,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2142,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2132,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2152,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2154,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2134,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2153,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2145,
+      "fields": [
+        "name"
+      ]
+    },
+    {
+      "id": 2139,
+      "fields": [
+        "name"
+      ]
+    }
+  ]
+}
